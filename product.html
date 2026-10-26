@@ -381,6 +381,8 @@
 .pd-actions a{display:inline-block;padding:13px 34px;border-radius:50px;font-weight:600;font-size:15px;text-decoration:none}
 #pd-quote{background:#00c1c1;color:#fff}
 #pd-quote:hover{background:#f4a340;color:#fff}
+#pd-yt{background:#ff0000;color:#fff}
+#pd-yt:hover{background:#cc0000;color:#fff}
 #pd-wa{background:#25d366;color:#fff}
 #pd-wa:hover{background:#1da851;color:#fff}
 .pd-specs{margin-top:50px;border-top:1px solid #eef3f3;padding-top:30px}
@@ -458,6 +460,7 @@
               </div>
               <div class="pd-actions">
                 <a id="pd-quote" href="index.html#contact">Get a Quote</a>
+                <a id="pd-yt" href="#" target="_blank" rel="noopener" style="display:none;">&#9654; YouTube</a>
                 <a id="pd-wa" href="#" target="_blank" rel="noopener">WhatsApp</a>
               </div>
             </div>
@@ -572,6 +575,11 @@
         document.getElementById('bc-model').textContent = p.model || '';
 
         var wa = document.getElementById('pd-wa');
+        var yt = document.getElementById('pd-yt');
+        if (yt) {
+          if (p.youtube) { yt.href = p.youtube; yt.style.display = 'inline-block'; }
+          else { yt.style.display = 'none'; }
+        }
         var qty = document.getElementById('pd-qty');
         function waHref(){
           var q = qty.value || 1;
