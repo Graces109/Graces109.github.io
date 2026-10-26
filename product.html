@@ -397,7 +397,14 @@
 #pd-lightbox .lb-close:hover{opacity:1}
 @media (max-width:992px){.pd-info{margin-top:30px}.pd-gallery .pd-main{min-height:300px}.pd-gallery .pd-main img{max-height:300px}}
 .pd-gallery .pd-main{position:relative;cursor:zoom-in}
-.pd-gallery .pd-main:after{content:"⤢";position:absolute;right:12px;top:10px;background:rgba(15,61,61,.75);color:#fff;width:30px;height:30px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:14px}</style>
+.pd-gallery .pd-main:after{content:"⤢";position:absolute;right:12px;top:10px;background:rgba(15,61,61,.75);color:#fff;width:30px;height:30px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:14px}
+.quote-modal{border-radius:14px}
+.quote-modal .modal-title{color:#0f3d3d;font-weight:700}
+.quote-modal .form-label{font-weight:600;color:#0f3d3d;font-size:14px}
+.quote-modal input,.quote-modal textarea{border:1px solid #d8e6e6;border-radius:8px;font-size:14px}
+.quote-modal input:focus,.quote-modal textarea:focus{border-color:#00c1c1;box-shadow:0 0 0 .2rem rgba(0,193,193,.15)}
+.btn-send{background:#00c1c1;color:#fff;border:0;padding:11px 32px;border-radius:50px;font-weight:600;font-size:15px}
+.btn-send:hover{background:#f4a340;color:#fff}</style>
 </head><!-- ======= Header ======= -->
   <header id="header" class="fixed-top d-flex align-items-center header-inner-page">
     <div class="container d-flex align-items-center justify-content-between ">
@@ -465,7 +472,7 @@
                 <ul id="pd-highlights"></ul>
               </div>
               <div class="pd-actions">
-                <a id="pd-quote" href="index.html#contact">Get a Quote</a>
+                <a id="pd-quote" href="javascript:void(0)" onclick="document.getElementById('quoteModal') && bootstrap.Modal.getOrCreateInstance(document.getElementById('quoteModal')).show()">Get a Quote</a>
                 <a id="pd-yt" href="#" target="_blank" rel="noopener" style="display:none;">&#9654; YouTube</a>
                 <a id="pd-wa" href="#" target="_blank" rel="noopener">WhatsApp</a>
               </div>
@@ -558,6 +565,45 @@
     <img id="pd-lightbox-img" src="" alt="">
   </div>
 
+  <!-- Get a Quote Inquiry Modal -->
+  <div id="quoteModal" class="modal fade" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content quote-modal">
+        <div class="modal-header">
+          <h5 class="modal-title">Get a Quote</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <form action="https://formsubmit.co/grace@yuexin-light.com" method="POST">
+            <input type="hidden" name="_subject" id="q-subject">
+            <input type="hidden" name="_template" value="table">
+            <input type="hidden" name="_captcha" value="false">
+            <div class="mb-3">
+              <label class="form-label">Your Name *</label>
+              <input type="text" name="name" class="form-control" placeholder="Full name" required>
+            </div>
+            <div class="mb-3">
+              <label class="form-label">Your Email *</label>
+              <input type="email" name="email" class="form-control" placeholder="you@company.com" required>
+            </div>
+            <div class="mb-3">
+              <label class="form-label">Model</label>
+              <input type="text" name="model" id="q-model" class="form-control" readonly>
+            </div>
+            <div class="mb-3">
+              <label class="form-label">Your Inquiry *</label>
+              <textarea name="message" class="form-control" rows="4" placeholder="Quantity needed, target market, OEM requirements..." required></textarea>
+            </div>
+            <div class="text-end">
+              <button type="submit" class="btn-send">Send Inquiry</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- /Get a Quote Inquiry Modal -->
+
   <!-- Vendor JS Files -->
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
@@ -585,6 +631,10 @@
         document.getElementById('pd-app').textContent = p.application || 'Stage shows, concerts, theaters, night clubs, weddings and events.';
         document.getElementById('bc-cat').textContent = p.category || '';
         document.getElementById('bc-model').textContent = p.model || '';
+        var qModel = document.getElementById('q-model');
+        var qSub = document.getElementById('q-subject');
+        if (qModel) qModel.value = p.model || '';
+        if (qSub) qSub.value = 'Product Inquiry - ' + (p.model || '');
 
         var wa = document.getElementById('pd-wa');
         var yt = document.getElementById('pd-yt');
