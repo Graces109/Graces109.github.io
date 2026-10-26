@@ -1,0 +1,12 @@
+[
+  { "model": "YX-MH1940W", "name": "19×40W Bee Eye LED Moving Head", "img": "assets/img/products/yx-mh1940w.jpg" },
+  { "model": "YX-MH1915B", "name": "19×15W Large Bee Eye Moving Head (Baiqi)", "img": "assets/img/products/yx-mh1915b.jpg" },
+  { "model": "YX-MHQ1000", "name": "1000W Profile Spot (Cutting)", "img": "assets/img/products/yx-mhq1000.jpg" },
+  { "model": "YX-P5403Z", "name": "54×3W Waterproof LED Par", "img": "assets/img/products/yx-p5403z.jpg" },
+  { "model": "YX-6050D", "name": "3D Infinity Floor Tile", "img": "assets/img/products/yx-6050d.jpg" },
+  { "model": "YX-MH6AXYZ", "name": "6-Eye XYZ Laser Moving Head", "img": "assets/img/products/yx-mh6axyz.jpg" },
+  { "model": "LSD7", "name": "Stage Laser Light", "img": "assets/img/products/lsd7.jpg" },
+  { "model": "YX-FG600", "name": "600W Dual Haze Machine", "img": "assets/img/products/yx-fg600.jpg" },
+  { "model": "YX-PW200", "name": "200W LED Profile Light", "img": "assets/img/products/yx-pw200.jpg" },
+  { "model": "YX-BK01", "name": "Dark Horse DMX Console", "img": "assets/img/products/yx-bk01.jpg" }
+]
