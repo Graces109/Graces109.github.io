@@ -212,5 +212,51 @@
       ["N.W", "24KG"],
       ["Effects", "Bi-directional rotating front lens, digital wash-beam framing effect, beam edge softening, pixel patterning macros, 0-100% linear dimmer, adjustable strobe with blackout, CT emulation 2500-8000K, RGBW auto-tuning, tungsten lamp emulation, slow strobe 1/sec, fast strobe 25/sec"]
     ]
+  },
+  {
+    "model": "YX-MH3715",
+    "name": "37×15W LED Zoom Moving Head Light",
+    "img": "assets/img/products/yx-mh3715.jpg",
+    "images": [
+      "assets/img/products/yx-mh3715-1.jpg",
+      "assets/img/products/yx-mh3715-2.jpg",
+      "assets/img/products/yx-mh3715-3.jpg",
+      "assets/img/products/yx-mh3715-4.jpg"
+    ],
+    "category": "Moving Head Light",
+    "subcategory": "LED Moving Head Light",
+    "youtube": "https://youtu.be/FD1cJsY1HN0",
+    "application": "Stage shows, concerts, theaters, night clubs, DJ parties, weddings, corporate events.",
+    "quantity": "1 pc / carton (47×37×50cm)",
+    "highlights": [
+      "1pc YX-MH3715 is more powerful than 2pcs YX-MH1915!",
+      "Excellent color mixed effect! Valuable to invest and update!",
+      "37pcs × 15W Osram RGBW 4-in-1 LEDs, 100,000h lifespan",
+      "Color temperature 2700-8000K adjustable",
+      "Wash + Zoom 2-in-1 function, zoom angle 5°-40°",
+      "540° pan & 270° tilt, automatic accurate location",
+      "Multiple control modes: DMX512, Master-slave, Auto-run, Sound"
+    ],
+    "specs": [
+      ["Model", "YX-MH3715"],
+      ["Consumption Power", "600W"],
+      ["Voltage", "AC100-240V, 50/60Hz"],
+      ["Light Source", "37pcs × 15W Osram RGBW 4-in-1 LEDs"],
+      ["Lamp Lifespan", "100,000h"],
+      ["Color Temperature", "2700-8000K adjustable"],
+      ["Zoom Angle", "5°-40°"],
+      ["Color Mixing", "RGBW, lots of mixing colors"],
+      ["Strobe", "Several strobe modes, 32 times/sec"],
+      ["Display", "LCD, English & Chinese, simple display operation"],
+      ["DMX Channels", "24CH/36CH/48CH"],
+      ["Dimmer", "0-100% linear dimmer"],
+      ["Pan / Tilt", "540° / 270°, automatic accurate location"],
+      ["Function", "Wash + Zoom 2-in-1"],
+      ["Protection", "IP20, indoor use"],
+      ["Control Modes", "DMX512, Master-slave, Auto-run, Sound"],
+      ["Structure", "High temperature resistant & flame retardant engineering plastics + die-casting aluminum body"],
+      ["Packing Size", "47×37×50cm"],
+      ["G.W", "15.5KG"]
+    ]
   }
 ]
