@@ -3,6 +3,9 @@
     "model": "YX-MH1940W",
     "name": "19×40W Bee Eye LED Moving Head",
     "img": "assets/img/products/yx-mh1940w.jpg",
+    "category": "Moving Head Light",
+    "subcategory": "LED Moving Head Light",
+    "youtube": "https://youtu.be/vPbWYUetSv4",
     "specs": [
       ["Model", "YX-MH1940W"],
       ["Voltage", "AC100V-240V, 50/60Hz"],
@@ -22,13 +25,13 @@
       ["Carton", "53×42×51cm (1pc/ctn)"]
     ]
   },
-  { "model": "YX-MH1915B", "name": "19×15W Large Bee Eye Moving Head (Baiqi)", "img": "assets/img/products/yx-mh1915b.jpg" },
-  { "model": "YX-MHQ1000", "name": "1000W Profile Spot (Cutting)", "img": "assets/img/products/yx-mhq1000.jpg" },
-  { "model": "YX-P5403Z", "name": "54×3W Waterproof LED Par", "img": "assets/img/products/yx-p5403z.jpg" },
-  { "model": "YX-6050D", "name": "3D Infinity Floor Tile", "img": "assets/img/products/yx-6050d.jpg" },
-  { "model": "YX-MH6AXYZ", "name": "6-Eye XYZ Laser Moving Head", "img": "assets/img/products/yx-mh6axyz.jpg" },
-  { "model": "LSD7", "name": "Stage Laser Light", "img": "assets/img/products/lsd7.jpg" },
-  { "model": "YX-FG600", "name": "600W Dual Haze Machine", "img": "assets/img/products/yx-fg600.jpg" },
-  { "model": "YX-PW200", "name": "200W LED Profile Light", "img": "assets/img/products/yx-pw200.jpg" },
-  { "model": "YX-BK01", "name": "Dark Horse DMX Console", "img": "assets/img/products/yx-bk01.jpg" }
+  { "model": "YX-MH1915B", "name": "19×15W Large Bee Eye Moving Head (Baiqi)", "img": "assets/img/products/yx-mh1915b.jpg", "category": "Moving Head Light", "subcategory": "LED Moving Head Light" },
+  { "model": "YX-MHQ1000", "name": "1000W Profile Spot (Cutting)", "img": "assets/img/products/yx-mhq1000.jpg", "category": "Moving Head Light", "subcategory": "Profile Moving Head Light" },
+  { "model": "YX-P5403Z", "name": "54×3W Waterproof LED Par", "img": "assets/img/products/yx-p5403z.jpg", "category": "LED Wash Light", "subcategory": "LED Par Wash Light" },
+  { "model": "YX-6050D", "name": "3D Infinity Floor Tile", "img": "assets/img/products/yx-6050d.jpg", "category": "LED Effect Light", "subcategory": "LED Dance Floor Light" },
+  { "model": "YX-MH6AXYZ", "name": "6-Eye XYZ Laser Moving Head", "img": "assets/img/products/yx-mh6axyz.jpg", "category": "LED Laser Light", "subcategory": "Laser Moving Head Light" },
+  { "model": "LSD7", "name": "Stage Laser Light", "img": "assets/img/products/lsd7.jpg", "category": "LED Laser Light", "subcategory": "Laser Light" },
+  { "model": "YX-FG600", "name": "600W Dual Haze Machine", "img": "assets/img/products/yx-fg600.jpg", "category": "Fog Machine" },
+  { "model": "YX-PW200", "name": "200W LED Profile Light", "img": "assets/img/products/yx-pw200.jpg", "category": "LED Movies Light" },
+  { "model": "YX-BK01", "name": "Dark Horse DMX Console", "img": "assets/img/products/yx-bk01.jpg", "category": "DMX Console" }
 ]

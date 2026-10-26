@@ -256,7 +256,42 @@
       color: #00a6a6;
       font-weight: 600;
       font-size: 15px;
+      margin-bottom: 6px;
+    }
+    .product-modal .pm-cat {
+      color: #7a9494;
+      font-size: 13px;
+      margin-bottom: 8px;
+    }
+    .product-modal .btn-video {
+      display: inline-block;
+      background: #ff0000;
+      color: #fff;
+      border: 0;
+      padding: 8px 20px;
+      border-radius: 50px;
+      font-weight: 600;
+      font-size: 13px;
+      text-decoration: none;
       margin-bottom: 14px;
+    }
+    .product-modal .btn-video:hover {
+      background: #d40000;
+      color: #fff;
+    }
+    .ov-head .btn-all {
+      margin-left: 12px;
+      background: #0f3d3d;
+      color: #fff;
+      border: 0;
+      padding: 4px 16px;
+      border-radius: 30px;
+      font-size: 13px;
+      font-weight: 600;
+    }
+    .ov-head .btn-all:hover {
+      background: #00a6a6;
+      color: #fff;
     }
     .product-modal .pm-specs {
       list-style: none;
@@ -431,6 +466,7 @@
               <div class="ov-head">
                 <h3>Product Overview</h3>
                 <span class="ov-count" id="ov-count">Loading...</span>
+                <button class="btn-all" id="ov-all" style="display:none;">All Products</button>
               </div>
               <div id="product-grid" class="thumb-grid"><!-- rendered from products.json --></div>
             </div>
@@ -529,6 +565,8 @@
             <div class="pm-body">
               <h4 id="pm-name"></h4>
               <div class="pm-model" id="pm-model"></div>
+              <div class="pm-cat" id="pm-cat"></div>
+              <a class="btn-video" id="pm-youtube" href="#" target="_blank" rel="noopener" style="display:none;">&#9654; Watch Video</a>
               <ul class="pm-specs" id="pm-specs"></ul>
               <div class="pm-none" id="pm-none" style="display:none;">Full specifications available on request.</div>
               <a class="btn-view" id="pm-inquire" href="index.html#contact">Inquire Now</a>
@@ -555,7 +593,11 @@
     (function () {
       var grid = document.getElementById('product-grid');
       var count = document.getElementById('ov-count');
+      var btnAll = document.getElementById('ov-all');
       if (!grid) return;
+
+      var allList = [];
+      var sidebar = document.querySelector('.cat-sidebar ul');
 
       function openModal(p) {
         var m = document.getElementById('productModal');
@@ -564,6 +606,15 @@
         document.getElementById('pm-img').alt = p.model || '';
         document.getElementById('pm-name').textContent = p.name || '';
         document.getElementById('pm-model').textContent = p.model || '';
+        var catEl = document.getElementById('pm-cat');
+        catEl.textContent = (p.category || '') + (p.subcategory ? ' &gt; ' + p.subcategory : '');
+        var yt = document.getElementById('pm-youtube');
+        if (p.youtube) {
+          yt.href = p.youtube;
+          yt.style.display = 'inline-block';
+        } else {
+          yt.style.display = 'none';
+        }
         document.getElementById('pm-inquire').href = 'index.html#contact';
         var specs = document.getElementById('pm-specs');
         var none = document.getElementById('pm-none');
@@ -584,29 +635,66 @@
         modal.show();
       }
 
+      function render(list) {
+        grid.innerHTML = '';
+        if (count) count.textContent = list.length + ' models';
+        btnAll.style.display = (list.length < allList.length) ? 'inline-block' : 'none';
+        list.forEach(function (p) {
+          var a = document.createElement('a');
+          a.className = 'thumb-item';
+          a.href = 'javascript:void(0);';
+          a.addEventListener('click', function (e) { e.preventDefault(); openModal(p); });
+          var card = document.createElement('span'); card.className = 'th-card';
+          var imgw = document.createElement('span'); imgw.className = 'th-img';
+          var im = document.createElement('img');
+          im.src = p.img; im.alt = p.model || ''; im.loading = 'lazy';
+          imgw.appendChild(im);
+          var info = document.createElement('span'); info.className = 'th-info';
+          var nm = document.createElement('span'); nm.className = 'th-name';
+          nm.textContent = (p.model || '') + ' — ' + (p.name || '');
+          info.appendChild(nm);
+          card.appendChild(imgw); card.appendChild(info);
+          a.appendChild(card);
+          grid.appendChild(a);
+        });
+      }
+
+      function filterBy(text, isSub) {
+        if (!text) { render(allList); return; }
+        var list = allList.filter(function (p) {
+          return isSub ? (p.subcategory === text) : (p.category === text);
+        });
+        render(list);
+      }
+
+      if (sidebar) {
+        sidebar.addEventListener('click', function (e) {
+          var link = e.target.closest('a');
+          if (!link) return;
+          e.preventDefault();
+          var li = link.closest('li');
+          var isSub = li && li.classList.contains('l2');
+          var text = link.textContent.replace(/[\s\u00a0]+/g, ' ').trim();
+          filterBy(text, isSub);
+          sidebar.querySelectorAll('a').forEach(function (a) { a.classList.remove('active'); });
+          link.classList.add('active');
+          var ov = document.getElementById('products-overview');
+          if (ov) ov.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        });
+      }
+      if (btnAll) {
+        btnAll.addEventListener('click', function () {
+          render(allList);
+          if (sidebar) sidebar.querySelectorAll('a').forEach(function (a) { a.classList.remove('active'); });
+        });
+      }
+
       fetch('assets/data/products.json')
         .then(function (r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
         .then(function (list) {
           if (!Array.isArray(list) || list.length === 0) throw new Error('empty');
-          if (count) count.textContent = list.length + ' models';
-          list.forEach(function (p) {
-            var a = document.createElement('a');
-            a.className = 'thumb-item';
-            a.href = 'javascript:void(0);';
-            a.addEventListener('click', function (e) { e.preventDefault(); openModal(p); });
-            var card = document.createElement('span'); card.className = 'th-card';
-            var imgw = document.createElement('span'); imgw.className = 'th-img';
-            var im = document.createElement('img');
-            im.src = p.img; im.alt = p.model || ''; im.loading = 'lazy';
-            imgw.appendChild(im);
-            var info = document.createElement('span'); info.className = 'th-info';
-            var nm = document.createElement('span'); nm.className = 'th-name';
-            nm.textContent = (p.model || '') + ' — ' + (p.name || '');
-            info.appendChild(nm);
-            card.appendChild(imgw); card.appendChild(info);
-            a.appendChild(card);
-            grid.appendChild(a);
-          });
+          allList = list;
+          render(list);
         })
         .catch(function () {
           if (count) count.textContent = '0 models';
