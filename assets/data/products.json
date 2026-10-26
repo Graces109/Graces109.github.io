@@ -86,5 +86,50 @@
       ["N.W / G.W", "9.5kg / 11kg"],
       ["Carton", "43×31×41cm (1pc/ctn)"]
     ]
+  },
+  {
+    "model": "YX-MH1940D",
+    "name": "Mini K15-19x 40W Bee Eye Zoom Led Moving Head Light with led circle strip",
+    "img": "assets/img/products/yx-mh1940d.jpg",
+    "images": [
+      "assets/img/products/yx-mh1940d-1.jpg",
+      "assets/img/products/yx-mh1940d-2.jpg",
+      "assets/img/products/yx-mh1940d-3.jpg",
+      "assets/img/products/yx-mh1940d-4.jpg",
+      "assets/img/products/yx-mh1940d-5.jpg",
+      "assets/img/products/yx-mh1940d-6.jpg"
+    ],
+    "category": "Moving Head Light",
+    "subcategory": "LED Moving Head Light",
+    "application": "Stage shows, concerts, theaters, night clubs, DJ parties, weddings, corporate events.",
+    "quantity": "1 pc / carton (43×31×41cm)",
+    "highlights": [
+      "With LED circle strip - eye-catching ring effect around the lens",
+      "3rd generation design: 19x15W/25W/40W LED options for brightness enhancement",
+      "19x40W high power RGBW 4-in-1 LEDs for rich, smooth color mixing",
+      "Wide zoom 4°-60°: beam & wash effects in one fixture",
+      "540° pan & 270° tilt + 16bit fine control for precise movement",
+      "Clay Paky compatible channels & flexible DMX modes: 21/23/35/78/92/97/99CH",
+      "Compact mini body only 9.5kg & strong stability at a competitive price"
+    ],
+    "specs": [
+      ["Model", "YX-MH1940D"],
+      ["Voltage", "AC100V～240V 50-60Hz"],
+      ["Power", "600W"],
+      ["LED Source", "19x40W high power RGBW 4-in-1 LEDs"],
+      ["Zoom", "4°-60°"],
+      ["Strobe", "0-20Hz"],
+      ["Control Mode", "DMX512, Sound-activated, Master/slave"],
+      ["DMX Channels", "21/23/35/78/92/97/99CH"],
+      ["Dimmer", "0-100% linear dimmer"],
+      ["Pan / Tilt", "540° / 270° + 16bit fine"],
+      ["Display", "LCD colorful display"],
+      ["Protection", "IP20"],
+      ["CTO", "2500K-7500K"],
+      ["Artnet", "Optional"],
+      ["Dimension", "328×195×391mm"],
+      ["N.W / G.W", "9.5kg / 11kg"],
+      ["Carton", "43×31×41cm (1pc/ctn)"]
+    ]
   }
 ]
