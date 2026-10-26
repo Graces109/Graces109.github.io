@@ -130,5 +130,42 @@
       ["N.W / G.W", "9.5kg / 11kg"],
       ["Carton", "43×31×41cm (1pc/ctn)"]
     ]
+  },
+  {
+    "model": "YX-MH1940B",
+    "name": "19x40W Big Eyes Zoom Moving Head Light",
+    "img": "assets/img/products/yx-mh1940b.jpg",
+    "images": [
+      "assets/img/products/yx-mh1940b-1.jpg",
+      "assets/img/products/yx-mh1940b-2.jpg",
+      "assets/img/products/yx-mh1940b-3.jpg",
+      "assets/img/products/yx-mh1940b-4.jpg"
+    ],
+    "category": "Moving Head Light",
+    "subcategory": "LED Moving Head Light",
+    "youtube": "https://youtu.be/NdlGxCh55zQ",
+    "application": "Stage shows, concerts, theaters, night clubs, DJ parties, weddings, corporate events.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "19x40W high power RGBW 4-in-1 LEDs with single lamp bead point control",
+      "Wide zoom: dyeing, beam & effect modes (vortex, kaleidoscope)",
+      "Front mirror plate rotates in infinite direction",
+      "With CTO color temperature control",
+      "850W rated power, high brightness output",
+      "Flexible DMX modes: 21/23/35/78/92/97/99CH",
+      "Multiple control modes: DMX512 / Master-Slave / Auto run / Sound"
+    ],
+    "specs": [
+      ["Model", "YX-MH1940B"],
+      ["Product Name", "19x40W BEE EYE Rotating LED Moving Head"],
+      ["Input Voltage", "AC100-240V, 50/60Hz"],
+      ["Power Consumption", "850W"],
+      ["LED Solution", "19pcs × 40W point control"],
+      ["Color", "RGBW color mixing"],
+      ["DMX Channels", "21/23/35/78/92/97/99CH"],
+      ["Control Mode", "DMX512 / Master-Slave / Auto run / Sound"],
+      ["Strobe", "1-20 times/sec"],
+      ["Function & Effect", "CTO, dyeing, beam, effect mode (vortex, kaleidoscope), front mirror plate rotates infinitely, single lamp bead point control"]
+    ]
   }
 ]
