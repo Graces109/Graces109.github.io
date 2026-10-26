@@ -258,5 +258,47 @@
       ["Packing Size", "47×37×50cm"],
       ["G.W", "15.5KG"]
     ]
+  },
+  {
+    "model": "YX-MH1915B",
+    "name": "19x15W Large Bee Eye Moving Head Light (Claypaky Channel)",
+    "img": "assets/img/products/yx-mh1915b.jpg",
+    "images": [
+      "assets/img/products/yx-mh1915b-1.jpg",
+      "assets/img/products/yx-mh1915b-2.jpg",
+      "assets/img/products/yx-mh1915b-3.jpg",
+      "assets/img/products/yx-mh1915b-4.jpg"
+    ],
+    "category": "Moving Head Light",
+    "subcategory": "LED Moving Head Light",
+    "youtube": "https://youtu.be/rQJO0WC_cr0",
+    "application": "Stage shows, concerts, theaters, night clubs, DJ parties, weddings, corporate events.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "Small size, light weight, high brightness",
+      "Thick heat dissipating aluminum for long lifespan of light source",
+      "Price advantage - key value for bulk orders",
+      "19×15W RGBW 4-in-1 Crystal Xin LED beads",
+      "Dyeing, beam & effect modes (vortex, kaleidoscope); front mirror disc rotates infinitely",
+      "1:1 Claypaky channel: 21/23/35/78/92/97/99CH",
+      "540° pan & 180° tilt with automatic return function"
+    ],
+    "specs": [
+      ["Model", "YX-MH1915B"],
+      ["Input Voltage", "AC100-240V, 50/60Hz"],
+      ["Rated Power", "300W@220V"],
+      ["Number of Light Sources", "19"],
+      ["Light Source", "High brightness 15W RGBW 4-in-1 Crystal Xin LED beads"],
+      ["Power", "15W"],
+      ["Color", "RGBW"],
+      ["Dimming", "0-100% linear adjustment"],
+      ["Strobe", "Electronic flicker, 0.3-20 times/sec; pulse flicker"],
+      ["Control Module", "Single independent control"],
+      ["Rotation Angle", "540° horizontal / 180° vertical; automatic return function"],
+      ["Claypaky Channel", "21/23/35/78/92/97/99CH"],
+      ["Focusing Angle", "5°-55°"],
+      ["Function & Effect", "Dyeing, beam, effect modes (vortex, kaleidoscope), front mirror disc rotates infinitely"],
+      ["Shell & Protection", "High temperature resistant engineering plastic, IP20"]
+    ]
   }
 ]
