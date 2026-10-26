@@ -230,6 +230,85 @@
       color: #8aa0a0;
       font-size: 13px;
     }
+    /* Product detail modal */
+    .product-modal .pm-wrap {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0;
+    }
+    .product-modal .pm-img {
+      flex: 0 0 100%;
+      max-width: 100%;
+      padding: 0 0 18px;
+    }
+    .product-modal .pm-img img {
+      width: 100%;
+      border-radius: 10px;
+      background: #fff;
+    }
+    .product-modal .pm-body h4 {
+      font-size: 20px;
+      font-weight: 700;
+      color: #0f3d3d;
+      margin-bottom: 6px;
+    }
+    .product-modal .pm-body .pm-model {
+      color: #00a6a6;
+      font-weight: 600;
+      font-size: 15px;
+      margin-bottom: 14px;
+    }
+    .product-modal .pm-specs {
+      list-style: none;
+      padding: 0;
+      margin: 0 0 18px;
+      border-top: 1px solid #eef3f3;
+    }
+    .product-modal .pm-specs li {
+      display: flex;
+      padding: 8px 0;
+      border-bottom: 1px dashed #eef3f3;
+      font-size: 14px;
+    }
+    .product-modal .pm-specs li .k {
+      flex: 0 0 42%;
+      max-width: 42%;
+      font-weight: 600;
+      color: #0f3d3d;
+      padding-right: 10px;
+    }
+    .product-modal .pm-specs li .v {
+      flex: 1 1 auto;
+      color: #4e6b6b;
+    }
+    .product-modal .pm-none {
+      color: #8aa0a0;
+      font-size: 14px;
+      font-style: italic;
+      margin-bottom: 16px;
+    }
+    .product-modal .btn-view {
+      display: inline-block;
+      background: #00c1c1;
+      color: #fff;
+      border: 0;
+      padding: 11px 30px;
+      border-radius: 50px;
+      font-weight: 600;
+      font-size: 14px;
+      text-decoration: none;
+    }
+    .product-modal .btn-view:hover {
+      background: #f4a340;
+      color: #fff;
+    }
+    @media (min-width: 768px) {
+      .product-modal .pm-img {
+        flex: 0 0 40%;
+        max-width: 40%;
+        padding: 0 20px 0 0;
+      }
+    }
     @media (max-width: 992px) {
       .cat-sidebar {
         position: static;
@@ -436,6 +515,31 @@
 
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
+  <!-- Product Detail Modal -->
+  <div id="productModal" class="modal fade" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+      <div class="modal-content product-modal">
+        <div class="modal-header">
+          <h5 class="modal-title">Product Details</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="pm-wrap">
+            <div class="pm-img"><img id="pm-img" src="" alt=""></div>
+            <div class="pm-body">
+              <h4 id="pm-name"></h4>
+              <div class="pm-model" id="pm-model"></div>
+              <ul class="pm-specs" id="pm-specs"></ul>
+              <div class="pm-none" id="pm-none" style="display:none;">Full specifications available on request.</div>
+              <a class="btn-view" id="pm-inquire" href="index.html#contact">Inquire Now</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- /Product Detail Modal -->
+
   <!-- Vendor JS Files -->
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
@@ -452,6 +556,34 @@
       var grid = document.getElementById('product-grid');
       var count = document.getElementById('ov-count');
       if (!grid) return;
+
+      function openModal(p) {
+        var m = document.getElementById('productModal');
+        if (!m) return;
+        document.getElementById('pm-img').src = p.img;
+        document.getElementById('pm-img').alt = p.model || '';
+        document.getElementById('pm-name').textContent = p.name || '';
+        document.getElementById('pm-model').textContent = p.model || '';
+        document.getElementById('pm-inquire').href = 'index.html#contact';
+        var specs = document.getElementById('pm-specs');
+        var none = document.getElementById('pm-none');
+        specs.innerHTML = '';
+        if (p.specs && p.specs.length) {
+          none.style.display = 'none';
+          p.specs.forEach(function (row) {
+            var li = document.createElement('li');
+            var k = document.createElement('span'); k.className = 'k'; k.textContent = row[0] + ':';
+            var v = document.createElement('span'); v.className = 'v'; v.textContent = row[1];
+            li.appendChild(k); li.appendChild(v);
+            specs.appendChild(li);
+          });
+        } else {
+          none.style.display = 'block';
+        }
+        var modal = bootstrap.Modal.getOrCreateInstance(m);
+        modal.show();
+      }
+
       fetch('assets/data/products.json')
         .then(function (r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
         .then(function (list) {
@@ -460,7 +592,8 @@
           list.forEach(function (p) {
             var a = document.createElement('a');
             a.className = 'thumb-item';
-            a.href = 'index.html#contact';
+            a.href = 'javascript:void(0);';
+            a.addEventListener('click', function (e) { e.preventDefault(); openModal(p); });
             var card = document.createElement('span'); card.className = 'th-card';
             var imgw = document.createElement('span'); imgw.className = 'th-img';
             var im = document.createElement('img');

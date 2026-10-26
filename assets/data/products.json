@@ -1,5 +1,27 @@
 [
-  { "model": "YX-MH1940W", "name": "19×40W Bee Eye LED Moving Head", "img": "assets/img/products/yx-mh1940w.jpg" },
+  {
+    "model": "YX-MH1940W",
+    "name": "19×40W Bee Eye LED Moving Head",
+    "img": "assets/img/products/yx-mh1940w.jpg",
+    "specs": [
+      ["Model", "YX-MH1940W"],
+      ["Voltage", "AC100V-240V, 50/60Hz"],
+      ["Rated Power", "760W"],
+      ["LED Source", "19x40W high power RGBW 4-in-1 LEDs"],
+      ["Zoom", "4°-60°"],
+      ["Strobe", "0-20Hz"],
+      ["Control Mode", "DMX512, Sound-activated, Master/slave"],
+      ["DMX Channels", "24/26/38/81/95/100/102CH"],
+      ["Dimmer", "0-100% linear dimmer"],
+      ["Pan / Tilt", "540° / 270° + 16bit fine"],
+      ["Display", "LCD colorful display"],
+      ["Battery", "Rechargeable battery (optional)"],
+      ["Protection", "IP20"],
+      ["Dimension", "415×275×425mm"],
+      ["N.W / G.W", "16.95 kg / 20.1 kg"],
+      ["Carton", "53×42×51cm (1pc/ctn)"]
+    ]
+  },
   { "model": "YX-MH1915B", "name": "19×15W Large Bee Eye Moving Head (Baiqi)", "img": "assets/img/products/yx-mh1915b.jpg" },
   { "model": "YX-MHQ1000", "name": "1000W Profile Spot (Cutting)", "img": "assets/img/products/yx-mhq1000.jpg" },
   { "model": "YX-P5403Z", "name": "54×3W Waterproof LED Par", "img": "assets/img/products/yx-p5403z.jpg" },
