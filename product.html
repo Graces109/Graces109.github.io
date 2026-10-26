@@ -718,7 +718,7 @@
             if (e.key === 'Escape' && lb.classList.contains('open')) closeLightbox();
           });
         }
-        main.src = imgs[0] || '';
+        main.src = p.img || imgs[0] || '';
         main.alt = p.model || '';
         main.addEventListener('click', function () { openLightbox(main.src); });
         thumbs.innerHTML = '';

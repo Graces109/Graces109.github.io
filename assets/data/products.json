@@ -167,5 +167,50 @@
       ["Strobe", "1-20 times/sec"],
       ["Function & Effect", "CTO, dyeing, beam, effect mode (vortex, kaleidoscope), front mirror plate rotates infinitely, single lamp bead point control"]
     ]
+  },
+  {
+    "model": "YX-MH3740",
+    "name": "37×40W LED Moving Wash Light",
+    "img": "assets/img/products/yx-mh3740.jpg",
+    "images": [
+      "assets/img/products/yx-mh3740-1.jpg",
+      "assets/img/products/yx-mh3740-2.jpg",
+      "assets/img/products/yx-mh3740-3.jpg",
+      "assets/img/products/yx-mh3740-4.jpg",
+      "assets/img/products/yx-mh3740-5.jpg",
+      "assets/img/products/yx-mh3740-6.jpg"
+    ],
+    "category": "Moving Head Light",
+    "subcategory": "LED Moving Head Light",
+    "youtube": "https://youtu.be/-JfoO3B2jp4",
+    "application": "Large outdoor stages, concerts, festivals, installations and venues demanding a robust, sealed wash fixture.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "Each LED can be controlled individually with unique honeycomb designed lens",
+      "Front lens rotates without limitation in forward & reverse direction for amazing effects",
+      "Can be used as beam, wash or effect light (Kaleido effects)",
+      "Extra LED ring for eye-candy effect with macro effect",
+      "Pure aluminum casting waterproof housing, suitable for all kinds of environment",
+      "37x40W RGBW LEDs, 50,000h average life, high brightness output",
+      "Versatile operating modes: wash, beam & FX (Kaleido effects)"
+    ],
+    "specs": [
+      ["Model", "YX-MH3740"],
+      ["Power Supply", "100-240V, 50/60Hz"],
+      ["Input Power", "750VA"],
+      ["Lamp Source", "37PCS RGBW LEDs"],
+      ["LED Nominal Wattage", "40W"],
+      ["LED Average Life", "50,000h"],
+      ["Zoom Range", "4°-60° Electronic Zoom"],
+      ["Control Channels", "22/36/111/148CH"],
+      ["Battery", "Support"],
+      ["Operating Modes", "wash, beam, FX (Kaleido effects)"],
+      ["DMX Protocol", "USITT DMX 512"],
+      ["Pan/Tilt Resolution", "16 bit"],
+      ["Dimmer Resolution", "16 bit"],
+      ["DMX Connection", "3 and 5 pole XLR input and output"],
+      ["N.W", "24KG"],
+      ["Effects", "Bi-directional rotating front lens, digital wash-beam framing effect, beam edge softening, pixel patterning macros, 0-100% linear dimmer, adjustable strobe with blackout, CT emulation 2500-8000K, RGBW auto-tuning, tungsten lamp emulation, slow strobe 1/sec, fast strobe 25/sec"]
+    ]
   }
 ]
