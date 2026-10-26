@@ -574,10 +574,11 @@
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body">
-          <form action="https://formsubmit.co/grace@yuexin-light.com" method="POST">
+          <form action="https://formsubmit.co/grace@yuexin-light.com" method="POST" onsubmit="return sendInquiry(this)">
             <input type="hidden" name="_subject" id="q-subject">
             <input type="hidden" name="_template" value="table">
             <input type="hidden" name="_captcha" value="false">
+            <input type="hidden" name="_next" id="q-next" value="https://www.yuexin-light.com/product.html">
             <div class="mb-3">
               <label class="form-label">Your Name *</label>
               <input type="text" name="name" class="form-control" placeholder="Full name" required>
@@ -616,6 +617,21 @@
 
   <!-- Load product detail from products.json -->
   <script>
+    // Global: open WhatsApp with the inquiry, then let the form also POST to FormSubmit as backup.
+    window.sendInquiry = function (form) {
+      var model = (form.model && form.model.value) || '';
+      var name = (form.name && form.name.value) || '';
+      var email = (form.email && form.email.value) || '';
+      var msg = (form.message && form.message.value) || '';
+      var lines = ['New Inquiry' + (model ? ' - ' + model : '')];
+      if (name) lines.push('Name: ' + name);
+      if (email) lines.push('Email: ' + email);
+      if (msg) lines.push('Inquiry: ' + msg);
+      var url = 'https://wa.me/8613427520701?text=' + encodeURIComponent(lines.join('\n'));
+      window.open(url, '_blank');
+      return true; // continue with FormSubmit POST
+    };
+
     (function () {
       var params = new URLSearchParams(window.location.search);
       var model = (params.get('model') || '').toUpperCase();
@@ -633,8 +649,10 @@
         document.getElementById('bc-model').textContent = p.model || '';
         var qModel = document.getElementById('q-model');
         var qSub = document.getElementById('q-subject');
+        var qNext = document.getElementById('q-next');
         if (qModel) qModel.value = p.model || '';
         if (qSub) qSub.value = 'Product Inquiry - ' + (p.model || '');
+        if (qNext) qNext.value = 'https://www.yuexin-light.com/product.html?model=' + encodeURIComponent(p.model || '');
 
         var wa = document.getElementById('pd-wa');
         var yt = document.getElementById('pd-yt');
