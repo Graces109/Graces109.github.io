@@ -390,6 +390,11 @@
 .pd-specs table{width:100%;border-collapse:collapse}
 .pd-specs td{border:1px solid #eef3f3;padding:10px 14px;font-size:14px}
 .pd-specs td:first-child{font-weight:600;color:#0f3d3d;background:#f7fbfb;width:30%}
+#pd-lightbox{display:none;position:fixed;inset:0;z-index:9999;background:rgba(0,0,0,.92);align-items:center;justify-content:center;padding:30px}
+#pd-lightbox.open{display:flex}
+#pd-lightbox img{max-width:94%;max-height:94%;object-fit:contain;border-radius:4px;box-shadow:0 10px 40px rgba(0,0,0,.6)}
+#pd-lightbox .lb-close{position:absolute;top:18px;right:26px;background:none;border:0;color:#fff;font-size:44px;line-height:1;cursor:pointer;opacity:.85}
+#pd-lightbox .lb-close:hover{opacity:1}
 @media (max-width:992px){.pd-info{margin-top:30px}.pd-gallery .pd-main{min-height:300px}.pd-gallery .pd-main img{max-height:300px}}</style>
 </head><!-- ======= Header ======= -->
   <header id="header" class="fixed-top d-flex align-items-center header-inner-page">
@@ -545,6 +550,12 @@
     </div>
   </footer><!-- End Footer -->  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
+  <!-- Image lightbox -->
+  <div id="pd-lightbox" aria-hidden="true">
+    <button type="button" class="lb-close" id="lb-close" aria-label="Close">&times;</button>
+    <img id="pd-lightbox-img" src="" alt="">
+  </div>
+
   <!-- Vendor JS Files -->
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
@@ -620,18 +631,36 @@
         var imgs = (p.images && p.images.length ? p.images : (p.img ? [p.img] : []));
         var main = document.getElementById('pd-main-img');
         var thumbs = document.getElementById('pd-thumbs');
+        var lb = document.getElementById('pd-lightbox');
+        var lbImg = document.getElementById('pd-lightbox-img');
+        function openLightbox(src) {
+          lbImg.src = src;
+          lb.classList.add('open');
+        }
+        function closeLightbox() {
+          lb.classList.remove('open');
+        }
+        if (lb) {
+          lb.addEventListener('click', function (e) {
+            if (e.target === lb || e.target === lbImg || e.target.id === 'lb-close') closeLightbox();
+          });
+          document.addEventListener('keydown', function (e) {
+            if (e.key === 'Escape' && lb.classList.contains('open')) closeLightbox();
+          });
+        }
         main.src = imgs[0] || '';
         main.alt = p.model || '';
         thumbs.innerHTML = '';
-        imgs.forEach(function(src, idx){
+        imgs.forEach(function (src, idx) {
           var t = document.createElement('img');
           t.src = src;
-          t.alt = p.model + ' view ' + (idx+1);
+          t.alt = p.model + ' view ' + (idx + 1);
           if (idx === 0) t.className = 'active';
-          t.addEventListener('click', function(){
+          t.addEventListener('click', function () {
             main.src = src;
-            thumbs.querySelectorAll('img').forEach(function(i){ i.classList.remove('active'); });
+            thumbs.querySelectorAll('img').forEach(function (i) { i.classList.remove('active'); });
             t.classList.add('active');
+            openLightbox(src);
           });
           thumbs.appendChild(t);
         });
