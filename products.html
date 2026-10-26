@@ -551,33 +551,6 @@
 
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
-  <!-- Product Detail Modal -->
-  <div id="productModal" class="modal fade" tabindex="-1" aria-hidden="true">
-    <div class="modal-dialog modal-lg modal-dialog-centered">
-      <div class="modal-content product-modal">
-        <div class="modal-header">
-          <h5 class="modal-title">Product Details</h5>
-          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-        </div>
-        <div class="modal-body">
-          <div class="pm-wrap">
-            <div class="pm-img"><img id="pm-img" src="" alt=""></div>
-            <div class="pm-body">
-              <h4 id="pm-name"></h4>
-              <div class="pm-model" id="pm-model"></div>
-              <div class="pm-cat" id="pm-cat"></div>
-              <a class="btn-video" id="pm-youtube" href="#" target="_blank" rel="noopener" style="display:none;">&#9654; Watch Video</a>
-              <ul class="pm-specs" id="pm-specs"></ul>
-              <div class="pm-none" id="pm-none" style="display:none;">Full specifications available on request.</div>
-              <a class="btn-view" id="pm-inquire" href="index.html#contact">Inquire Now</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- /Product Detail Modal -->
-
   <!-- Vendor JS Files -->
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
@@ -599,42 +572,6 @@
       var allList = [];
       var sidebar = document.querySelector('.cat-sidebar ul');
 
-      function openModal(p) {
-        var m = document.getElementById('productModal');
-        if (!m) return;
-        document.getElementById('pm-img').src = p.img;
-        document.getElementById('pm-img').alt = p.model || '';
-        document.getElementById('pm-name').textContent = p.name || '';
-        document.getElementById('pm-model').textContent = p.model || '';
-        var catEl = document.getElementById('pm-cat');
-        catEl.textContent = (p.category || '') + (p.subcategory ? ' &gt; ' + p.subcategory : '');
-        var yt = document.getElementById('pm-youtube');
-        if (p.youtube) {
-          yt.href = p.youtube;
-          yt.style.display = 'inline-block';
-        } else {
-          yt.style.display = 'none';
-        }
-        document.getElementById('pm-inquire').href = 'index.html#contact';
-        var specs = document.getElementById('pm-specs');
-        var none = document.getElementById('pm-none');
-        specs.innerHTML = '';
-        if (p.specs && p.specs.length) {
-          none.style.display = 'none';
-          p.specs.forEach(function (row) {
-            var li = document.createElement('li');
-            var k = document.createElement('span'); k.className = 'k'; k.textContent = row[0] + ':';
-            var v = document.createElement('span'); v.className = 'v'; v.textContent = row[1];
-            li.appendChild(k); li.appendChild(v);
-            specs.appendChild(li);
-          });
-        } else {
-          none.style.display = 'block';
-        }
-        var modal = bootstrap.Modal.getOrCreateInstance(m);
-        modal.show();
-      }
-
       function render(list) {
         grid.innerHTML = '';
         if (count) count.textContent = list.length + ' models';
@@ -642,8 +579,7 @@
         list.forEach(function (p) {
           var a = document.createElement('a');
           a.className = 'thumb-item';
-          a.href = 'javascript:void(0);';
-          a.addEventListener('click', function (e) { e.preventDefault(); openModal(p); });
+          a.href = 'product.html?model=' + encodeURIComponent(p.model || '');
           var card = document.createElement('span'); card.className = 'th-card';
           var imgw = document.createElement('span'); imgw.className = 'th-img';
           var im = document.createElement('img');

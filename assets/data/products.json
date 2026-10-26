@@ -3,9 +3,26 @@
     "model": "YX-MH1940W",
     "name": "19×40W Bee Eye LED Moving Head",
     "img": "assets/img/products/yx-mh1940w.jpg",
+    "images": [
+      "assets/img/products/yx-mh1940w-1.jpg",
+      "assets/img/products/yx-mh1940w-2.jpg",
+      "assets/img/products/yx-mh1940w-3.jpg",
+      "assets/img/products/yx-mh1940w-4.jpg"
+    ],
     "category": "Moving Head Light",
     "subcategory": "LED Moving Head Light",
     "youtube": "https://youtu.be/vPbWYUetSv4",
+    "application": "Stage shows, concerts, theaters, night clubs, DJ parties, weddings, corporate events.",
+    "quantity": "1 pc / carton (53×42×51cm)",
+    "highlights": [
+      "19x40W high power RGBW 4-in-1 LEDs for rich, smooth color mixing",
+      "Wide zoom 4°-60°: beam & wash effects in one fixture",
+      "High brightness, 760W rated power",
+      "540° pan & 270° tilt + 16bit fine control for precise movement",
+      "LCD colorful display & 0-100% linear dimmer",
+      "Flexible DMX modes: 24/26/38/81/95/100/102CH",
+      "Sound-activated & master/slave control modes"
+    ],
     "specs": [
       ["Model", "YX-MH1940W"],
       ["Voltage", "AC100V-240V, 50/60Hz"],
