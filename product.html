@@ -369,14 +369,15 @@
 .pd-thumbs img.active{border-color:#00c1c1}
 .pd-info h1{font-size:26px;font-weight:700;color:#0f3d3d}
 .pd-intro{color:#5c7474;font-size:15px;margin:10px 0 20px}
-.pd-keys{width:100%;border-collapse:collapse;margin-bottom:20px}
-.pd-keys td{border:1px solid #eef3f3;padding:10px 14px;font-size:14px;vertical-align:middle}
-.pd-keys td:first-child{font-weight:600;color:#0f3d3d;background:#f7fbfb;width:30%}
+.pd-keys{margin:0 0 22px;padding:0}
+.pk-row{display:flex;padding:11px 0;border-bottom:1px solid #edf3f3;font-size:14px;align-items:center}
+.pk-label{flex:0 0 26%;max-width:26%;font-weight:600;color:#0f3d3d;padding-right:12px}
+.pk-value{flex:1 1 auto;color:#4e6b6b}
 .pd-keys input{width:80px;border:1px solid #cfe0e0;border-radius:6px;padding:6px 8px}
 .pd-features h3,.pd-specs h2{font-size:18px;font-weight:700;color:#0f3d3d;margin-bottom:14px}
 .pd-features ul{margin:0;padding-left:0;list-style:none}
-.pd-features li{padding:7px 0 7px 26px;position:relative;font-size:14px;color:#4e6b6b}
-.pd-features li:before{content:"";position:absolute;left:0;top:11px;width:8px;height:8px;background:#00c1c1;border-radius:50%}
+.pd-features li{padding:8px 0 8px 30px;position:relative;font-size:14px;color:#4e6b6b;line-height:1.5}
+.pd-features li:before{content:"✓";position:absolute;left:0;top:8px;color:#0aa83b;font-weight:700;font-size:16px}
 .pd-actions{display:flex;gap:14px;margin-top:22px;flex-wrap:wrap}
 .pd-actions a{display:inline-block;padding:13px 34px;border-radius:50px;font-weight:600;font-size:15px;text-decoration:none}
 #pd-quote{background:#00c1c1;color:#fff}
@@ -446,14 +447,12 @@
             <div class="pd-info">
               <h1 id="pd-name"></h1>
               <p class="pd-intro" id="pd-intro"></p>
-              <table class="pd-keys">
-                <tbody>
-                  <tr><td>Model</td><td id="pd-model"></td></tr>
-                  <tr><td>Machine Type</td><td id="pd-type"></td></tr>
-                  <tr><td>Application</td><td id="pd-app"></td></tr>
-                  <tr><td>Quantity</td><td><input id="pd-qty" type="number" value="1" min="1"></td></tr>
-                </tbody>
-              </table>
+              <div class="pd-keys">
+                <div class="pk-row"><span class="pk-label">Model</span><span class="pk-value" id="pd-model"></span></div>
+                <div class="pk-row"><span class="pk-label">Machine Type</span><span class="pk-value" id="pd-type"></span></div>
+                <div class="pk-row"><span class="pk-label">Application</span><span class="pk-value" id="pd-app"></span></div>
+                <div class="pk-row"><span class="pk-label">Quantity</span><span class="pk-value"><input id="pd-qty" type="number" value="1" min="1"></span></div>
+              </div>
               <div class="pd-features">
                 <h3>Product Highlights</h3>
                 <ul id="pd-highlights"></ul>
