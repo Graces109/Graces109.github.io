@@ -204,6 +204,32 @@
       font-style: italic;
       padding: 6px 0 14px;
     }
+    .product-overview {
+      background: #fff;
+      border: 1px solid #e8f0f0;
+      border-radius: 14px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+      padding: 30px 30px 10px;
+    }
+    .product-overview .ov-head {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      border-bottom: 2px solid #e8f0f0;
+      padding-bottom: 12px;
+      margin-bottom: 22px;
+    }
+    .product-overview .ov-head h3 {
+      font-size: 22px;
+      font-weight: 700;
+      color: #0f3d3d;
+      margin: 0;
+    }
+    .product-overview .ov-head .ov-count {
+      color: #8aa0a0;
+      font-size: 13px;
+    }
     @media (max-width: 992px) {
       .cat-sidebar {
         position: static;
@@ -240,15 +266,15 @@
           <li><a class="nav-link scrollto" href="index.html#about">About</a></li>
           <li class="dropdown"><a href="products.html" class="active"><span>Products</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="#cat-moving-head">Moving Head Light</a></li>
-              <li><a href="#cat-led-wash">LED Wash Light</a></li>
-              <li><a href="#cat-led-effect">LED Effect Light</a></li>
-              <li><a href="#cat-led-laser">LED Laser Light</a></li>
-              <li><a href="#cat-fog">Fog Machine</a></li>
-              <li><a href="#cat-movies">LED Movies Light</a></li>
-              <li><a href="#cat-follow">Follow Spot Light</a></li>
-              <li><a href="#cat-console">DMX Console</a></li>
-              <li><a href="#cat-accessories">Accessories</a></li>
+              <li><a href="#products-overviewmoving-head">Moving Head Light</a></li>
+              <li><a href="#products-overviewled-wash">LED Wash Light</a></li>
+              <li><a href="#products-overviewled-effect">LED Effect Light</a></li>
+              <li><a href="#products-overviewled-laser">LED Laser Light</a></li>
+              <li><a href="#products-overviewfog">Fog Machine</a></li>
+              <li><a href="#products-overviewmovies">LED Movies Light</a></li>
+              <li><a href="#products-overviewfollow">Follow Spot Light</a></li>
+              <li><a href="#products-overviewconsole">DMX Console</a></li>
+              <li><a href="#products-overviewaccessories">Accessories</a></li>
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="index.html#services">Why Us</a></li>
@@ -280,287 +306,98 @@
             <aside class="cat-sidebar">
               <div class="cat-title">Product Categories</div>
               <ul>
-                <li class="l1"><a href="#cat-moving-head">Moving Head Light <i class="bi bi-chevron-right"></i></a>
+                <li class="l1"><a href="#products-overviewmoving-head">Moving Head Light <i class="bi bi-chevron-right"></i></a>
                   <ul>
-                    <li class="l2"><a href="#cat-moving-head">Outdoor Moving Head Light</a></li>
-                    <li class="l2"><a href="#cat-moving-head">Profile Moving Head Light</a></li>
-                    <li class="l2"><a href="#cat-moving-head">Beam Moving Head Light</a></li>
-                    <li class="l2"><a href="#cat-moving-head">LED Moving Head Light</a></li>
-                    <li class="l2"><a href="#cat-moving-head">LED Effect Moving Head Light</a></li>
+                    <li class="l2"><a href="#products-overviewmoving-head">Outdoor Moving Head Light</a></li>
+                    <li class="l2"><a href="#products-overviewmoving-head">Profile Moving Head Light</a></li>
+                    <li class="l2"><a href="#products-overviewmoving-head">Beam Moving Head Light</a></li>
+                    <li class="l2"><a href="#products-overviewmoving-head">LED Moving Head Light</a></li>
+                    <li class="l2"><a href="#products-overviewmoving-head">LED Effect Moving Head Light</a></li>
                   </ul>
                 </li>
-                <li class="l1"><a href="#cat-led-wash">LED Wash Light <i class="bi bi-chevron-right"></i></a>
+                <li class="l1"><a href="#products-overviewled-wash">LED Wash Light <i class="bi bi-chevron-right"></i></a>
                   <ul>
-                    <li class="l2"><a href="#cat-led-wash">Outdoor Wash Light</a></li>
-                    <li class="l2"><a href="#cat-led-wash">LED Par Wash Light</a></li>
-                    <li class="l2"><a href="#cat-led-wash">LED Wall Wash Light</a></li>
+                    <li class="l2"><a href="#products-overviewled-wash">Outdoor Wash Light</a></li>
+                    <li class="l2"><a href="#products-overviewled-wash">LED Par Wash Light</a></li>
+                    <li class="l2"><a href="#products-overviewled-wash">LED Wall Wash Light</a></li>
                   </ul>
                 </li>
-                <li class="l1"><a href="#cat-led-effect">LED Effect Light <i class="bi bi-chevron-right"></i></a>
+                <li class="l1"><a href="#products-overviewled-effect">LED Effect Light <i class="bi bi-chevron-right"></i></a>
                   <ul>
-                    <li class="l2"><a href="#cat-led-effect">LED Dance Floor Light</a></li>
-                    <li class="l2"><a href="#cat-led-effect">LED Strobe Light</a></li>
-                    <li class="l2"><a href="#cat-led-effect">LED Retro Light</a></li>
+                    <li class="l2"><a href="#products-overviewled-effect">LED Dance Floor Light</a></li>
+                    <li class="l2"><a href="#products-overviewled-effect">LED Strobe Light</a></li>
+                    <li class="l2"><a href="#products-overviewled-effect">LED Retro Light</a></li>
                   </ul>
                 </li>
-                <li class="l1"><a href="#cat-led-laser">LED Laser Light <i class="bi bi-chevron-right"></i></a>
+                <li class="l1"><a href="#products-overviewled-laser">LED Laser Light <i class="bi bi-chevron-right"></i></a>
                   <ul>
-                    <li class="l2"><a href="#cat-led-laser">Outdoor Laser Light</a></li>
-                    <li class="l2"><a href="#cat-led-laser">Laser Moving Head Light</a></li>
-                    <li class="l2"><a href="#cat-led-laser">Laser Light</a></li>
+                    <li class="l2"><a href="#products-overviewled-laser">Outdoor Laser Light</a></li>
+                    <li class="l2"><a href="#products-overviewled-laser">Laser Moving Head Light</a></li>
+                    <li class="l2"><a href="#products-overviewled-laser">Laser Light</a></li>
                   </ul>
                 </li>
-                <li class="l1"><a href="#cat-fog">Fog Machine <i class="bi bi-chevron-right"></i></a></li>
-                <li class="l1"><a href="#cat-movies">LED Movies Light <i class="bi bi-chevron-right"></i></a></li>
-                <li class="l1"><a href="#cat-follow">Follow Spot Light <i class="bi bi-chevron-right"></i></a></li>
-                <li class="l1"><a href="#cat-console">DMX Console <i class="bi bi-chevron-right"></i></a></li>
-                <li class="l1"><a href="#cat-accessories">Accessories <i class="bi bi-chevron-right"></i></a></li>
+                <li class="l1"><a href="#products-overviewfog">Fog Machine <i class="bi bi-chevron-right"></i></a></li>
+                <li class="l1"><a href="#products-overviewmovies">LED Movies Light <i class="bi bi-chevron-right"></i></a></li>
+                <li class="l1"><a href="#products-overviewfollow">Follow Spot Light <i class="bi bi-chevron-right"></i></a></li>
+                <li class="l1"><a href="#products-overviewconsole">DMX Console <i class="bi bi-chevron-right"></i></a></li>
+                <li class="l1"><a href="#products-overviewaccessories">Accessories <i class="bi bi-chevron-right"></i></a></li>
               </ul>
             </aside>
           </div>
 
-          <!-- ======= Right: Product Overview ======= -->
+                    <!-- ======= Right: Product Overview ======= -->
           <div class="col-lg-9">
 
-            <!-- Moving Head Light -->
-            <div id="cat-moving-head" class="cat-section">
-              <div class="cs-head">
-                <h3>Moving Head Light</h3>
-                <span class="cs-count">7 models</span>
-              </div>
-              <div class="cs-subs">
-                <span class="badge-cat">Outdoor</span>
-                <span class="badge-cat">Profile</span>
-                <span class="badge-cat">Beam</span>
-                <span class="badge-cat">LED</span>
-                <span class="badge-cat">LED Effect</span>
+            <div id="products-overview" class="product-overview">
+              <div class="ov-head">
+                <h3>Product Overview</h3>
+                <span class="ov-count">10 models</span>
               </div>
               <div class="thumb-grid">
-                <a class="thumb-item" href="index.html#contact">
-                  <span class="th-card">
-                    <span class="th-img"><img src="assets/img/portfolio/portfolio-2.jpg" alt="19x40W Bee Eye LED Moving Head"></span>
-                    <span class="th-info">
-                      <span class="th-name">19×40W Bee Eye LED Moving Head — YX-MH1940W</span>
-                      <span class="th-tag">LED Moving Head Light</span>
-                    </span>
-                  </span>
-                </a>
-                <a class="thumb-item" href="index.html#contact">
-                  <span class="th-card">
-                    <span class="th-img"><img src="assets/img/products/model-mh1915b.jpg" alt="19x15W Bee Eye Moving Head YX-MH1915B"></span>
-                    <span class="th-info">
-                      <span class="th-name">19×15W Large Bee Eye Moving Head (Baiqi) — YX-MH1915B</span>
-                      <span class="th-tag">LED Moving Head Light</span>
-                    </span>
-                  </span>
-                </a>
-                <a class="thumb-item" href="index.html#contact">
-                  <span class="th-card">
-                    <span class="th-img"><img src="assets/img/portfolio/portfolio-1.jpg" alt="1000W Profile Spot Moving Head"></span>
-                    <span class="th-info">
-                      <span class="th-name">1000W Profile Spot (Cutting) — YX-MHQ1000</span>
-                      <span class="th-tag">Profile Moving Head Light</span>
-                    </span>
-                  </span>
-                </a>
-                <div class="thumb-item">
-                  <div class="th-card">
-                    <div class="th-img" style="background:#f7fbfc;display:flex;align-items:center;justify-content:center;min-height:160px;color:#8aa0a0;font-size:13px;">More models<br>coming soon</div>
-                    <div class="th-info">
-                      <div class="th-name">Outdoor / Beam / LED Effect Moving Heads</div>
-                      <div class="th-tag">Coming soon</div>
-                    </div>
-                  </div>
-                </div>
+                <a class="thumb-item" href="index.html#contact"><span class="th-card">
+                  <span class="th-img"><img src="assets/img/portfolio/portfolio-2.jpg" alt="YX-MH1940W"></span>
+                  <span class="th-info"><span class="th-name">YX-MH1940W — 19×40W Bee Eye LED Moving Head</span></span>
+                </span></a>
+                <a class="thumb-item" href="index.html#contact"><span class="th-card">
+                  <span class="th-img"><img src="assets/img/products/model-mh1915b.jpg" alt="YX-MH1915B"></span>
+                  <span class="th-info"><span class="th-name">YX-MH1915B — 19×15W Large Bee Eye Moving Head</span></span>
+                </span></a>
+                <a class="thumb-item" href="index.html#contact"><span class="th-card">
+                  <span class="th-img"><img src="assets/img/portfolio/portfolio-1.jpg" alt="YX-MHQ1000"></span>
+                  <span class="th-info"><span class="th-name">YX-MHQ1000 — 1000W Profile Spot (Cutting)</span></span>
+                </span></a>
+                <a class="thumb-item" href="index.html#contact"><span class="th-card">
+                  <span class="th-img"><img src="assets/img/portfolio/portfolio-3.jpg" alt="YX-P5403Z"></span>
+                  <span class="th-info"><span class="th-name">YX-P5403Z — 54×3W Waterproof LED Par</span></span>
+                </span></a>
+                <a class="thumb-item" href="index.html#contact"><span class="th-card">
+                  <span class="th-img"><img src="assets/img/portfolio/portfolio-5.jpg" alt="YX-6050D"></span>
+                  <span class="th-info"><span class="th-name">YX-6050D — 3D Infinity Floor Tile</span></span>
+                </span></a>
+                <a class="thumb-item" href="index.html#contact"><span class="th-card">
+                  <span class="th-img"><img src="assets/img/portfolio/portfolio-6.jpg" alt="YX-MH6AXYZ"></span>
+                  <span class="th-info"><span class="th-name">YX-MH6AXYZ — 6-Eye XYZ Laser Moving Head</span></span>
+                </span></a>
+                <a class="thumb-item" href="index.html#contact"><span class="th-card">
+                  <span class="th-img"><img src="assets/img/portfolio/portfolio-4.jpg" alt="LSD7"></span>
+                  <span class="th-info"><span class="th-name">LSD7 — Stage Laser Light</span></span>
+                </span></a>
+                <a class="thumb-item" href="index.html#contact"><span class="th-card">
+                  <span class="th-img"><img src="assets/img/portfolio/portfolio-7.jpg" alt="YX-FG600"></span>
+                  <span class="th-info"><span class="th-name">YX-FG600 — 600W Dual Haze Machine</span></span>
+                </span></a>
+                <a class="thumb-item" href="index.html#contact"><span class="th-card">
+                  <span class="th-img"><img src="assets/img/portfolio/portfolio-9.jpg" alt="YX-PW200"></span>
+                  <span class="th-info"><span class="th-name">YX-PW200 — 200W LED Profile Light</span></span>
+                </span></a>
+                <a class="thumb-item" href="index.html#contact"><span class="th-card">
+                  <span class="th-img"><img src="assets/img/portfolio/portfolio-8.jpg" alt="YX-BK01"></span>
+                  <span class="th-info"><span class="th-name">YX-BK01 — Dark Horse DMX Console</span></span>
+                </span></a>
               </div>
-            </div>
-
-            <!-- LED Wash Light -->
-            <div id="cat-led-wash" class="cat-section">
-              <div class="cs-head">
-                <h3>LED Wash Light</h3>
-                <span class="cs-count">1 model</span>
-              </div>
-              <div class="cs-subs">
-                <span class="badge-cat">Outdoor</span>
-                <span class="badge-cat">LED Par</span>
-                <span class="badge-cat">LED Wall</span>
-              </div>
-              <div class="thumb-grid">
-                <a class="thumb-item" href="index.html#contact">
-                  <span class="th-card">
-                    <span class="th-img"><img src="assets/img/portfolio/portfolio-3.jpg" alt="54x3W Waterproof LED Par"></span>
-                    <span class="th-info">
-                      <span class="th-name">54×3W Waterproof LED Par — YX-P5403Z</span>
-                      <span class="th-tag">LED Par Wash Light</span>
-                    </span>
-                  </span>
-                </a>
-                <div class="thumb-item">
-                  <div class="th-card">
-                    <div class="th-img" style="background:#f7fbfc;display:flex;align-items:center;justify-content:center;min-height:160px;color:#8aa0a0;font-size:13px;">More models<br>coming soon</div>
-                    <div class="th-info">
-                      <div class="th-name">Outdoor / LED Wall Wash Lights</div>
-                      <div class="th-tag">Coming soon</div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <!-- LED Effect Light -->
-            <div id="cat-led-effect" class="cat-section">
-              <div class="cs-head">
-                <h3>LED Effect Light</h3>
-                <span class="cs-count">1 model</span>
-              </div>
-              <div class="cs-subs">
-                <span class="badge-cat">Dance Floor</span>
-                <span class="badge-cat">Strobe</span>
-                <span class="badge-cat">Retro</span>
-              </div>
-              <div class="thumb-grid">
-                <a class="thumb-item" href="index.html#contact">
-                  <span class="th-card">
-                    <span class="th-img"><img src="assets/img/portfolio/portfolio-5.jpg" alt="3D Infinity Floor Tile"></span>
-                    <span class="th-info">
-                      <span class="th-name">3D Infinity Floor Tile — YX-6050D</span>
-                      <span class="th-tag">LED Dance Floor Light</span>
-                    </span>
-                  </span>
-                </a>
-                <div class="thumb-item">
-                  <div class="th-card">
-                    <div class="th-img" style="background:#f7fbfc;display:flex;align-items:center;justify-content:center;min-height:160px;color:#8aa0a0;font-size:13px;">More models<br>coming soon</div>
-                    <div class="th-info">
-                      <div class="th-name">LED Strobe / LED Retro Lights</div>
-                      <div class="th-tag">Coming soon</div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <!-- LED Laser Light -->
-            <div id="cat-led-laser" class="cat-section">
-              <div class="cs-head">
-                <h3>LED Laser Light</h3>
-                <span class="cs-count">2 models</span>
-              </div>
-              <div class="cs-subs">
-                <span class="badge-cat">Outdoor</span>
-                <span class="badge-cat">Laser Moving Head</span>
-                <span class="badge-cat">Laser</span>
-              </div>
-              <div class="thumb-grid">
-                <a class="thumb-item" href="index.html#contact">
-                  <span class="th-card">
-                    <span class="th-img"><img src="assets/img/portfolio/portfolio-6.jpg" alt="6-Eye XYZ Laser Moving Head"></span>
-                    <span class="th-info">
-                      <span class="th-name">6-Eye XYZ Laser Moving Head — YX-MH6AXYZ</span>
-                      <span class="th-tag">Laser Moving Head Light</span>
-                    </span>
-                  </span>
-                </a>
-                <a class="thumb-item" href="index.html#contact">
-                  <span class="th-card">
-                    <span class="th-img"><img src="assets/img/portfolio/portfolio-4.jpg" alt="LSD7 Stage Laser Light"></span>
-                    <span class="th-info">
-                      <span class="th-name">LSD7 Stage Laser Light</span>
-                      <span class="th-tag">Laser Light</span>
-                    </span>
-                  </span>
-                </a>
-                <div class="thumb-item">
-                  <div class="th-card">
-                    <div class="th-img" style="background:#f7fbfc;display:flex;align-items:center;justify-content:center;min-height:160px;color:#8aa0a0;font-size:13px;">More models<br>coming soon</div>
-                    <div class="th-info">
-                      <div class="th-name">Outdoor Laser Lights</div>
-                      <div class="th-tag">Coming soon</div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <!-- Fog Machine -->
-            <div id="cat-fog" class="cat-section">
-              <div class="cs-head">
-                <h3>Fog Machine</h3>
-                <span class="cs-count">1 model</span>
-              </div>
-              <div class="thumb-grid">
-                <a class="thumb-item" href="index.html#contact">
-                  <span class="th-card">
-                    <span class="th-img"><img src="assets/img/portfolio/portfolio-7.jpg" alt="600W Dual Haze Machine"></span>
-                    <span class="th-info">
-                      <span class="th-name">600W Dual Haze Machine — YX-FG600</span>
-                      <span class="th-tag">Fog Machine</span>
-                    </span>
-                  </span>
-                </a>
-              </div>
-            </div>
-
-            <!-- LED Movies Light -->
-            <div id="cat-movies" class="cat-section">
-              <div class="cs-head">
-                <h3>LED Movies Light</h3>
-                <span class="cs-count">1 model</span>
-              </div>
-              <div class="thumb-grid">
-                <a class="thumb-item" href="index.html#contact">
-                  <span class="th-card">
-                    <span class="th-img"><img src="assets/img/portfolio/portfolio-9.jpg" alt="200W LED Profile Light"></span>
-                    <span class="th-info">
-                      <span class="th-name">200W LED Profile Light — YX-PW200</span>
-                      <span class="th-tag">LED Movies Light</span>
-                    </span>
-                  </span>
-                </a>
-              </div>
-            </div>
-
-            <!-- Follow Spot Light -->
-            <div id="cat-follow" class="cat-section">
-              <div class="cs-head">
-                <h3>Follow Spot Light</h3>
-                <span class="cs-count">0 models</span>
-              </div>
-              <p class="coming-soon">Follow spot models are being added — contact us for availability.</p>
-            </div>
-
-            <!-- DMX Console -->
-            <div id="cat-console" class="cat-section">
-              <div class="cs-head">
-                <h3>DMX Console</h3>
-                <span class="cs-count">1 model</span>
-              </div>
-              <div class="thumb-grid">
-                <a class="thumb-item" href="index.html#contact">
-                  <span class="th-card">
-                    <span class="th-img"><img src="assets/img/portfolio/portfolio-8.jpg" alt="Dark Horse DMX Console"></span>
-                    <span class="th-info">
-                      <span class="th-name">Dark Horse DMX Console — YX-BK01</span>
-                      <span class="th-tag">DMX Console</span>
-                    </span>
-                  </span>
-                </a>
-              </div>
-            </div>
-
-            <!-- Accessories -->
-            <div id="cat-accessories" class="cat-section">
-              <div class="cs-head">
-                <h3>Accessories</h3>
-                <span class="cs-count">0 models</span>
-              </div>
-              <p class="coming-soon">Accessories (clamps, cables, safety chains) are being added — contact us for availability.</p>
             </div>
 
           </div>
-        </div>
-      </div>
     </section>
 
   </main><!-- End #main -->
@@ -606,12 +443,12 @@
           <div class="col-lg-2 col-md-6 footer-links">
             <h4>Product Categories</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="products.html#cat-moving-head">Moving Head Light</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="products.html#cat-led-wash">LED Wash Light</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="products.html#cat-led-effect">LED Effect Light</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="products.html#cat-led-laser">LED Laser Light</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="products.html#cat-fog">Fog Machine</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="products.html#cat-accessories">Accessories</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="products.html#products-overviewmoving-head">Moving Head Light</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="products.html#products-overviewled-wash">LED Wash Light</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="products.html#products-overviewled-effect">LED Effect Light</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="products.html#products-overviewled-laser">LED Laser Light</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="products.html#products-overviewfog">Fog Machine</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="products.html#products-overviewaccessories">Accessories</a></li>
             </ul>
           </div>
 
