@@ -44,77 +44,101 @@
       margin: 0;
       opacity: 0.95;
     }
-    .product-cat {
-      padding: 70px 0;
-    }
-    .product-cat.alt {
+    .product-line-wrap {
+      padding: 70px 0 10px;
       background: #f7fbfc;
     }
-    .product-cat .cat-head img {
-      border-radius: 8px;
-      width: 100%;
-      box-shadow: 0 8px 25px rgba(0,0,0,0.12);
-    }
-    .product-cat .cat-head h3 {
-      font-size: 28px;
-      font-weight: 700;
-      margin-bottom: 14px;
-      color: #0f3d3d;
-    }
-    .product-cat .cat-head p {
-      color: #4e6b6b;
-      font-size: 15px;
-    }
-    .subcat-grid {
-      margin-top: 30px;
-    }
-    .subcat-item {
+    .product-line {
       background: #fff;
       border: 1px solid #e8f0f0;
-      border-left: 4px solid #00c1c1;
-      border-radius: 6px;
-      padding: 16px 18px;
-      margin-bottom: 20px;
+      border-radius: 14px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.06);
+      margin-bottom: 34px;
+      overflow: hidden;
+      display: flex;
+      flex-wrap: wrap;
       transition: all 0.3s;
-      min-height: 88px;
     }
-    .subcat-item:hover {
-      transform: translateY(-3px);
-      box-shadow: 0 8px 20px rgba(0,193,193,0.12);
-      border-left-color: #f4a340;
+    .product-line:hover {
+      box-shadow: 0 16px 40px rgba(0,193,193,0.14);
     }
-    .subcat-item h6 {
-      font-size: 16px;
-      font-weight: 600;
+    .product-line .pl-img {
+      flex: 0 0 100%;
+      max-width: 100%;
+    }
+    .product-line .pl-img img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      min-height: 240px;
+    }
+    .product-line .pl-body {
+      flex: 1 1 0%;
+      padding: 34px 38px;
+    }
+    .product-line .pl-body h3 {
+      font-size: 24px;
+      font-weight: 700;
       color: #0f3d3d;
-      margin-bottom: 5px;
+      margin-bottom: 8px;
     }
-    .subcat-item p {
-      font-size: 13px;
-      color: #6a8585;
-      margin: 0;
-    }
-    .product-cat .cat-title-num {
+    .product-line .pl-body .pl-num {
       color: #f4a340;
-      font-size: 15px;
+      font-size: 13px;
       font-weight: 600;
       letter-spacing: 1px;
       text-transform: uppercase;
       margin-bottom: 6px;
     }
-    .cat-cta {
-      margin-top: 26px;
+    .product-line .pl-body .pl-desc {
+      color: #4e6b6b;
+      font-size: 14px;
+      margin-bottom: 18px;
     }
-    .cat-cta .btn {
+    .product-line .pl-subs {
+      list-style: none;
+      padding: 0;
+      margin: 0 0 20px;
+      display: flex;
+      flex-wrap: wrap;
+    }
+    .product-line .pl-subs li {
+      flex: 0 0 50%;
+      max-width: 50%;
+      padding: 6px 10px 6px 0;
+      color: #0f3d3d;
+      font-size: 14px;
+      font-weight: 500;
+    }
+    .product-line .pl-subs li i {
+      color: #00c1c1;
+      margin-right: 7px;
+      font-style: normal;
+    }
+    .product-line .btn-view {
+      display: inline-block;
       background: #00c1c1;
       color: #fff;
       border: 0;
-      padding: 10px 26px;
+      padding: 11px 30px;
       border-radius: 50px;
-      font-weight: 500;
+      font-weight: 600;
+      font-size: 14px;
+      text-decoration: none;
+      transition: all 0.3s;
     }
-    .cat-cta .btn:hover {
+    .product-line .btn-view:hover {
       background: #f4a340;
+      color: #fff;
+    }
+    .product-line.only-line .pl-subs {
+      display: none;
+    }
+    @media (min-width: 992px) {
+      .product-line .pl-img {
+        flex: 0 0 36%;
+        max-width: 36%;
+      }
     }
   </style>
 </head>
@@ -166,248 +190,130 @@
 
   <main id="main">
 
-    <!-- ======= Moving Head Light ======= -->
-    <section id="moving-head" class="product-cat">
+    <section class="product-line-wrap">
       <div class="container">
-        <div class="cat-head row align-items-center">
-          <div class="col-lg-5">
-            <img src="assets/img/portfolio/portfolio-2.jpg" alt="Moving head lights">
-          </div>
-          <div class="col-lg-7 mt-4 mt-lg-0">
-            <div class="cat-title-num">01 · Category</div>
+
+        <!-- Moving Head Light -->
+        <div id="moving-head" class="product-line">
+          <div class="pl-img"><img src="assets/img/portfolio/portfolio-2.jpg" alt="Moving head lights"></div>
+          <div class="pl-body">
+            <div class="pl-num">01 · Moving Head Light</div>
             <h3>Moving Head Light</h3>
-            <p>High-output beam, spot, wash and hybrid moving heads for touring concerts, clubs, theaters and fixed installations. Built with efficient thermal management and reliable motors for long hours of continuous use.</p>
+            <p class="pl-desc">High-output beam, spot, wash and hybrid moving heads for touring concerts, clubs, theaters and fixed installations.</p>
+            <ul class="pl-subs">
+              <li><i class="bi bi-chevron-double-right"></i>Outdoor Moving Head Light</li>
+              <li><i class="bi bi-chevron-double-right"></i>Profile Moving Head Light</li>
+              <li><i class="bi bi-chevron-double-right"></i>Beam Moving Head Light</li>
+              <li><i class="bi bi-chevron-double-right"></i>LED Moving Head Light</li>
+              <li><i class="bi bi-chevron-double-right"></i>LED Effect Moving Head Light</li>
+            </ul>
+            <a class="btn-view" href="index.html#contact">View Products</a>
           </div>
         </div>
-        <div class="subcat-grid row">
-          <div class="col-lg-4 col-md-6">
-            <div class="subcat-item">
-              <h6>Outdoor Moving Head Light</h6>
-              <p>IP-rated moving heads for outdoor, rental and weather-exposed applications.</p>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="subcat-item">
-              <h6>Profile Moving Head Light</h6>
-              <p>Sharp framing / cutting profile spots for precise projection and theater work.</p>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="subcat-item">
-              <h6>Beam Moving Head Light</h6>
-              <p>Intense narrow-beam fixtures for dramatic beam arrays and aerial effects.</p>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="subcat-item">
-              <h6>LED Moving Head Light</h6>
-              <p>Energy-efficient LED beam / spot / wash moving heads with long lamp life.</p>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="subcat-item">
-              <h6>LED Effect Moving Head Light</h6>
-              <p>LED effect moving heads — bee-eyes, rings and multi-beam creative fixtures.</p>
-            </div>
-          </div>
-        </div>
-        <div class="cat-cta"><a href="index.html#contact" class="btn">Inquire About Moving Heads</a></div>
-      </div>
-    </section>
 
-    <!-- ======= LED Wash Light ======= -->
-    <section id="led-wash" class="product-cat alt">
-      <div class="container">
-        <div class="cat-head row align-items-center">
-          <div class="col-lg-5">
-            <img src="assets/img/portfolio/portfolio-3.jpg" alt="LED wash lights">
-          </div>
-          <div class="col-lg-7 mt-4 mt-lg-0">
-            <div class="cat-title-num">02 · Category</div>
+        <!-- LED Wash Light -->
+        <div id="led-wash" class="product-line">
+          <div class="pl-img"><img src="assets/img/portfolio/portfolio-3.jpg" alt="LED wash lights"></div>
+          <div class="pl-body">
+            <div class="pl-num">02 · LED Wash Light</div>
             <h3>LED Wash Light</h3>
-            <p>Wide, even color wash for stages, clubs, churches and architectural facades. From compact par cans to powerful outdoor wash fixtures.</p>
+            <p class="pl-desc">Wide, even color wash for stages, clubs, churches and architectural facades — from compact par cans to powerful outdoor wash fixtures.</p>
+            <ul class="pl-subs">
+              <li><i class="bi bi-chevron-double-right"></i>Outdoor Wash Light</li>
+              <li><i class="bi bi-chevron-double-right"></i>LED Par Wash Light</li>
+              <li><i class="bi bi-chevron-double-right"></i>LED Wall Wash Light</li>
+            </ul>
+            <a class="btn-view" href="index.html#contact">View Products</a>
           </div>
         </div>
-        <div class="subcat-grid row">
-          <div class="col-lg-4 col-md-6">
-            <div class="subcat-item">
-              <h6>Outdoor Wash Light</h6>
-              <p>Weatherproof LED wash fixtures for outdoor and architectural lighting.</p>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="subcat-item">
-              <h6>LED Par Wash Light</h6>
-              <p>Classic LED par cans in 3W, 10W and 12x15W configurations for flexible color wash.</p>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="subcat-item">
-              <h6>LED Wall Wash Light</h6>
-              <p>Linear wall washers to bathe walls, ceilings and surfaces in smooth color.</p>
-            </div>
-          </div>
-        </div>
-        <div class="cat-cta"><a href="index.html#contact" class="btn">Inquire About LED Wash Lights</a></div>
-      </div>
-    </section>
 
-    <!-- ======= LED Effect Light ======= -->
-    <section id="led-effect" class="product-cat">
-      <div class="container">
-        <div class="cat-head row align-items-center">
-          <div class="col-lg-5">
-            <img src="assets/img/portfolio/portfolio-5.jpg" alt="LED effect lights">
-          </div>
-          <div class="col-lg-7 mt-4 mt-lg-0">
-            <div class="cat-title-num">03 · Category</div>
+        <!-- LED Effect Light -->
+        <div id="led-effect" class="product-line">
+          <div class="pl-img"><img src="assets/img/portfolio/portfolio-5.jpg" alt="LED effect lights"></div>
+          <div class="pl-body">
+            <div class="pl-num">03 · LED Effect Light</div>
             <h3>LED Effect Light</h3>
-            <p>Eye-catching effect fixtures that add movement, color and energy to dance floors, stages and events.</p>
+            <p class="pl-desc">Eye-catching effect fixtures that add movement, color and energy to dance floors, stages and events.</p>
+            <ul class="pl-subs">
+              <li><i class="bi bi-chevron-double-right"></i>LED Dance Floor Light</li>
+              <li><i class="bi bi-chevron-double-right"></i>LED Strobe Light</li>
+              <li><i class="bi bi-chevron-double-right"></i>LED Retro Light</li>
+            </ul>
+            <a class="btn-view" href="index.html#contact">View Products</a>
           </div>
         </div>
-        <div class="subcat-grid row">
-          <div class="col-lg-4 col-md-6">
-            <div class="subcat-item">
-              <h6>LED Dance Floor Light</h6>
-              <p>Interactive LED dance floor tiles with dazzling patterns underfoot.</p>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="subcat-item">
-              <h6>LED Strobe Light</h6>
-              <p>Powerful LED strobes for high-impact flash and rhythm effects.</p>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="subcat-item">
-              <h6>LED Retro Light</h6>
-              <p>Retro / vintage-style LED effect fixtures with a modern twist.</p>
-            </div>
-          </div>
-        </div>
-        <div class="cat-cta"><a href="index.html#contact" class="btn">Inquire About LED Effect Lights</a></div>
-      </div>
-    </section>
 
-    <!-- ======= LED Laser Light ======= -->
-    <section id="led-laser" class="product-cat alt">
-      <div class="container">
-        <div class="cat-head row align-items-center">
-          <div class="col-lg-5">
-            <img src="assets/img/portfolio/portfolio-4.jpg" alt="Laser lights">
-          </div>
-          <div class="col-lg-7 mt-4 mt-lg-0">
-            <div class="cat-title-num">04 · Category</div>
+        <!-- LED Laser Light -->
+        <div id="led-laser" class="product-line">
+          <div class="pl-img"><img src="assets/img/portfolio/portfolio-4.jpg" alt="Laser lights"></div>
+          <div class="pl-body">
+            <div class="pl-num">04 · LED Laser Light</div>
             <h3>LED Laser Light</h3>
-            <p>Animation and laser fixtures that project spectacular beams and patterns — for clubs, concerts and outdoor spectacles.</p>
+            <p class="pl-desc">Animation and laser fixtures that project spectacular beams and patterns — for clubs, concerts and outdoor spectacles.</p>
+            <ul class="pl-subs">
+              <li><i class="bi bi-chevron-double-right"></i>Outdoor Laser Light</li>
+              <li><i class="bi bi-chevron-double-right"></i>Laser Moving Head Light</li>
+              <li><i class="bi bi-chevron-double-right"></i>Laser Light</li>
+            </ul>
+            <a class="btn-view" href="index.html#contact">View Products</a>
           </div>
         </div>
-        <div class="subcat-grid row">
-          <div class="col-lg-4 col-md-6">
-            <div class="subcat-item">
-              <h6>Outdoor Laser Light</h6>
-              <p>High-power weatherproof lasers for open-air shows and building projections.</p>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="subcat-item">
-              <h6>Laser Moving Head Light</h6>
-              <p>Laser moving heads that combine laser effects with pan / tilt motion.</p>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="subcat-item">
-              <h6>Laser Light</h6>
-              <p>Standalone laser units — from compact club lasers to large-format animation systems.</p>
-            </div>
-          </div>
-        </div>
-        <div class="cat-cta"><a href="index.html#contact" class="btn">Inquire About Laser Lights</a></div>
-      </div>
-    </section>
 
-    <!-- ======= Fog Machine ======= -->
-    <section id="fog-machine" class="product-cat">
-      <div class="container">
-        <div class="cat-head row align-items-center">
-          <div class="col-lg-5">
-            <img src="assets/img/portfolio/portfolio-7.jpg" alt="Fog machines">
-          </div>
-          <div class="col-lg-7 mt-4 mt-lg-0">
-            <div class="cat-title-num">05 · Category</div>
+        <!-- Fog Machine -->
+        <div id="fog-machine" class="product-line only-line">
+          <div class="pl-img"><img src="assets/img/portfolio/portfolio-7.jpg" alt="Fog machines"></div>
+          <div class="pl-body">
+            <div class="pl-num">05 · Fog Machine</div>
             <h3>Fog Machine</h3>
-            <p>Fog, haze and special-effect machines that make light beams visible and add depth to any show. Models for every stage size.</p>
+            <p class="pl-desc">Fog, haze and special-effect machines that make light beams visible and add depth to any show — models for every stage size.</p>
+            <a class="btn-view" href="index.html#contact">View Products</a>
           </div>
         </div>
-        <div class="cat-cta"><a href="index.html#contact" class="btn">Inquire About Fog Machines</a></div>
-      </div>
-    </section>
 
-    <!-- ======= LED Movies Light ======= -->
-    <section id="led-movies" class="product-cat alt">
-      <div class="container">
-        <div class="cat-head row align-items-center">
-          <div class="col-lg-5">
-            <img src="assets/img/portfolio/portfolio-9.jpg" alt="LED movies light">
-          </div>
-          <div class="col-lg-7 mt-4 mt-lg-0">
-            <div class="cat-title-num">06 · Category</div>
+        <!-- LED Movies Light -->
+        <div id="led-movies" class="product-line only-line">
+          <div class="pl-img"><img src="assets/img/portfolio/portfolio-9.jpg" alt="LED movies light"></div>
+          <div class="pl-body">
+            <div class="pl-num">06 · LED Movies Light</div>
             <h3>LED Movies Light</h3>
-            <p>Professional LED fixtures for film, TV and studio production — accurate color rendering, silent operation and flicker-free output.</p>
+            <p class="pl-desc">Professional LED fixtures for film, TV and studio production — accurate color rendering, silent operation and flicker-free output.</p>
+            <a class="btn-view" href="index.html#contact">View Products</a>
           </div>
         </div>
-        <div class="cat-cta"><a href="index.html#contact" class="btn">Inquire About LED Movies Lights</a></div>
-      </div>
-    </section>
 
-    <!-- ======= Follow Spot Light ======= -->
-    <section id="follow-spot" class="product-cat">
-      <div class="container">
-        <div class="cat-head row align-items-center">
-          <div class="col-lg-5">
-            <img src="assets/img/card-follow.jpg" alt="Follow spot lights">
-          </div>
-          <div class="col-lg-7 mt-4 mt-lg-0">
-            <div class="cat-title-num">07 · Category</div>
+        <!-- Follow Spot Light -->
+        <div id="follow-spot" class="product-line only-line">
+          <div class="pl-img"><img src="assets/img/card-follow.jpg" alt="Follow spot lights"></div>
+          <div class="pl-body">
+            <div class="pl-num">07 · Follow Spot Light</div>
             <h3>Follow Spot Light</h3>
-            <p>Manual and motorized follow spots that track performers across theaters, stages and live events.</p>
+            <p class="pl-desc">Manual and motorized follow spots that track performers across theaters, stages and live events.</p>
+            <a class="btn-view" href="index.html#contact">View Products</a>
           </div>
         </div>
-        <div class="cat-cta"><a href="index.html#contact" class="btn">Inquire About Follow Spots</a></div>
-      </div>
-    </section>
 
-    <!-- ======= DMX Console ======= -->
-    <section id="dmx-console" class="product-cat alt">
-      <div class="container">
-        <div class="cat-head row align-items-center">
-          <div class="col-lg-5">
-            <img src="assets/img/portfolio/portfolio-8.jpg" alt="DMX consoles">
-          </div>
-          <div class="col-lg-7 mt-4 mt-lg-0">
-            <div class="cat-title-num">08 · Category</div>
+        <!-- DMX Console -->
+        <div id="dmx-console" class="product-line only-line">
+          <div class="pl-img"><img src="assets/img/portfolio/portfolio-8.jpg" alt="DMX consoles"></div>
+          <div class="pl-body">
+            <div class="pl-num">08 · DMX Console</div>
             <h3>DMX Console</h3>
-            <p>DMX controllers and consoles to program, run and control your entire lighting rig — from compact controllers to professional consoles.</p>
+            <p class="pl-desc">DMX controllers and consoles to program, run and control your entire lighting rig — from compact controllers to professional consoles.</p>
+            <a class="btn-view" href="index.html#contact">View Products</a>
           </div>
         </div>
-        <div class="cat-cta"><a href="index.html#contact" class="btn">Inquire About DMX Consoles</a></div>
-      </div>
-    </section>
 
-    <!-- ======= Accessories ======= -->
-    <section id="accessories" class="product-cat">
-      <div class="container">
-        <div class="cat-head row align-items-center">
-          <div class="col-lg-5">
-            <img src="assets/img/card-accessory.jpg" alt="Lighting accessories">
-          </div>
-          <div class="col-lg-7 mt-4 mt-lg-0">
-            <div class="cat-title-num">09 · Category</div>
+        <!-- Accessories -->
+        <div id="accessories" class="product-line only-line">
+          <div class="pl-img"><img src="assets/img/card-accessory.jpg" alt="Lighting accessories"></div>
+          <div class="pl-body">
+            <div class="pl-num">09 · Accessories</div>
             <h3>Accessories</h3>
-            <p>Clamps, safety cables, DMX and power cables, power distribution and rigging accessories to complete every installation.</p>
+            <p class="pl-desc">Clamps, safety cables, DMX and power cables, power distribution and rigging accessories to complete every installation.</p>
+            <a class="btn-view" href="index.html#contact">View Products</a>
           </div>
         </div>
-        <div class="cat-cta"><a href="index.html#contact" class="btn">Inquire About Accessories</a></div>
+
       </div>
     </section>
 
