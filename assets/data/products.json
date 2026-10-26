@@ -300,5 +300,55 @@
       ["Function & Effect", "Dyeing, beam, effect modes (vortex, kaleidoscope), front mirror disc rotates infinitely"],
       ["Shell & Protection", "High temperature resistant engineering plastic, IP20"]
     ]
+  },
+  {
+    "model": "YX-MH1940R",
+    "name": "Mini 19x40W Outdoor Waterproof LED Wash Moving Head Light with LED Ring",
+    "img": "assets/img/products/yx-mh1940r.jpg",
+    "images": [
+      "assets/img/products/yx-mh1940r-1.jpg",
+      "assets/img/products/yx-mh1940r-2.jpg",
+      "assets/img/products/yx-mh1940r-3.jpg",
+      "assets/img/products/yx-mh1940r-4.jpg",
+      "assets/img/products/yx-mh1940r-5.jpg",
+      "assets/img/products/yx-mh1940r-6.jpg",
+      "assets/img/products/yx-mh1940r-7.jpg"
+    ],
+    "category": "Moving Head Light",
+    "subcategory": "Outdoor Moving Head Light",
+    "application": "Outdoor stages, concerts, festivals, large events, theme parks and installations exposed to rain, wind, sand, sea & extreme weather.",
+    "quantity": "1 pc / carton (428×352×519cm)",
+    "highlights": [
+      "Small body, explosive energy! Light enough to carry by hand, small to save space, bright to color the whole stage instantly",
+      "Outdoor weather-proof IP65, withstands 360° wave impact",
+      "19x40W RGBW 4-in-1 LEDs + 33x5V color-changing LED ring",
+      "4°-60° smooth & quiet linear motor zoom system",
+      "National standard lightweight die-casting aluminum body, no plastic, suits rainy, high altitude, sandy, seaside & extreme weather",
+      "Multiple channel modes: 22/30/54/58CH, DMX512 & RDM control",
+      "1.8\" TFT color LCD display with 180° flip, English/Chinese"
+    ],
+    "specs": [
+      ["Model", "YX-MH1940R"],
+      ["Light Source", "19pcs 40W RGBW 4-in-1 LEDs + 33pcs 5V color-changing LED beads"],
+      ["Color", "RGBW stepless color mixing, uniform, fine & saturated"],
+      ["Lamp Lifespan", "≥50,000h"],
+      ["Power", "800W"],
+      ["Input Voltage", "100-240V, 50/60Hz"],
+      ["Zoom Angle", "4°-60°, smooth & quiet linear motor driven zoom system"],
+      ["Optical System", "HD optical system with high temp resistant glass light guide column, fast smooth electric zoom, uniform soft wash & color mixing"],
+      ["Dimming", "0-100% linear dimming, built-in 6 static & dynamic macro effects with adjustable speed"],
+      ["Strobe", "1-25 times/sec high speed LED blackout/strobe, adjustable, multiple preset / random strobe / dimming pulse strobe"],
+      ["Control Channels", "22CH/30CH/54CH/58CH (4 channel modes)"],
+      ["Control Mode", "DMX512, RDM, Master/slave, Sound-activated, Auto-run"],
+      ["Display", "1.8\" TFT color LCD touch keys, 4 function keys, 180° LCD flip, 60s auto-off display, DMX signal indicator, English/Chinese"],
+      ["Housing", "National standard lightweight die-casting aluminum, no plastic, suitable for rainy, high altitude, sandy, seaside, cold & hot outdoor environments"],
+      ["Protection", "IP65, withstands 360° wave impact"],
+      ["Pan / Tilt", "540° / 270° (16bit precision scan)"],
+      ["Max Daisy-chain", "220V within 4 units / 20V within 2 units (2.5mm² cable)"],
+      ["Dimension", "328×252×419mm"],
+      ["N.W", "14kg"],
+      ["Packing Size", "428×352×519cm"],
+      ["G.W", "16.5kg"]
+    ]
   }
 ]
