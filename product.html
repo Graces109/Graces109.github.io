@@ -395,7 +395,9 @@
 #pd-lightbox img{max-width:94%;max-height:94%;object-fit:contain;border-radius:4px;box-shadow:0 10px 40px rgba(0,0,0,.6)}
 #pd-lightbox .lb-close{position:absolute;top:18px;right:26px;background:none;border:0;color:#fff;font-size:44px;line-height:1;cursor:pointer;opacity:.85}
 #pd-lightbox .lb-close:hover{opacity:1}
-@media (max-width:992px){.pd-info{margin-top:30px}.pd-gallery .pd-main{min-height:300px}.pd-gallery .pd-main img{max-height:300px}}</style>
+@media (max-width:992px){.pd-info{margin-top:30px}.pd-gallery .pd-main{min-height:300px}.pd-gallery .pd-main img{max-height:300px}}
+.pd-gallery .pd-main{position:relative;cursor:zoom-in}
+.pd-gallery .pd-main:after{content:"⤢";position:absolute;right:12px;top:10px;background:rgba(15,61,61,.75);color:#fff;width:30px;height:30px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:14px}</style>
 </head><!-- ======= Header ======= -->
   <header id="header" class="fixed-top d-flex align-items-center header-inner-page">
     <div class="container d-flex align-items-center justify-content-between ">
@@ -650,6 +652,7 @@
         }
         main.src = imgs[0] || '';
         main.alt = p.model || '';
+        main.addEventListener('click', function () { openLightbox(main.src); });
         thumbs.innerHTML = '';
         imgs.forEach(function (src, idx) {
           var t = document.createElement('img');
@@ -660,7 +663,6 @@
             main.src = src;
             thumbs.querySelectorAll('img').forEach(function (i) { i.classList.remove('active'); });
             t.classList.add('active');
-            openLightbox(src);
           });
           thumbs.appendChild(t);
         });
