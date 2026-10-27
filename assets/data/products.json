@@ -543,5 +543,56 @@
       ["Net Weight", "23 kgs"],
       ["Gross Weight", "27KG"]
     ]
+  },
+  {
+    "model": "YX-MH350P",
+    "name": "Mini Outdoor 350W Beam Moving Head Light IP65 Waterproof",
+    "img": "assets/img/products/yx-mh350p.jpg",
+    "images": [
+      "assets/img/products/yx-mh350p-1.jpg",
+      "assets/img/products/yx-mh350p-2.jpg",
+      "assets/img/products/yx-mh350p-3.jpg",
+      "assets/img/products/yx-mh350p-4.jpg",
+      "assets/img/products/yx-mh350p-5.jpg",
+      "assets/img/products/yx-mh350p-6.jpg",
+      "assets/img/products/yx-mh350p-7.jpg",
+      "assets/img/products/yx-mh350p-8.jpg"
+    ],
+    "category": "Moving Head Light",
+    "subcategory": "Outdoor Moving Head Light",
+    "youtube": "https://youtu.be/hob0PKIEcFw",
+    "application": "Outdoor stage lighting, concerts, music festivals, DJ parties, weddings, clubs, building projection and outdoor events in rain or harsh weather.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "Lightweight design - only 1/3 weight of traditional lighting, easy to transport, install & carry for flexible performances",
+      "Latest motherboard supports RDM & built-in multiple beam effect programs (single beam white/color slow swing, multiple beam color swing)",
+      "IP65 waterproof structure suitable for various outdoor environments",
+      "350W light source, 450W power, 1.8° beam angle, electronic linear HD dynamic focusing with glass optical lenses",
+      "13+1 colors + rainbow + atomization; 13 fixed patterns + 1 white; 8 / 8+16 foldable rotatable double prism with macros",
+      "540° pan / 270° tilt, fast & stable, intelligent photoelectric reset & pan/tilt lock for easy handling",
+      "Full die-casting + high-strength engineering nylon, UV/high-temp resistant, anti-aging & lightweight, CFD low-noise cooling"
+    ],
+    "specs": [
+      ["Model", "YX-MH350P"],
+      ["Voltage", "Wide voltage 110-240V, 50/60Hz"],
+      ["Light Source", "350W"],
+      ["Power", "450W"],
+      ["Color", "Color dial: 13+1 + rainbow effect + atomization function"],
+      ["Pattern", "Pattern disk: 13 fixed patterns + 1 white light"],
+      ["Focusing", "Electronic linear HD dynamic focusing with high-density glass optical lenses"],
+      ["Dimming", "0%-100% linear dimming curve"],
+      ["Beam Angle", "1.8°"],
+      ["Channels", "16/20 international standard DMX512 channels"],
+      ["XY Motor", "Three electric drive, powerful, faster, more stable & quieter"],
+      ["Control Mode", "DMX512, self-propelled, master-slave"],
+      ["Double Prism", "8 prisms / 8+16 prisms stacked & rotatable, macro function"],
+      ["Display", "LCD display adapts to different installation positions"],
+      ["Pan / Tilt", "540° horizontal / 270° vertical, fast & stable; intelligent photoelectric reset & correction; pan/tilt lock button"],
+      ["Cooling System", "CFD-analyzed heat flow, low-noise heat dissipation, excellent fan drive with extremely low noise"],
+      ["Waterproof Grade", "IP65"],
+      ["Net Weight", "19.5kg"],
+      ["Dimensions", "353×355×570mm"],
+      ["Appearance", "Full die-casting + high-strength engineering nylon plastic, UV resistant, high temp resistant, anti-aging, lightweight; wind direction drainage & temperature intelligent monitoring technology for fast heat dissipation"]
+    ]
   }
 ]
