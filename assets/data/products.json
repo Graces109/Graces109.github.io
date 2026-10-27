@@ -1929,5 +1929,52 @@
       ["Connection Method", "DMX512 input/output, power input/output"],
       ["IP Rating", "IP20"]
     ]
+  },
+  {
+    "model": "YX-P1915Z",
+    "name": "19×15W Zoom Wash LED Par Light with Ring",
+    "img": "assets/img/products/yx-p1915z.jpg",
+    "images": [
+      "assets/img/products/yx-p1915z-1.jpg",
+      "assets/img/products/yx-p1915z-2.jpg",
+      "assets/img/products/yx-p1915z-3.jpg",
+      "assets/img/products/yx-p1915z-4.jpg",
+      "assets/img/products/yx-p1915z-5.jpg",
+      "assets/img/products/yx-p1915z-6.jpg",
+      "assets/img/products/yx-p1915z-7.jpg",
+      "assets/img/products/yx-p1915z-8.jpg"
+    ],
+    "category": "LED Wash Light",
+    "subcategory": "LED Par Wash Light",
+    "youtube": "https://youtu.be/DMlofzevLiQ",
+    "application": "Stage, bar, KTV, weddings, parties and architectural wash lighting requiring a compact zoom wash LED par with color ring effect.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "19× 15W OSRAM 4-in-1 LEDs with RGBW infinite color mixing",
+      "Unique circle control focusing function, free switching between wash and beam",
+      "Electronic dimming 0-100%, strobe 1-25 / 1-30 times per second",
+      "Zoom focus angle 10-40 degrees",
+      "DMX512 / master-slave / voice / self-propelled control",
+      "08 / 15 / 23 channel modes",
+      "Fire resistant body, IP20, compact size"
+    ],
+    "specs": [
+      ["Model", "YX-P1915Z"],
+      ["Voltage", "AC100V-240V, 50/60Hz"],
+      ["Power", "300W"],
+      ["Light Source", "19× 15W OSRAM LEDs (4-in-1) beads"],
+      ["Control", "DMX512 / master-slave / voice control / self-propelled"],
+      ["Channels", "08CH, 15CH, 23CH"],
+      ["Strobe", "1-25 times/second"],
+      ["Dimming", "Electronic dimming 0%-100%"],
+      ["Focusing Angle", "10-40 degrees"],
+      ["Color", "RGBW infinite color mixing system, uniform and bright colors"],
+      ["Features", "Unique circle control focusing function, free switching between dyeing and beam effects"],
+      ["Appearance", "Fire resistant fuel material"],
+      ["Strobe Speed", "1-30 times/second, fully linear dimming and variable flicker speed"],
+      ["Protection Level", "IP20"],
+      ["Product Size", "Height 28.5 (with handle 31) × Length 22 × Width 23cm"],
+      ["Net Weight", "4KG"]
+    ]
   }
 ]
