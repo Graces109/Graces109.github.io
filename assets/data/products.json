@@ -2934,5 +2934,46 @@
       ["Flash Frequency", "1-30Hz"],
       ["IP Level", "IP20"]
     ]
+  },
+  {
+    "model": "YX-RT6060",
+    "name": "6060 LED Bar Retro Background Light (Waterproof)",
+    "img": "assets/img/products/yx-rt6060.jpg",
+    "images": [
+      "assets/img/products/yx-rt6060-1.jpg",
+      "assets/img/products/yx-rt6060-2.jpg",
+      "assets/img/products/yx-rt6060-3.jpg",
+      "assets/img/products/yx-rt6060-4.jpg",
+      "assets/img/products/yx-rt6060-5.jpg",
+      "assets/img/products/yx-rt6060-6.jpg",
+      "assets/img/products/yx-rt6060-7.jpg"
+    ],
+    "category": "LED Effect Light",
+    "subcategory": "LED Retro Light",
+    "youtube": "https://youtu.be/9wAng9DpXj4",
+    "application": "Outdoor events, retro-themed stages, concerts, clubs and stage backgrounds needing a waterproof IP65 LED bar retro background light with gold COB and RGB auxiliary.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "6× 60W COB gold color + 120× 0.2W 5050RGB LED",
+      "LED bar retro background light, waterproof",
+      "DMX512 / auto / sound / master-slave, with RDM function",
+      "3-core XLR control interface (XLR-3P)",
+      "8/13 channel modes",
+      "Strobe speed 0-20 times/sec (adjustable)",
+      "Waterproof IP65, intelligent fan control, 50,000 hours light source life"
+    ],
+    "specs": [
+      ["Model", "YX-RT6060"],
+      ["Input Voltage", "AC100-230V, 50/60Hz"],
+      ["Rated Power", "450W"],
+      ["Light Source", "6pcs× 60W COB gold color, 120pcs× 0.2W 5050RGB LED"],
+      ["Light Source Life", "50,000 hours"],
+      ["Control Mode", "DMX512, auto, sound, master-slave, RDM function"],
+      ["Control Interface", "3-core XLR head (XLR-3P)"],
+      ["Channel Mode", "8/13 channels"],
+      ["Strobe Speed", "0-20 times/sec (speed adjustable)"],
+      ["Protection Level", "IP65"],
+      ["Cooling", "Fan intelligent control"]
+    ]
   }
 ]
