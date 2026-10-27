@@ -2241,5 +2241,51 @@
       ["Gross Weight", "4.45KG (1pc/ctn)"],
       ["Carton Packing", "79×54×41cm (6pcs/ctn)"]
     ]
+  },
+  {
+    "model": "YX-BP0615",
+    "name": "6×18W Battery Par Light",
+    "img": "assets/img/products/yx-bp0615.jpg",
+    "images": [
+      "assets/img/products/yx-bp0615-1.jpg",
+      "assets/img/products/yx-bp0615-2.jpg",
+      "assets/img/products/yx-bp0615-3.jpg",
+      "assets/img/products/yx-bp0615-4.jpg",
+      "assets/img/products/yx-bp0615-5.jpg",
+      "assets/img/products/yx-bp0615-6.jpg",
+      "assets/img/products/yx-bp0615-7.jpg"
+    ],
+    "category": "LED Wash Light",
+    "subcategory": "LED Par Wash Light",
+    "youtube": "https://youtu.be/LBivRBQznG8",
+    "application": "Mobile events, weddings, parties, bars and temporary stages where a wireless battery-powered par light with infrared remote control is needed.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "6× 15W high brightness 6-in-1 LEDs, 8800mAh rechargeable battery",
+      "Cordless and wireless, 16.7 million color change",
+      "DMX512 / master-slave / auto / sound active / infrared control, optional phone App",
+      "6 / 10 channel modes, LED angle 25/40 degree",
+      "Auto modes: color change, color strobe, color dimmer, gradual / jump change",
+      "4-digit digital LED display",
+      "Compact & lightweight, 3.2kg net weight"
+    ],
+    "specs": [
+      ["Model", "YX-BP0615"],
+      ["Power Supply", "AC110V-250V"],
+      ["Frequency", "50-60Hz"],
+      ["Power Consumption", "75W"],
+      ["Light Source", "6pcs 15W high brightness 6-in-1 LEDs"],
+      ["Lamp Life", "6-10 ten thousand hours"],
+      ["LED Angle", "25 / 40 degree"],
+      ["Battery Capacity", "8800mAh"],
+      ["Color", "16.7 million kinds of color change"],
+      ["Control Channels", "6 / 10CH"],
+      ["Control Mode", "DMX512, master/slave, auto, sound active, infrared control, phone App (extra cost)"],
+      ["Automatic Model", "Color change, color strobe, color dimmer, color gradual change / color jump change"],
+      ["Operation Menu", "4-digit digital LED display"],
+      ["Packing Size", "138×145×184mm"],
+      ["Net Weight", "3.2kg"],
+      ["Gross Weight", "3.5kg"]
+    ]
   }
 ]
