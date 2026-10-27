@@ -2079,5 +2079,45 @@
       ["Packaging (1 pc)", "23×23×36cm, weight 4.25kg"],
       ["Packaging (4 pcs)", "49×49×38cm, weight 17kg"]
     ]
+  },
+  {
+    "model": "YX-P7020",
+    "name": "7×20W Waterproof LED Par Light Freely Splicable Housing",
+    "img": "assets/img/products/yx-p7020.jpg",
+    "images": [
+      "assets/img/products/yx-p7020-1.jpg",
+      "assets/img/products/yx-p7020-2.jpg",
+      "assets/img/products/yx-p7020-3.jpg",
+      "assets/img/products/yx-p7020-4.jpg",
+      "assets/img/products/yx-p7020-5.jpg",
+      "assets/img/products/yx-p7020-6.jpg",
+      "assets/img/products/yx-p7020-7.jpg",
+      "assets/img/products/yx-p7020-8.jpg",
+      "assets/img/products/yx-p7020-9.jpg",
+      "assets/img/products/yx-p7020-10.jpg"
+    ],
+    "category": "LED Wash Light",
+    "subcategory": "Outdoor Wash Light",
+    "youtube": "https://youtu.be/lVEKmkCjHMs",
+    "application": "Outdoor stages, concerts, architecture, parks, sports events and any wet environment needing waterproof, freely splicable LED par wash light modules.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "7× 20W Osram RGBWA+UV 6-in-1 LED light source",
+      "Freely splicable housing, IP65 waterproof, can be connected",
+      "32-bit 0-100% linear dimming",
+      "DMX512 / auto / sound / master-slave control, with RDM function",
+      "Working temperature -30°C to 50°C",
+      "Waterproof and outdoor rated"
+    ],
+    "specs": [
+      ["Model", "YX-P7020"],
+      ["Voltage", "AC100~220V, 50/60Hz"],
+      ["Power", "150W"],
+      ["Light Source", "Osram LED, 7 pcs 20W RGBWA+UV 6-in-1"],
+      ["Control Mode", "DMX512, auto, sound, master-slave, RDM function"],
+      ["Dimming", "32-bit 0-100% linear dimming"],
+      ["Working Temperature", "-30°C to 50°C"],
+      ["IP Level", "IP65, can be connected"]
+    ]
   }
 ]
