@@ -1661,5 +1661,54 @@
       ["Flash", "0-25 seconds (speed adjustable)"],
       ["Rotation Angle", "Y-axis infinite rotation"]
     ]
+  },
+  {
+    "model": "YX-MH6610",
+    "name": "6+6 Beam + Wash Effect Stage Light",
+    "img": "assets/img/products/yx-mh6610.jpg",
+    "images": [
+      "assets/img/products/yx-mh6610-1.jpg",
+      "assets/img/products/yx-mh6610-2.jpg",
+      "assets/img/products/yx-mh6610-3.jpg",
+      "assets/img/products/yx-mh6610-4.jpg",
+      "assets/img/products/yx-mh6610-5.jpg",
+      "assets/img/products/yx-mh6610-6.jpg",
+      "assets/img/products/yx-mh6610-7.jpg",
+      "assets/img/products/yx-mh6610-8.jpg",
+      "assets/img/products/yx-mh6610-9.jpg",
+      "assets/img/products/yx-mh6610-10.jpg"
+    ],
+    "category": "Moving Head Light",
+    "subcategory": "LED Effect Moving Head Light",
+    "youtube": "https://youtu.be/L0fu_-62V8o",
+    "application": "Stage bars, dining bars, home parties and various occasions to create romantic atmosphere with combined beam and wash color effects.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "6PCS 10W 4-in-1 LED + 150PCS 5050RGB 0.3W mixing color beads",
+      "Combined beam + wash color effects for a romantic atmosphere",
+      "Y-axis fine tuning accuracy 180°",
+      "8CH / 15CH / 35CH triple channel modes",
+      "DMX512, auto, sound activated & master-slave control",
+      "Strobe 1-30Hz, service life 50000H",
+      "Aluminum alloy + plastic shell, IP20, -20°C to 50°C"
+    ],
+    "specs": [
+      ["Model", "YX-MH6610"],
+      ["Voltage", "AC110V-240V, 50/60Hz"],
+      ["Rated Power", "120W"],
+      ["Light Source", "6PCS 10W 4-in-1 LED + 150PCS 5050RGB 0.3W mixing color beads"],
+      ["Lens Angle", "Y-axis fine tuning accuracy: 180°"],
+      ["Control Mode", "Self-propelled, sound activated control, master-slave, DMX"],
+      ["Control Channel", "8CH / 15CH / 35CH"],
+      ["Protocol", "Standard DMX512 protocol"],
+      ["Service Life", "50000H"],
+      ["Strobe", "1-30Hz"],
+      ["Data Connection", "Three-core XLR input/output"],
+      ["Display", "4-digit digital display"],
+      ["Protection Grade", "IP20"],
+      ["Working Environment", "-20°C to 50°C"],
+      ["Shell Color", "Black"],
+      ["Material", "Aluminum alloy + plastic shell"]
+    ]
   }
 ]
