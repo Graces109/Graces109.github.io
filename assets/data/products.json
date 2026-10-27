@@ -398,5 +398,52 @@
       ["N.W", "23.5kg"],
       ["G.W", "25.9kg"]
     ]
+  },
+  {
+    "model": "YX-MH0740P",
+    "name": "7x40W LED Zoom Wash Moving Head Light IP65",
+    "img": "assets/img/products/yx-mh0740p.jpg",
+    "images": [
+      "assets/img/products/yx-mh0740p-1.jpg",
+      "assets/img/products/yx-mh0740p-2.jpg",
+      "assets/img/products/yx-mh0740p-3.jpg",
+      "assets/img/products/yx-mh0740p-4.jpg"
+    ],
+    "category": "Moving Head Light",
+    "subcategory": "Outdoor Moving Head Light",
+    "youtube": "https://youtu.be/_sIXE0GHpaw",
+    "application": "Outdoor stages, concerts, festivals, theme parks and large events exposed to rain, wind and harsh weather.",
+    "quantity": "1 pc / carton (40×38×51cm)",
+    "highlights": [
+      "7x40W RGBW LEDs with 3°-60° zoom wash beam",
+      "540° pan & 230° tilt with 256 magnetic encoding precise positioning",
+      "IP65 waterproof for reliable outdoor use",
+      "Intelligent temperature control heat dissipation",
+      "Multiple operation modes: auto, sound, master-slave, DMX512",
+      "LCD touch display, standard DMX512 protocol",
+      "Compact & powerful 350W"
+    ],
+    "specs": [
+      ["Model", "YX-MH0740P"],
+      ["Input Voltage", "AC110-240V, 50/60Hz"],
+      ["Rated Power", "350W"],
+      ["Total Power", "260W"],
+      ["Light Source", "7x40W RGBW LEDs"],
+      ["Light Output Angle", "3°-60°"],
+      ["Strobe", "1-50Hz (1-13Hz selectable)"],
+      ["Average LED Life", "10,000h"],
+      ["Turntable", "360° rotation"],
+      ["X-axis (Pan)", "540°, precision 2.11°/step, fine-tuning 0.008"],
+      ["Y-axis (Tilt)", "230°, precision 1.05°/step, fine-tuning 0.004"],
+      ["Positioning", "256 magnetic encoding precise positioning"],
+      ["Heat Dissipation", "Intelligent temperature control"],
+      ["Operation Modes", "Self-propelled, voice control, master-slave, DMX"],
+      ["Control Channels", "23CH/35CH/51CH"],
+      ["Protocol", "Standard DMX512"],
+      ["Data Connection", "Three-core XLR input/output (up to 4 units can be connected)"],
+      ["Display", "LCD liquid crystal display touch button"],
+      ["Packing Size", "40×38×51cm"],
+      ["G.W", "14KG"]
+    ]
   }
 ]
