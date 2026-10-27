@@ -491,5 +491,57 @@
       ["Reset System", "Intelligent photoelectric reset correction system; if a mistake happens the light recovers and returns to original position; pan & tilt lock button for easy maintenance & carry"],
       ["Cooling System", "Low noise fan with excellent drive performance, heating flux analyzed & calculated by CFD software"]
     ]
+  },
+  {
+    "model": "YX-MH350W",
+    "name": "350W Beam Moving Head Light IP55 Waterproof Outdoor",
+    "img": "assets/img/products/yx-mh350w.jpg",
+    "images": [
+      "assets/img/products/yx-mh350w-1.jpg",
+      "assets/img/products/yx-mh350w-2.jpg",
+      "assets/img/products/yx-mh350w-3.jpg",
+      "assets/img/products/yx-mh350w-4.jpg",
+      "assets/img/products/yx-mh350w-5.jpg",
+      "assets/img/products/yx-mh350w-6.jpg"
+    ],
+    "category": "Moving Head Light",
+    "subcategory": "Outdoor Moving Head Light",
+    "youtube": "https://youtu.be/o5zEk4FOylo",
+    "application": "Outdoor stage lighting, concerts, music festivals, DJ parties, weddings, clubs, building projection and large outdoor events in rain or harsh weather.",
+    "quantity": "1 pc / carton (50×44×68cm)",
+    "highlights": [
+      "350W PHONIX beam lamp, 400W power supply - super bright narrow beam for concerts, DJ shows & weddings",
+      "IP55 waterproof rated - reliable outdoor beam for stage, event & building lighting in rain",
+      "13 colors + white color wheel with rainbow effect & half-color; 13 gobos + white + 3 glass gobos, dual side adjustable rotate",
+      "8+16 facet foldable prism with macros",
+      "540° pan & tilt with 16bit electric correction and built-in pan/tilt macros",
+      "0°-4° beam angle, 0-100% linear smooth zoom, motorized focus",
+      "16CH, mechanical dual shutter strobe, LCD display, 14 motors"
+    ],
+    "specs": [
+      ["Model", "YX-MH350W"],
+      ["Voltage", "100-240VAC, 50/60Hz"],
+      ["Power Supply", "400W"],
+      ["Lamp", "PHONIX 350W lamp"],
+      ["IP Rate", "IP55"],
+      ["Dimmer", "0-100% mechanical dimming"],
+      ["Strobe", "Mechanical dual shutter, adjustable speed strobe (0.5-9 times/sec)"],
+      ["Focus", "Motorized focus"],
+      ["Frost Effect", "Frost filter"],
+      ["Motor", "3-step motor"],
+      ["Pan / Tilt", "540° (16bit) / tilt (16bit) electric correction, built-in pan/tilt macros"],
+      ["Beam Angle", "0°-4°"],
+      ["Motor Quantity", "14 pieces motor"],
+      ["Colors", "1 color wheel, 13 colors + white, rainbow effect adjustable, half color adjustable"],
+      ["Gobos", "13 gobos + white + 3 glass gobos, dual side adjustable rotate"],
+      ["Prism", "8+16 facet prism with macros, 2 prisms can fold"],
+      ["Channels", "16CH"],
+      ["Display", "LCD display"],
+      ["Zoom", "0-100% linear smooth zoom, 0-100% linear free dimmer"],
+      ["Dimensions", "37×30×68cm"],
+      ["Package Dimensions", "50×44×68cm"],
+      ["Net Weight", "23 kgs"],
+      ["Gross Weight", "27KG"]
+    ]
   }
 ]
