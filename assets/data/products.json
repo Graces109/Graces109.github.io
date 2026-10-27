@@ -2766,5 +2766,46 @@
       ["Outer Carton Size", "64×57×39cm (2 in 1)"],
       ["Packaging Standard", "1 power line, 1 signal line, and 1 instruction manual"]
     ]
+  },
+  {
+    "model": "YX-EF760",
+    "name": "7×60W RGB LED Stage Effect Lighting Retro Hexagonal",
+    "img": "assets/img/products/yx-ef760.jpg",
+    "images": [
+      "assets/img/products/yx-ef760-1.jpg",
+      "assets/img/products/yx-ef760-2.jpg",
+      "assets/img/products/yx-ef760-3.jpg",
+      "assets/img/products/yx-ef760-4.jpg",
+      "assets/img/products/yx-ef760-5.jpg"
+    ],
+    "category": "LED Effect Light",
+    "subcategory": "LED Retro Light",
+    "youtube": "https://youtu.be/o7XrQSDGtlw",
+    "application": "Clubs, bars, retro-themed stages, concerts and events needing a large-format 7×60W RGB retro hexagonal effect light with auxiliary LEDs.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "7× 60W RGB main lights in a large retro hexagonal layout",
+      "Auxiliary light: 168× 0.2W RGB + 1008× 0.2W RGB",
+      "DMX512 / self-propelled / voice control",
+      "21CH / 64CH channel modes",
+      "LED display panel",
+      "AC90V-240V 50/60Hz, 700W",
+      "N.W. 15.4kg, single package 83×82×21cm"
+    ],
+    "specs": [
+      ["Model", "YX-EF760"],
+      ["Voltage", "AC90V-240V"],
+      ["Frequency", "50Hz/60Hz"],
+      ["Power", "700W"],
+      ["Main Light", "7× 60W"],
+      ["Auxiliary Light 1", "168× 0.2W (RGB)"],
+      ["Auxiliary Light 2", "1008× 0.2W (RGB)"],
+      ["Control", "DMX512, self-propelled, voice controlled"],
+      ["Channel", "21CH / 64CH"],
+      ["Display", "LED"],
+      ["Product Size", "83.6×13.5×77cm"],
+      ["Single Package Size", "83×82×21cm"],
+      ["Net Weight", "15.4kg"]
+    ]
   }
 ]
