@@ -351,5 +351,52 @@
       ["Packing Size", "428×352×519cm"],
       ["G.W", "16.5kg"]
     ]
+  },
+  {
+    "model": "YX-MH1940Z",
+    "name": "Outdoor LED 19x40W Bee Eye Moving Head Light",
+    "img": "assets/img/products/yx-mh1940z.jpg",
+    "images": [
+      "assets/img/products/yx-mh1940z-1.jpg",
+      "assets/img/products/yx-mh1940z-2.jpg",
+      "assets/img/products/yx-mh1940z-3.jpg",
+      "assets/img/products/yx-mh1940z-4.jpg",
+      "assets/img/products/yx-mh1940z-5.jpg",
+      "assets/img/products/yx-mh1940z-6.jpg",
+      "assets/img/products/yx-mh1940z-7.jpg"
+    ],
+    "category": "Moving Head Light",
+    "subcategory": "Outdoor Moving Head Light",
+    "youtube": "https://youtu.be/wAaLDhex7A4",
+    "application": "Outdoor stages, concerts, festivals, theme parks, large events and installations exposed to rain, wind, sand, sea & extreme weather.",
+    "quantity": "1 pc / carton (60×39×50cm)",
+    "highlights": [
+      "All cast aluminum integrated chassis for maximum durability",
+      "High power 1000W output",
+      "Waterproof IP68, high safety for harsh outdoor environments",
+      "19x40W high power RGBW 4-in-1 LEDs",
+      "4°-60° electronic zoom, 0-20Hz strobe",
+      "540° pan & 270° tilt with 16bit fine movement",
+      "DMX512, sound-activated, master/slave control"
+    ],
+    "specs": [
+      ["Model", "YX-MH1940Z"],
+      ["Voltage", "AC100-240V, 50/60Hz"],
+      ["Power", "1000W"],
+      ["LED Source", "19x40W high power RGBW 4-in-1 LEDs"],
+      ["Chassis", "Full cast aluminum one-piece chassis"],
+      ["Zoom", "4°-60°"],
+      ["Strobe", "0-20Hz"],
+      ["Control Mode", "DMX512, Sound-activated, Master/slave"],
+      ["DMX Channels", "21CH/23CH/35CH/78CH/92CH/97CH/99CH"],
+      ["Dimmer", "0-100% linear dimmer"],
+      ["Pan / Tilt", "540° / 270° +16bit fine"],
+      ["Display", "LCD colorful display"],
+      ["IP", "IP68"],
+      ["Fixture Dimension", "37×25×52cm"],
+      ["Carton Package Size", "60×39×50cm (1pc/ctn)"],
+      ["N.W", "23.5kg"],
+      ["G.W", "25.9kg"]
+    ]
   }
 ]
