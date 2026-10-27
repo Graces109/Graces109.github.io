@@ -1579,5 +1579,50 @@
       ["Net Weight", "22.5KG"],
       ["Product Size", "38×27×65cm (L×W×H)"]
     ]
+  },
+  {
+    "model": "YX-MH0580",
+    "name": "5×80W LED Bar Moving Head Light with Beam & Auxiliary Light",
+    "img": "assets/img/products/yx-mh0580.jpg",
+    "images": [
+      "assets/img/products/yx-mh0580-1.jpg",
+      "assets/img/products/yx-mh0580-2.jpg",
+      "assets/img/products/yx-mh0580-3.jpg",
+      "assets/img/products/yx-mh0580-4.jpg",
+      "assets/img/products/yx-mh0580-5.jpg",
+      "assets/img/products/yx-mh0580-6.jpg"
+    ],
+    "category": "Moving Head Light",
+    "subcategory": "LED Effect Moving Head Light",
+    "youtube": "https://youtu.be/ybMTbYHz-RA",
+    "application": "Concerts, events, stages, DJ parties, weddings, TV studios and architectural lighting requiring versatile beam and auxiliary light effects from a compact LED bar moving head.",
+    "quantity": "1 pc / carton (95×34×19cm, net 9.85KG)",
+    "highlights": [
+      "5× 80W four-in-one Tianxin lamp beads + 6× 3W 3535 monochrome lamp beads",
+      "Y-shaking head + beam + auxiliary light combination",
+      "32-bit 0-100% linear dimming, strobe frequency 1-30Hz",
+      "DMX512, self-propelled, master-slave & voice control, with RDM function",
+      "Triple channel modes: 16CH / 27CH / 49CH",
+      "Metal black body, DMX & power in/out, IP20",
+      "Working temperature -30°C to 50°C"
+    ],
+    "specs": [
+      ["Model", "YX-MH0580"],
+      ["Voltage", "AC100~240V, 50/60Hz"],
+      ["Power", "500W"],
+      ["Lamp Beads", "5× 80W four-in-one Tianxin lamp beads + 6× 3W 3535 monochrome lamp beads"],
+      ["Control Mode", "DMX512, self-propelled, master-slave, voice control, with RDM function"],
+      ["Channels", "16CH, 27CH, 49CH"],
+      ["Dimming", "32-bit 0-100% linear dimming"],
+      ["Features", "Y-shaking head + beam + auxiliary light"],
+      ["Working Temperature", "-30°C to 50°C"],
+      ["Strobe Frequency", "1-30Hz"],
+      ["Appearance", "Metal, black"],
+      ["Connection Method", "DMX512 input/output, power input/output"],
+      ["IP Rating", "IP20"],
+      ["Product Size", "85×8.5×24.5cm"],
+      ["Packaging Size", "95×34×19cm"],
+      ["Net Weight", "9.85KG"]
+    ]
   }
 ]
