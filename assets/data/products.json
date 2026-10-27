@@ -1463,5 +1463,62 @@
       ["Gross Weight", "11KG"],
       ["Carton Size", "52×38×41cm"]
     ]
+  },
+  {
+    "model": "YX-MH295",
+    "name": "295W Beam Moving Head Light with Dual Prisms & Rainbow Effects",
+    "img": "assets/img/products/yx-mh295.jpg",
+    "images": [
+      "assets/img/products/yx-mh295-1.jpg",
+      "assets/img/products/yx-mh295-2.jpg",
+      "assets/img/products/yx-mh295-3.jpg",
+      "assets/img/products/yx-mh295-4.jpg",
+      "assets/img/products/yx-mh295-5.jpg",
+      "assets/img/products/yx-mh295-6.jpg",
+      "assets/img/products/yx-mh295-7.jpg"
+    ],
+    "category": "Moving Head Light",
+    "subcategory": "Beam Moving Head Light",
+    "youtube": "https://youtu.be/1bGV9hFJGRM",
+    "application": "Concerts, events, stages, DJ parties, weddings, TV studios and architectural lighting requiring sharp 0-4° beam effects with color, gobo and dual prism effects.",
+    "quantity": "1 pc / carton (51×37×40.5cm, gross 14KG)",
+    "highlights": [
+      "295W Kaiyuan lamp, 7950lm, 8500K, electronic inductive ballast",
+      "Dual prisms - 48 honeycomb prisms + 8 prisms, stackable with independent bidirectional rotation, adjustable speed",
+      "14 colors + white with adjustable speed, bidirectional flowing & rainbow effects",
+      "14 fixed patterns + white; linear focusing with atomization & adjustable atomization speed",
+      "0-100% mechanical dimming, mechanical strobe 1-12 F.P.S with strobe macro",
+      "Lens group optical system, electric focusing, beam angle 0-4°; photoelectric reset",
+      "540° pan / 270° tilt 8/16-bit with fine auto-correction; DMX512, 16 channels"
+    ],
+    "specs": [
+      ["Model", "YX-MH295"],
+      ["Power Supply", "AC100-240V, 50/60Hz"],
+      ["Total Power", "450W"],
+      ["Bulb Model", "Kaiyuan 295W lamp"],
+      ["Luminous Flux", "7950lm, color temperature up to 8500K"],
+      ["Ballast", "Electronic inductive ballast"],
+      ["Control Mode", "DMX512 / WDMX / self-propelled"],
+      ["Channel", "16 channels"],
+      ["Display", "Dot matrix display with four light touch switches, capable of reversing 180° for display"],
+      ["Color Wheel", "One color wheel, 14 color chips + white, adjustable rotation speed, bidirectional flowing & rainbow effects"],
+      ["Pattern Disk", "Fixed pattern disk, 14 pattern effects + white light"],
+      ["Prism", "48 honeycomb prisms + 8 prisms, double prisms stackable & rotate independently in both directions, adjustable rotation speed"],
+      ["Focusing", "Linear focusing from near to far, with atomization function & adjustable atomization speed"],
+      ["Dimming", "0-100% mechanical dimming"],
+      ["Strobe", "Mechanical strobe 1-12 F.P.S, adjustable strobe effects, supports strobe macro function"],
+      ["Optical System", "Lens group optical system, electric focusing, beam angle 0-4°"],
+      ["Reset System", "Photoelectric reset system, auto retrieve reset on accidental misoperation"],
+      ["Horizontal", "540°, 8-bit/16-bit fine adjustment"],
+      ["Vertical", "270°, 8-bit/16-bit fine adjustment"],
+      ["Correction", "Horizontal & vertical fine automatic error correction functions"],
+      ["Protection", "Overheat protection, IP20"],
+      ["Power Supply Type", "AC/DC switching power supply"],
+      ["Display Screen", "LCD display screen"],
+      ["Size", "290×240×510mm"],
+      ["Net Weight", "12KG"],
+      ["Packaging Size", "51×37×40.5cm"],
+      ["Gross Weight", "14KG"]
+    ]
   }
 ]
