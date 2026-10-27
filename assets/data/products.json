@@ -947,5 +947,64 @@
       ["Product Size", "380×274×700mm"],
       ["Net Weight", "23.2kg"]
     ]
+  },
+  {
+    "model": "YX-MHQ700",
+    "name": "Mini 700W LED Framing Profile Moving Head Light Economy Version",
+    "img": "assets/img/products/yx-mhq700.jpg",
+    "images": [
+      "assets/img/products/yx-mhq700-1.jpg",
+      "assets/img/products/yx-mhq700-2.jpg",
+      "assets/img/products/yx-mhq700-3.jpg",
+      "assets/img/products/yx-mhq700-4.jpg"
+    ],
+    "category": "Moving Head Light",
+    "subcategory": "Profile Moving Head Light",
+    "youtube": "https://youtu.be/yvRYtZJY9F8",
+    "application": "Theatre, concerts, TV studios, events, stages and architectural lighting requiring precise framing, gobo projection and smooth CMY/CTO color control.",
+    "quantity": "1 pc / carton (795×360×505mm, gross 32KG)",
+    "highlights": [
+      "Mini 700W LED, 652W module, 138mm frontal lens, 4.8°-50° fast motorized linear zoom",
+      "Ra>90 high CRI mode (standard Ra>70) for crisp, natural color",
+      "4 individually positioned framing shutter blades, each closes separately & rotates ±90° - cut any shape",
+      "Independent CMY color mixing + independent CTO 2500K-6500K linear; 6 colors + 6 fixed + 7 plug-in rotating gobos + rotating 4-facet prism",
+      "0-100% linear dimming, up to 25Hz strobe with random & pulse modes",
+      "540° pan / 270° tilt 16-bit precision scanning",
+      "DMX512 + RDM, 34/38/55 channels, 3-pin/5-pin XLR, sound activation; 2.8\" touch LCD with 180° rotation"
+    ],
+    "specs": [
+      ["Model", "YX-MHQ700"],
+      ["Input Voltage", "AC100-240V, 50/60Hz"],
+      ["Rated Power", "950W"],
+      ["Light Source", "652W LED module"],
+      ["LED Life", "20000 hours"],
+      ["Color Temperature", "6500K"],
+      ["Caliber", "138mm frontal lens for greater performance"],
+      ["Color Rendering Index", "Standard mode Ra>70, high CRI mode Ra>90"],
+      ["Signal Interface", "3-pin XLR (5-pin XLR optional)"],
+      ["Control Mode", "DMX512, RDM, Auto Mode, master-slave, sound activation"],
+      ["Channel Modes", "34CH / 38CH / 55CH"],
+      ["Display System", "2.8 inch touch LCD, Chinese & English display, 180° rotation"],
+      ["Fixed Color", "6 colors + open position"],
+      ["Color Mixing System", "Independent CMY color mixing system"],
+      ["Color Temperature Adjustment", "Independent CTO 2500K-6500K linear adjustment"],
+      ["Prisms", "Rotating 4-facet prism"],
+      ["Fixed Gobo Wheel", "6 fixed gobos + open position"],
+      ["Rotating Gobo Wheel", "7 plug-in gobos + open, outer diameter 22.9mm, effective diameter 14mm, thickness 1.0mm"],
+      ["Framing System", "4 individually positioned shutter blades, each closes separately & can rotate ±90°"],
+      ["Frost System", "0-100% linear atomization"],
+      ["Iris System", "6%-100% smooth adjustment"],
+      ["Beam Aperture", "4.8°-50° fast motorized linear zoom"],
+      ["Dimming System", "0-100% linear adjustment"],
+      ["Strobe System", "Highest frequency up to 25Hz, random strobe & pulse strobe selectable"],
+      ["Pan", "540° (16-bit precision scanning)"],
+      ["Tilt", "270° (16-bit precision scanning)"],
+      ["Protection Rating", "IP20"],
+      ["Working Environment", "0-45°C"],
+      ["Product Size", "693×388×481mm"],
+      ["Product Net Weight", "28KG"],
+      ["Packing Dimensions", "795×360×505mm"],
+      ["Gross Weight", "32KG"]
+    ]
   }
 ]
