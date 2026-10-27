@@ -2639,5 +2639,47 @@
       ["Lamp Size", "50×11.6×25.2cm"],
       ["Net Weight", "8.9KG"]
     ]
+  },
+  {
+    "model": "YX-ST960A",
+    "name": "8-Band Strobe Y-Axis Shaking Head Strobe Light",
+    "img": "assets/img/products/yx-st960a.jpg",
+    "images": [
+      "assets/img/products/yx-st960a-1.jpg",
+      "assets/img/products/yx-st960a-2.jpg",
+      "assets/img/products/yx-st960a-3.jpg"
+    ],
+    "category": "LED Effect Light",
+    "subcategory": "LED Strobe Light",
+    "youtube": "https://youtu.be/zCLdfeKjiqc",
+    "application": "Concerts, clubs, festivals and stage shows needing an 8-band Y-axis shaking head strobe with 1000×0.3W three-in-one LEDs plus a super bright white middle light.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "8-band strobe with Y-axis shaking head",
+      "1000× 0.3W three-in-one lamp beads + white light, plus 96×3W super bright white middle LED",
+      "DMX512 / master-slave / auto run & sound active",
+      "12-14CH channels, 3-pin XLR DMX connector",
+      "Cast aluminum body, fan heat dissipation",
+      "AC100-240V 50/60Hz, 400W rated power",
+      "ODM/OEM support, made in China"
+    ],
+    "specs": [
+      ["Model", "YX-ST960A"],
+      ["Input Voltage", "AC100-240V, 50/60Hz"],
+      ["Rated Power", "400W"],
+      ["Material", "Cast aluminum"],
+      ["Light Source", "1000× 0.3W three-in-one lamp beads + white light"],
+      ["Middle Light Source", "96×3W super bright white LED"],
+      ["Number of Channels", "12-14CH"],
+      ["Heat Dissipation", "Fan"],
+      ["Power Source", "Plug in"],
+      ["Place of Origin", "China"],
+      ["ODM/OEM", "Support"],
+      ["DMX Connector", "3-pin XLR"],
+      ["Brand Name", "Yuexin"],
+      ["Operation Mode", "DMX512, master/slave, auto run & sound active"],
+      ["Size", "50×11×31cm"],
+      ["Gross Weight", "7KG"]
+    ]
   }
 ]
