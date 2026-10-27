@@ -2153,5 +2153,51 @@
       ["Working Temperature", "-30°C to 50°C"],
       ["IP Level", "IP65, can be connected"]
     ]
+  },
+  {
+    "model": "YX-P2410",
+    "name": "24×10W Outdoor LED Par Light",
+    "img": "assets/img/products/yx-p2410.jpg",
+    "images": [
+      "assets/img/products/yx-p2410-1.jpg",
+      "assets/img/products/yx-p2410-2.jpg",
+      "assets/img/products/yx-p2410-3.jpg",
+      "assets/img/products/yx-p2410-4.jpg"
+    ],
+    "category": "LED Wash Light",
+    "subcategory": "Outdoor Wash Light",
+    "application": "Outdoor stages, concerts, architecture, parks and wet environments needing a durable waterproof 24×10W LED par wash light.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "24 high-brightness 10W LED beads, 45° beam angle",
+      "16.7 million colors (256×256×256) with continuous color change",
+      "0-100% dimming, strobe 1-20 times/second (any color)",
+      "DMX512 / auto / manual / self-walking / master-slave control, 8 channels",
+      "4-digit red LED digital display",
+      "IP65 waterproof, black shell",
+      "Service life 80,000-100,000 hours"
+    ],
+    "specs": [
+      ["Model", "YX-P2410"],
+      ["Light Source", "24 high-brightness 10W LED beads"],
+      ["Color Range", "16.7 million colors; continuous brightness intensity (256×256×256=16,777,216)"],
+      ["Beam Angle", "45°"],
+      ["Service Life", "80,000-100,000 hours"],
+      ["Dimming", "0-100%, continuous color change control"],
+      ["Strobe", "1-20 times/second (any color)"],
+      ["Output Voltage", "24V, 50-60Hz"],
+      ["Operation Mode", "DMX512, automatic (color change), manual, self-walking, master-slave control"],
+      ["Control Channel", "8 channels"],
+      ["Control Board", "4-digit red LED digital display"],
+      ["Input Voltage", "AC90-240V"],
+      ["Power", "250W"],
+      ["Shell", "Black"],
+      ["Waterproof Grade", "IP65"],
+      ["Maximum Ambient Temperature", "40°C"],
+      ["Maximum Lamp Body Temperature", "60°C"],
+      ["Size", "290 × 280 × 350mm"],
+      ["Net Weight", "8.50KG"],
+      ["Gross Weight", "9.5KG"]
+    ]
   }
 ]
