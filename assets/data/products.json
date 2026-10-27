@@ -3015,5 +3015,43 @@
       ["Advantages", "Convenient handling on both sides, side cover splicing, efficient heat dissipation"],
       ["IP Rating", "IP67"]
     ]
+  },
+  {
+    "model": "YX-ET1630",
+    "name": "Triangular LED Background Stage Light",
+    "img": "assets/img/products/yx-et1630.jpg",
+    "images": [
+      "assets/img/products/yx-et1630-1.jpg",
+      "assets/img/products/yx-et1630-2.jpg",
+      "assets/img/products/yx-et1630-3.jpg",
+      "assets/img/products/yx-et1630-4.jpg",
+      "assets/img/products/yx-et1630-5.jpg"
+    ],
+    "category": "LED Effect Light",
+    "subcategory": "LED Retro Light",
+    "youtube": "https://youtu.be/SRmxOokrZ18",
+    "application": "Concerts, TV stages, festivals, venues and stage backgrounds needing a large triangular LED background effect light with RGBW mixing and seamless multi-lamp splicing.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "16pcs 30W 1800K golden yellow LED + 576pcs 0.3W four-in-one LED lamp beads",
+      "Triangular modular LED background effect light",
+      "RGBW mixing capability",
+      "16 modules individually controllable lamp beads",
+      "Multiple lamps for seamless splicing",
+      "High-speed strobe effect, 0-100% smooth linear dimming",
+      "DMX512 / self-propelled / RDM / AR-NET, software upgradeable via DMX signal line"
+    ],
+    "specs": [
+      ["Model", "YX-ET1630"],
+      ["Voltage", "AC90-240V, 50-60Hz"],
+      ["Power", "655W"],
+      ["Quantity of Lamp Beads", "16pcs 30W 1800K golden yellow LED lamp beads, 576pcs 0.3W four-in-one LED lamp beads"],
+      ["Control Method", "DMX512, self-propelled, RDM, AR-NET"],
+      ["Control Channel", "4/6/12/21/64/76 DMX channel"],
+      ["Product Size", "79.7×17.8×68.7cm"],
+      ["Net Weight", "15.5KG"],
+      ["Features", "RGBW mixing capability, 16 modules individually controllable lamp beads, multiple lamps for seamless splicing, high-speed strobe effect, 0-100% smooth linear dimming"],
+      ["Software", "Supports DMX control, RDM control, software can be upgraded through DMX signal line"]
+    ]
   }
 ]
