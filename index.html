@@ -577,7 +577,11 @@
           </div>
 
           <div class="col-lg-6">
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+            <form action="https://formsubmit.co/grace@yuexin-light.com" method="post" role="form" onsubmit="return sendInquiry(this)">
+              <input type="hidden" name="_subject" id="ct-subject">
+              <input type="hidden" name="_template" value="table">
+              <input type="hidden" name="_captcha" value="false">
+              <input type="hidden" name="_next" value="https://www.yuexin-light.com/index.html">
               <div class="row">
                 <div class="col-md-6 form-group">
                   <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
@@ -689,6 +693,25 @@
   <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
   <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
   <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <script>
+    // Global: open WhatsApp with the inquiry, then let the form also POST to FormSubmit as backup.
+    window.sendInquiry = function (form) {
+      var subject = (form.subject && form.subject.value) || '';
+      var name = (form.name && form.name.value) || '';
+      var email = (form.email && form.email.value) || '';
+      var msg = (form.message && form.message.value) || '';
+      var st = document.getElementById('ct-subject');
+      if (st) st.value = 'New Website Inquiry' + (subject ? ' - ' + subject : '');
+      var lines = ['New Website Inquiry' + (subject ? ' - ' + subject : '')];
+      if (name) lines.push('Name: ' + name);
+      if (email) lines.push('Email: ' + email);
+      if (msg) lines.push('Inquiry: ' + msg);
+      var url = 'https://wa.me/8613427520701?text=' + encodeURIComponent(lines.join('\n'));
+      window.open(url, '_blank');
+      return true; // continue with FormSubmit POST
+    };
+  </script>
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
