@@ -2892,5 +2892,47 @@
       ["Product Size", "24×19×175cm"],
       ["Weight", "19KG"]
     ]
+  },
+  {
+    "model": "YX-RT200",
+    "name": "200W Retro Full-Color Light with Auxiliary Light LED Beam Projector Stage Effect Light",
+    "img": "assets/img/products/yx-rt200.jpg",
+    "images": [
+      "assets/img/products/yx-rt200-1.jpg",
+      "assets/img/products/yx-rt200-2.jpg",
+      "assets/img/products/yx-rt200-3.jpg",
+      "assets/img/products/yx-rt200-4.jpg",
+      "assets/img/products/yx-rt200-5.jpg",
+      "assets/img/products/yx-rt200-6.jpg",
+      "assets/img/products/yx-rt200-7.jpg",
+      "assets/img/products/yx-rt200-8.jpg",
+      "assets/img/products/yx-rt200-9.jpg"
+    ],
+    "category": "LED Effect Light",
+    "subcategory": "LED Retro Light",
+    "youtube": "https://www.youtube.com/watch?v=6n3xMWFg4Ao",
+    "application": "Clubs, bars, retro-themed stages, concerts and events needing a 200W retro full-color beam projector with auxiliary LED ring and 24×3W RGB Cree LEDs.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "200W retro full-color light with auxiliary light",
+      "1 pcs 200W gold color + 24×3W Cree LED RGB 3-in-1",
+      "Ring LED: 57×0.5W SMD 5050",
+      "DMX512 / auto / sound / master-slave, with RDM function",
+      "32-bit 0-100% linear dimming",
+      "Working temperature -30°C to 50°C, flash 1-30Hz, IP20",
+      "AC100~220V 50/60Hz, 300W"
+    ],
+    "specs": [
+      ["Model", "YX-RT200"],
+      ["Voltage", "AC100~220V, 50/60Hz"],
+      ["Power", "300W"],
+      ["Light Source", "1 pcs 200W gold color + 24×3W Cree LED RGB 3-in-1"],
+      ["Ring LED", "57×0.5W SMD 5050 LED"],
+      ["Control Mode", "DMX512, auto, sound, master-slave, RDM function"],
+      ["Dimming", "32-bit 0-100% linear dimming"],
+      ["Working Temperature", "-30°C to 50°C"],
+      ["Flash Frequency", "1-30Hz"],
+      ["IP Level", "IP20"]
+    ]
   }
 ]
