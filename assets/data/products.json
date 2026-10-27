@@ -2681,5 +2681,48 @@
       ["Size", "50×11×31cm"],
       ["Gross Weight", "7KG"]
     ]
+  },
+  {
+    "model": "YX-ST24",
+    "name": "STORM24 LED Effect Light",
+    "img": "assets/img/products/yx-st24.jpg",
+    "images": [
+      "assets/img/products/yx-st24-1.jpg",
+      "assets/img/products/yx-st24-2.jpg",
+      "assets/img/products/yx-st24-3.jpg",
+      "assets/img/products/yx-st24-4.jpg",
+      "assets/img/products/yx-st24-5.jpg",
+      "assets/img/products/yx-st24-6.jpg",
+      "assets/img/products/yx-st24-7.jpg",
+      "assets/img/products/yx-st24-8.jpg"
+    ],
+    "category": "LED Effect Light",
+    "subcategory": "LED Strobe Light",
+    "youtube": "https://youtu.be/XLZ9epJIrOI",
+    "application": "Concerts, clubs, bars, festivals and stage shows needing a compact 24-head storm LED strobe/effect light with RGB wash and versatile control.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "3W RGB×24 pcs + 200 pcs auxiliary LEDs",
+      "Cross/storm 24-head strobe effect light",
+      "DMX512 / auto / sound / master-slave control",
+      "Plastic + iron construction, compact 45×45×12cm",
+      "AC110-220V 50/60Hz, 120W",
+      "Lightweight, net weight 2.9KG",
+      "Packing options: 1 unit (G.W 3.8KG) or 4 units (G.W 17KG)"
+    ],
+    "specs": [
+      ["Model", "YX-ST24"],
+      ["Voltage", "AC110-220V, 50/60Hz"],
+      ["Power", "120W"],
+      ["Light", "3W RGB × 24 pcs + 200 pcs"],
+      ["Control", "DMX512, auto, sound, master-slave"],
+      ["Material", "Plastic + iron"],
+      ["Product Size", "45×45×12cm"],
+      ["Net Weight", "2.9KG"],
+      ["Inner Box Size", "41×41×17.5cm"],
+      ["Gross Weight (1 unit)", "3.8KG"],
+      ["Outer Box Size", "84×42.5×38.5cm (1 unit packed with 4 units)"],
+      ["Gross Weight (4 units)", "17KG"]
+    ]
   }
 ]
