@@ -2454,5 +2454,50 @@
       ["Packing Size", "560×560×220mm"],
       ["Application", "Suitable for a variety of hotels, entertainment, theater, stage, concerts and large-scale programs"]
     ]
+  },
+  {
+    "model": "YX-EF2403",
+    "name": "24pcs RGBW 4-in-1 LED Effect Light",
+    "img": "assets/img/products/yx-ef2403.jpg",
+    "images": [
+      "assets/img/products/yx-ef2403-1.jpg",
+      "assets/img/products/yx-ef2403-2.jpg",
+      "assets/img/products/yx-ef2403-3.jpg",
+      "assets/img/products/yx-ef2403-4.jpg",
+      "assets/img/products/yx-ef2403-5.jpg",
+      "assets/img/products/yx-ef2403-6.jpg",
+      "assets/img/products/yx-ef2403-7.jpg"
+    ],
+    "category": "LED Effect Light",
+    "subcategory": "LED Strobe Light",
+    "youtube": "https://youtu.be/kKfQUHd1FNY",
+    "application": "Concerts, clubs, bars, stages and large events needing a beam-splitting RGBW effect light with point/zone control for dyeing, flashing and running-code effects.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "24× 3535×3W cold white + 384× 5050×0.2W RGB + 256× 5730×0.5W white lamp beads",
+      "Each LED bead controllable by point and zone control",
+      "DMX512 / self-propelled / master-slave control",
+      "CH05 / CH10 / CH128 / CH138 channel modes",
+      "32-bit 0-100% linear dimming",
+      "Dyeing + flashing + running code point control light",
+      "Working temperature -30°C to 50°C, strobe 1-30Hz, IP20"
+    ],
+    "specs": [
+      ["Model", "YX-EF2403"],
+      ["Voltage", "AC100~240V, 50/60Hz"],
+      ["Power", "150W"],
+      ["Lamp Beads", "24× 3535×3W cold white, 384× 5050×0.2W RGB, 256× 5730×0.5W white"],
+      ["Control Mode", "DMX512, self-propelled, master-slave; each LED bead controllable by point and zone control"],
+      ["Channel", "CH05, CH10, CH128, CH138"],
+      ["Dimming", "32-bit 0-100% linear dimming"],
+      ["Features", "Dyeing + flashing + running code point control light"],
+      ["Working Temperature", "-30°C to 50°C"],
+      ["Strobe Frequency", "1-30Hz"],
+      ["Appearance", "Metal, black"],
+      ["Connection Mode", "DMX512 input/output / power input/output"],
+      ["IP Rating", "IP20"],
+      ["Size", "52×32×36CM"],
+      ["Weight", "4KG"]
+    ]
   }
 ]
