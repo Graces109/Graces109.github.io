@@ -788,5 +788,55 @@
       ["XY Axis", "540° X-axis / 270° Y-axis, 8-bit & 16-bit modes available"],
       ["Features", "Fast response and smooth operation"]
     ]
+  },
+  {
+    "model": "YX-MHP3740",
+    "name": "Outdoor 37x40W Bee Eye LED Zoom Wash Moving Head Light IP65 Waterproof",
+    "img": "assets/img/products/yx-mhp3740.jpg",
+    "images": [
+      "assets/img/products/yx-mhp3740-1.jpg",
+      "assets/img/products/yx-mhp3740-2.jpg",
+      "assets/img/products/yx-mhp3740-3.jpg",
+      "assets/img/products/yx-mhp3740-4.jpg"
+    ],
+    "category": "Moving Head Light",
+    "subcategory": "Outdoor Moving Head Light",
+    "youtube": "",
+    "application": "Outdoor stage lighting, concerts, music festivals, DJ parties, building projection, large events and installations in rain or harsh weather.",
+    "quantity": "1 pc / carton; waterproof shockproof aviation case or carton",
+    "highlights": [
+      "IP65 waterproof - 37x40W 4-in-1 OSRAM LEDs, 1500W, ideal for outdoor concerts, festivals & big events",
+      "2°-60° DMX linear zoom with auto-focus, built-in CTO color temperature control",
+      "0-100% linear electronic dimming with gamma curve (1.2K-25K), constant current drive - video-friendly, no flicker",
+      "540° pan / 270° tilt 16-bit with high-speed silent 60 thick three-phase motor & high-precision magnetic encoding, auto-return on misoperation",
+      "Effects: vortex, kaleidoscope, wash, beam; front lens unlimited bi-directional rotation, seamless splicing aspherical lens, single-LED control with LED ring strobe/run effects",
+      "DMX512 + RDM, 5 channel modes (21-184CH), 3-pin/optional 5-pin XLR, power daisy chain, remote sleep function",
+      "2.8\" touch screen with auto screen rotation by gravity; copper tube radiator + intelligent fan monitoring cooling"
+    ],
+    "specs": [
+      ["Model", "YX-MHP3740"],
+      ["Rated Voltage", "AC100V-240V, 50/60Hz"],
+      ["Input Power", "1500W"],
+      ["Light Source", "37pcs 40W 4-in-1 OSRAM LEDs"],
+      ["Rated Life", "30000 hours"],
+      ["Color", "Red / Green / Blue / White multi-color"],
+      ["Zoom", "2°-60° DMX linear zoom with auto-focus"],
+      ["Color Temperature", "Built-in CTO DMX linear dimming"],
+      ["Strobe", "Electronic, 0.3-25 times/sec, sync / async random strobe selectable"],
+      ["Dimming", "Electronic 0-100% linear, gamma curve 1.2K-25K adjustable, macro control, stable constant current drive - no flicker, suitable for video shooting"],
+      ["Rotation", "X-axis 540° (16bit) / Y-axis 270° (16bit), high-speed silent 60 thick three-phase motor, high-precision imported magnetic encoding, auto-return on misoperation, speed adjustable, XY reverse & swap functions"],
+      ["Control", "21CH/132CH/169CH/22CH/133CH/170CH/35CH/146CH/183CH/36CH/147CH/184CH standard - 5 channel modes, standard DMX512, RDM"],
+      ["Control Interface", "DMX512 (3-pin / optional 5-pin), power daisy chain socket"],
+      ["Sleep Function", "Remote sleep via advanced technology; auto sleep when signal is lost for stability & safety"],
+      ["Display", "2.8\" touch screen, Chinese/English bilingual menu, sensor fault & temperature display"],
+      ["Cooling", "High-conductivity copper tube radiator, intelligent fan monitoring auto-adjusts speed by temperature, built-in overheat protection & intelligent temperature/noise balance"],
+      ["Protection Rating", "IP65"],
+      ["Effects Mode", "Vortex, kaleidoscope, wash, beam; front lens unlimited bi-directional rotation, seamless splicing lens disc, aspherical lens, single-LED point control; LED ring strobe/run effects with built-in programs"],
+      ["Features", "Auto screen rotation by gravity direction (can be disabled)"],
+      ["Product Size", "475×280×663mm"],
+      ["Net Weight", "35kg"],
+      ["Single Package", "79×64×45cm"],
+      ["Packing Standard", "1x power cable, 1x signal cable, 1x manual, 1x rigging kit"]
+    ]
   }
 ]
