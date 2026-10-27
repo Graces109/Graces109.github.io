@@ -892,5 +892,60 @@
       ["Package Size", "89.5×59×45.5cm, gross 59KG"],
       ["Extended Function", "Supports RDM protocol, optional custom wireless signal"]
     ]
+  },
+  {
+    "model": "YX-MHQ400",
+    "name": "400W LED Profile Moving Head Light with CMY CTO Framing",
+    "img": "assets/img/products/yx-mhq400.jpg",
+    "images": [
+      "assets/img/products/yx-mhq400-1.jpg",
+      "assets/img/products/yx-mhq400-2.jpg",
+      "assets/img/products/yx-mhq400-3.jpg",
+      "assets/img/products/yx-mhq400-4.jpg",
+      "assets/img/products/yx-mhq400-5.jpg",
+      "assets/img/products/yx-mhq400-6.jpg",
+      "assets/img/products/yx-mhq400-7.jpg"
+    ],
+    "category": "Moving Head Light",
+    "subcategory": "Profile Moving Head Light",
+    "youtube": "https://youtu.be/ZCNvW2QbT6E",
+    "application": "Theatre, concerts, TV studios, events, stages and architectural lighting requiring precise gobo projection, framing and smooth CMY/CTO color control.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "400W LED module, 7500K, Ra≥85, 127000 lm @5m for crisp projection",
+      "Independent CMY color mixing + independent CTO 2700-6500K linear adjustment",
+      "8 colors + white with half-color; 12 fixed patterns + 7 plug-in rotating patterns, independent rotation directions",
+      "Rotating 8 prisms + 6 rows of prisms, each prism independent positive/negative direction",
+      "3-45° linear focus zoom, 0-100% linear dimming, fast & pulse strobe",
+      "540° horizontal / 270° vertical scanning",
+      "DMX512 + RDM, 2.5-inch touch LCD with 180° rotation"
+    ],
+    "specs": [
+      ["Model", "YX-MHQ400"],
+      ["Input Voltage", "AC100-240V, 50/60Hz"],
+      ["Limit Power", "600W"],
+      ["Light Source", "400W LED module"],
+      ["Light Source Life", "20000 hours"],
+      ["Lux", "5m, 127000 lm"],
+      ["Color Temperature", "7500K"],
+      ["Color Rendering Index", "Ra≥85"],
+      ["Control Mode", "DMX512, RDM"],
+      ["Display System", "2.5-inch touch LCD, Chinese & English display, 180° rotation"],
+      ["Fixed Color", "8 colors + white light, half color function"],
+      ["Color Mixing System", "Independent CMY color mixing system"],
+      ["Color Temperature Adjustment", "Independent CTO 2700-6500K linear adjustment"],
+      ["Prism Disk", "Rotate 8 prisms + 6 rows of prism, each prism independent positive & negative direction"],
+      ["Fixed Pattern", "12 fixed pattern pieces + white circles"],
+      ["Rotating Pattern", "7 rotating pattern pieces (pluggable), each pattern independent positive & negative"],
+      ["Atomizing System", "Light atomizing tablet"],
+      ["Zoom System", "3-45° linear focus"],
+      ["Dimming System", "0-100% linear adjustment"],
+      ["Stroboscopic System", "Fast stroboscopic, pulse stroboscopic"],
+      ["Scanning", "540° horizontal, 270° vertical"],
+      ["Protection Level", "IP20"],
+      ["Working Environment", "0-45°C"],
+      ["Product Size", "380×274×700mm"],
+      ["Net Weight", "23.2kg"]
+    ]
   }
 ]
