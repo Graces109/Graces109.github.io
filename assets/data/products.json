@@ -2500,5 +2500,51 @@
       ["Size", "52×32×36CM"],
       ["Weight", "4KG"]
     ]
+  },
+  {
+    "model": "YX-ST960Z",
+    "name": "1000W Strobe Light 8+8",
+    "img": "assets/img/products/yx-st960z.jpg",
+    "images": [
+      "assets/img/products/yx-st960z-1.jpg",
+      "assets/img/products/yx-st960z-2.jpg",
+      "assets/img/products/yx-st960z-3.jpg",
+      "assets/img/products/yx-st960z-4.jpg",
+      "assets/img/products/yx-st960z-5.jpg"
+    ],
+    "category": "LED Effect Light",
+    "subcategory": "LED Strobe Light",
+    "youtube": "https://youtu.be/L-LaFSw-dcI",
+    "application": "Concerts, clubs, bars, festivals and stage shows needing a high-power 1000W RGB strobe with 8+8 zones, macro color functions and versatile control.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "1000W 8+8 RGB strobe light, 960× 1.2W SMD5050 LEDs",
+      "Conventional / random / pulse strobe at 1-30Hz",
+      "DMX512 / master-slave / voice control / single machine / self-propelled",
+      "Dimming, strobe, red, green, blue macro functions with macro speed",
+      "0-100% linear dimming, 8CH",
+      "3-pin / 5-pin XLR input & output",
+      "Aluminum case, lamp lifespan over 50,000 hours"
+    ],
+    "specs": [
+      ["Model", "YX-ST960Z"],
+      ["Voltage", "AC110-240V ±10%, 50-60Hz"],
+      ["Power", "1000W"],
+      ["Name", "1000W 8+8 Strobe Light (Full Color)"],
+      ["Strobe", "1-30Hz conventional strobe, random strobe, pulse strobe"],
+      ["Control Mode", "DMX512, master-slave mode, voice control mode, single machine mode, self-propelled"],
+      ["Channel Functions", "Dimming, strobe, red, green, blue macro functions, macro function speed"],
+      ["Luminous Color", "RGB"],
+      ["Bead Model", "SMD5050 LED"],
+      ["Light Source Lifespan", "Over 50,000 hours"],
+      ["Number of Lamp Beads", "960× 1.2W"],
+      ["Data Connection", "3-pin / 5-pin XLR input/output"],
+      ["Dimming", "0-100% linear adjustment"],
+      ["Channel", "8CH"],
+      ["Size", "50×27.5×14CM"],
+      ["Carton Size", "54×29×22CM"],
+      ["Net Weight", "7.5KG"],
+      ["Gross Weight", "8KG"]
+    ]
   }
 ]
