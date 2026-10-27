@@ -2415,5 +2415,44 @@
       ["Connection Mode", "DMX512 input and output / power input and output"],
       ["IP Grade", "IP20"]
     ]
+  },
+  {
+    "model": "YX-0605D",
+    "name": "3D Infinite Mirror LED Dance Floor Tile",
+    "img": "assets/img/products/yx-0605d.jpg",
+    "images": [
+      "assets/img/products/yx-0605d-1.jpg",
+      "assets/img/products/yx-0605d-2.jpg",
+      "assets/img/products/yx-0605d-3.jpg",
+      "assets/img/products/yx-0605d-4.jpg",
+      "assets/img/products/yx-0605d-5.jpg"
+    ],
+    "category": "LED Effect Light",
+    "subcategory": "LED Dance Floor Light",
+    "youtube": "https://youtu.be/WYuOV7eeIn0",
+    "application": "Hotels, entertainment venues, theaters, stages, concerts and large-scale programs needing a 3D infinite mirror LED dance floor tile.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "60 pcs 5050 SMD RGB 3-in-1 LEDs with 3D infinite mirror effect",
+      "12mm tempered glass surface board, IP54 waterproof",
+      "Life span ≥ 100,000 hours",
+      "90-240VAC input, 15W power consumption",
+      "N.W. 10KG / G.W. 11KG, 560×560×220mm packing",
+      "Suitable for hotels, entertainment, theater, stage, concerts and large-scale programs"
+    ],
+    "specs": [
+      ["Model", "YX-0605D"],
+      ["Voltage", "90-240VAC, 50/60Hz"],
+      ["Power", "15W"],
+      ["LED Qty", "60 pcs 5050 SMD"],
+      ["Color", "RGB 3-in-1"],
+      ["Life Span", "≥ 100,000 hours"],
+      ["Surface Board", "12mm tempered glass"],
+      ["Waterproof", "IP54"],
+      ["Net Weight", "10KG"],
+      ["Gross Weight", "11KG"],
+      ["Packing Size", "560×560×220mm"],
+      ["Application", "Suitable for a variety of hotels, entertainment, theater, stage, concerts and large-scale programs"]
+    ]
   }
 ]
