@@ -1852,5 +1852,43 @@
       ["Power Outlet", "Power connector input/output"],
       ["Signal Input/Output", "Three-core or five-core cannon head socket, RJ45"]
     ]
+  },
+  {
+    "model": "YX-MH1060B",
+    "name": "Five-Head Double-Sided Unlimited Flash Beam Light",
+    "img": "assets/img/products/yx-mh1060b.jpg",
+    "images": [
+      "assets/img/products/yx-mh1060b-1.jpg",
+      "assets/img/products/yx-mh1060b-2.jpg",
+      "assets/img/products/yx-mh1060b-3.jpg"
+    ],
+    "category": "Moving Head Light",
+    "subcategory": "LED Effect Moving Head Light",
+    "application": "Concerts, events, stages, DJ parties, weddings, TV studios and architectural lighting requiring unlimited flash beam effects from a five-head double-sided moving light.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "10pcs of 60W four-in-one LED beads + 10 auxiliary light color-changing strips + 2 auxiliary light bars",
+      "Five-head double-sided design with unlimited flash beam effects",
+      "Dimming modes: linear, curve, square, inverse square",
+      "Multi control channels: 32 / 44 / 52 / 98 / 163CH",
+      "DMX512 / master-slave / autonomous / RDM control",
+      "Average light source lifespan 50,000 hours",
+      "Aluminum black body, IP20, -20°C to 40°C"
+    ],
+    "specs": [
+      ["Model", "YX-MH1060B"],
+      ["Working Voltage", "AC 220V/50Hz"],
+      ["Product Power", "800W"],
+      ["Light Source", "10pcs of 60W four-in-one LED beads + 10 auxiliary light color-changing strips + 2 auxiliary light bars"],
+      ["Light Source Lifespan", "Average 50,000 hours"],
+      ["Dimming Modes", "Linear, curve, square, inverse square"],
+      ["Control Methods", "DMX512 / slave / master / autonomous / RDM"],
+      ["Control Channel", "32 / 44 / 52 / 98 / 163CH"],
+      ["Appearance", "Aluminum black"],
+      ["Protection Class", "IP20"],
+      ["Features", "Beam, flash"],
+      ["Operating Temperature", "-20°C to 40°C"],
+      ["Link Method", "DMX512 input and output, power input and output"]
+    ]
   }
 ]
