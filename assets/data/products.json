@@ -2975,5 +2975,45 @@
       ["Protection Level", "IP65"],
       ["Cooling", "Fan intelligent control"]
     ]
+  },
+  {
+    "model": "YX-ST672",
+    "name": "LED Line Bar Strobe Light",
+    "img": "assets/img/products/yx-st672.jpg",
+    "images": [
+      "assets/img/products/yx-st672-1.jpg",
+      "assets/img/products/yx-st672-2.jpg",
+      "assets/img/products/yx-st672-3.jpg",
+      "assets/img/products/yx-st672-4.jpg",
+      "assets/img/products/yx-st672-5.jpg"
+    ],
+    "category": "LED Effect Light",
+    "subcategory": "LED Strobe Light",
+    "youtube": "https://youtu.be/v_7-Xg0ew_o",
+    "application": "Concerts, clubs, festivals, stages and large events needing a long LED line bar strobe light with 32-segment RGB and 16-segment white effects.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "672 pieces 5050-RGB 0.3W + 112 pieces 3030 white 3W lamp beads",
+      "Running horse + explosion flash + flowing water effects",
+      "32-segment RGB + 16-segment white light",
+      "DMX512 / self-propelled / master-slave / voice control, with RDM function",
+      "ACME 1:1 channel mode, 12 channel options",
+      "Convenient handling on both sides, side cover splicing, efficient heat dissipation",
+      "IP67, working temperature -30°C to 50°C, strobe 1-30Hz"
+    ],
+    "specs": [
+      ["Model", "YX-ST672"],
+      ["Voltage", "AC100~240V, 50/60Hz"],
+      ["Power", "600W"],
+      ["Lamp Beads", "672 pieces 5050-RGB 0.3W, 112 pieces 3030 white light 3W"],
+      ["Control Mode", "DMX512, self-propelled, master-slave, voice controlled, with RDM function"],
+      ["Channel", "CH06, CH14, CH16, CH20, CH32, CH38, CH64, CH67, CH69, CH112, CH116"],
+      ["Features", "Running horse + explosion flash + flowing water, 32-segment RGB + 16-segment white light"],
+      ["Working Temperature", "-30°C to 50°C"],
+      ["Strobe Frequency", "1-30Hz"],
+      ["Appearance", "Metal, black"],
+      ["Advantages", "Convenient handling on both sides, side cover splicing, efficient heat dissipation"],
+      ["IP Rating", "IP67"]
+    ]
   }
 ]
