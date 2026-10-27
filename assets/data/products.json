@@ -1301,5 +1301,67 @@
       ["Protection", "Overheat protection, IP20"],
       ["Power Switch", "AC/DC switch"]
     ]
+  },
+  {
+    "model": "YX-MH300A",
+    "name": "300W Beam Moving Head Light with 4 Prisms & LED Aperture Prism King",
+    "img": "assets/img/products/yx-mh300a.jpg",
+    "images": [
+      "assets/img/products/yx-mh300a-1.jpg",
+      "assets/img/products/yx-mh300a-2.jpg",
+      "assets/img/products/yx-mh300a-3.jpg",
+      "assets/img/products/yx-mh300a-4.jpg",
+      "assets/img/products/yx-mh300a-5.jpg",
+      "assets/img/products/yx-mh300a-6.jpg",
+      "assets/img/products/yx-mh300a-7.jpg",
+      "assets/img/products/yx-mh300a-8.jpg"
+    ],
+    "category": "Moving Head Light",
+    "subcategory": "Beam Moving Head Light",
+    "youtube": "https://youtu.be/KK5M3iGV3wI",
+    "application": "Concerts, events, stages, DJ parties, weddings, TV studios and architectural lighting requiring sharp 0-4° beam effects with four-prism and LED aperture color effects.",
+    "quantity": "1 pc / carton (51.5×37×40.5cm)",
+    "highlights": [
+      "300W Philips/Phoenix bulb + 31 0.5W RGB 3-in-1 LEDs, 7950lm, 8500K, 152mm output aperture",
+      "Four prisms: large-angle 8-prism, 24 honeycomb, 48 honeycomb & 6-row mirror - stackable with independent bidirectional rotation & rainbow effect",
+      "14 colors + white with adjustable speed, bidirectional flowing & rainbow effects",
+      "14 fixed patterns + white (including 4 waveform effects); linear focusing with atomization & adjustable speed",
+      "0-100% mechanical dimming, mechanical strobe 1-12 F.P.S with strobe macro",
+      "Lens group optical system, electric focusing, beam angle 0-4°; photoelectric reset",
+      "540° pan / 270° tilt 8/16-bit with fine auto-correction; DMX512, 16/18 channels"
+    ],
+    "specs": [
+      ["Model", "YX-MH300A"],
+      ["Power Supply", "AC100-240V, 50/60Hz"],
+      ["Total Power", "450W"],
+      ["Light Bulb Model", "Original Philips bulb 300W / Phoenix bulb 300W + 31 0.5W RGB three-in-one LEDs"],
+      ["Luminous Flux", "7950lm, color temperature up to 8500K, output aperture 152mm"],
+      ["Ballast", "Electronic inductor ballast"],
+      ["Control Mode", "DMX512 / WDMX / self-propelled"],
+      ["Channel", "16/18 channels"],
+      ["Display", "Dot matrix display, four touch-sensitive buttons, can be reversed 180° for display"],
+      ["Color Palette", "14 color chips + white, adjustable rotation speed, bidirectional flowing & rainbow effects"],
+      ["Pattern Plate", "Fixed pattern plate, 14 pattern effects + white light (including 4 waveform effects)"],
+      ["Prism 1", "Large-angle 8-prism"],
+      ["Prism 2", "24 honeycomb prism"],
+      ["Prism 3", "48 honeycomb prism"],
+      ["Prism 4", "6-row mirror"],
+      ["Prism Stacking", "Stackable, capable of bidirectional independent rotation, adjustable rotation speed + rainbow effect"],
+      ["Focusing", "Linear focusing from near to far, with atomization function & adjustable atomization speed"],
+      ["Dimming", "0-100% mechanical dimming"],
+      ["Strobe", "Mechanical strobe 1-12 F.P.S, adjustable strobe effects, supports strobe macro function"],
+      ["Optical System", "Lens group optical system, electric focusing, beam angle 0-4°"],
+      ["Reset System", "Photoelectric reset system, auto retrieve reset on accidental misoperation"],
+      ["Horizontal", "540°, 8-bit/16-bit fine-tuning"],
+      ["Vertical", "270°, 8-bit/16-bit fine-tuning"],
+      ["Correction", "Horizontal & vertical fine automatic error correction functions"],
+      ["Protection", "Overheating protection, IP20"],
+      ["Power Supply Type", "AC/DC switching power supply"],
+      ["Display Screen", "LCD display screen"],
+      ["Size", "210×230×510mm"],
+      ["Net Weight", "16KG"],
+      ["Packaging Size", "51.5×37×40.5cm"],
+      ["Gross Weight", "14KG"]
+    ]
   }
 ]
