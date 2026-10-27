@@ -694,5 +694,56 @@
       ["Packaging Size", "645×490×420mm"],
       ["Gross Weight", "24KG"]
     ]
+  },
+  {
+    "model": "YX-MHP380",
+    "name": "Outdoor 380W Beam Moving Head Light IP65 Waterproof",
+    "img": "assets/img/products/yx-mhp380.jpg",
+    "images": [
+      "assets/img/products/yx-mhp380-1.jpg",
+      "assets/img/products/yx-mhp380-2.jpg",
+      "assets/img/products/yx-mhp380-3.jpg",
+      "assets/img/products/yx-mhp380-4.jpg",
+      "assets/img/products/yx-mhp380-5.jpg",
+      "assets/img/products/yx-mhp380-6.jpg",
+      "assets/img/products/yx-mhp380-7.jpg",
+      "assets/img/products/yx-mhp380-8.jpg"
+    ],
+    "category": "Moving Head Light",
+    "subcategory": "Outdoor Moving Head Light",
+    "youtube": "https://youtu.be/aeyfoaigVNM",
+    "application": "Outdoor stage lighting, concerts, music festivals, DJ parties, building projection and large events in rain, high altitude, wind-sand or extreme environments.",
+    "quantity": "1 pc / carton; double pack aviation box 80×40×81cm",
+    "highlights": [
+      "IP65 waterproof - withstands 360° waves with no dead corners, for heavy rain, high altitude, wind-sand, seaside, extreme cold & heat",
+      "Made of national standard pressure cast aluminum high-end shell - no plastic, built for harsh outdoor environments",
+      "Latest motherboard supports RDM & built-in multiple beam effect programs (single/multi beam white & color slow swing)",
+      "OSRAM 371W + long-life light source, 480W output power, 1.8° beam angle, electronic linear HD dynamic focusing",
+      "15 colors + rainbow + atomization; 14 fixed patterns; 8 / 8+16 foldable rotatable prism with macro function",
+      "540° pan / 270° tilt, fast & stable; intelligent photoelectric reset & correction plus pan/tilt lock",
+      "DMX512 + RDM control with 24 international DMX channels, powerful three-electric-drive XY motor"
+    ],
+    "specs": [
+      ["Model", "YX-MHP380"],
+      ["Voltage", "Wide voltage 110-240V, 50/60Hz"],
+      ["Light Bulb Brand", "OSRAM 371W + long-life light source"],
+      ["Output Power", "480W"],
+      ["Color", "Color palette: 15 colors + rainbow effect + atomization function"],
+      ["Pattern", "Pattern plate: 14 fixed patterns"],
+      ["Focusing", "Electronic linear HD dynamic focusing with high-density glass optical lens"],
+      ["Dimming", "0%-100% linear dimming curve"],
+      ["Beam Angle", "1.8°"],
+      ["Channel", "24 international standard DMX512 channels"],
+      ["XY Motor", "Three electric drives, powerful, faster, more stable & quieter"],
+      ["Control Mode", "DMX512, RDM, self-propelled, master-slave"],
+      ["Prism", "8-prism / 8+16 prism stacked & rotatable, macro function"],
+      ["Display Screen", "LCD display screen adapts to different installation positions"],
+      ["Pan / Tilt", "540° horizontal / 270° vertical, fast & stable; intelligent photoelectric reset & correction; pan/tilt lock buttons"],
+      ["Lamp Body Size", "329×228×603mm"],
+      ["Net Weight", "19.8KG"],
+      ["Packaging Size", "645×490×420mm"],
+      ["Gross Weight", "24KG"],
+      ["Double Pack Aviation Box Size", "80×40×81cm"]
+    ]
   }
 ]
