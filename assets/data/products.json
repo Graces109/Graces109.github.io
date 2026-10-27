@@ -2848,5 +2848,49 @@
       ["Connection Mode", "DMX512 I/O / Power I/O"],
       ["IP Level", "IP20"]
     ]
+  },
+  {
+    "model": "YX-EF6144",
+    "name": "6pcs RGB Pixel Retro Stage Background",
+    "img": "assets/img/products/yx-ef6144.jpg",
+    "images": [
+      "assets/img/products/yx-ef6144-1.jpg",
+      "assets/img/products/yx-ef6144-2.jpg",
+      "assets/img/products/yx-ef6144-3.jpg",
+      "assets/img/products/yx-ef6144-4.jpg",
+      "assets/img/products/yx-ef6144-5.jpg"
+    ],
+    "category": "LED Effect Light",
+    "subcategory": "LED Retro Light",
+    "youtube": "https://youtu.be/RR6gW0kElFA",
+    "application": "Concerts, clubs, retro-themed stages, stage backgrounds and live shows needing a 6-panel RGB pixel retro effect light with independent RGB and COB control.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "6pcs RGB pixel retro stage background",
+      "6× 144 SMD three-in-one RGB lamp beads + 6× 100W warm/cool white COB lamp beads",
+      "Pixel dot matrix 6×144, 800W",
+      "Dyeing + flashing + auxiliary light",
+      "RGB controlled unilaterally, each COB lamp bead controlled separately",
+      "Built-in programs: color effects, dimming, strobe and chase effects",
+      "DMX512 / self-propelled / master-slave / voice control, 6/9/24/114CH, IP20"
+    ],
+    "specs": [
+      ["Model", "YX-EF6144"],
+      ["Voltage", "AC100-220V, 50/60Hz"],
+      ["Lamp Beads", "6× 144 SMD three-in-one RGB lamp beads, 6× 100W warm white/cool white COB lamp beads"],
+      ["Pixel Dot Matrix", "6× 144"],
+      ["Power", "800W"],
+      ["Control Mode", "DMX512, self-propelled, master-slave, voice control"],
+      ["Channel", "6/9/24/114CH"],
+      ["Dimming", "32-bit 0-100% linear dimming"],
+      ["Built-in Programs", "Color effects, dimming, strobe and chase effects"],
+      ["Features", "Dyeing + flashing + auxiliary light"],
+      ["Function", "RGB can be controlled unilaterally, each COB lamp bead can be controlled separately"],
+      ["Working Temperature", "-30~50°C"],
+      ["Strobe Frequency", "1-30Hz"],
+      ["Appearance", "Metal, black"],
+      ["Product Size", "24×19×175cm"],
+      ["Weight", "19KG"]
+    ]
   }
 ]
