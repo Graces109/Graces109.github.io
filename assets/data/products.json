@@ -1419,5 +1419,49 @@
       ["Packaging Size", "56×38×44cm"],
       ["Gross Weight", "15KG"]
     ]
+  },
+  {
+    "model": "YX-MH230D",
+    "name": "230W Beam Moving Head Light with RGB Ring & 24-Facet Prism (OSRAM)",
+    "img": "assets/img/products/yx-mh230d.jpg",
+    "images": [
+      "assets/img/products/yx-mh230d-1.jpg",
+      "assets/img/products/yx-mh230d-2.jpg",
+      "assets/img/products/yx-mh230d-3.jpg"
+    ],
+    "category": "Moving Head Light",
+    "subcategory": "Beam Moving Head Light",
+    "youtube": "https://youtu.be/qxXzqHHyoAg",
+    "application": "Concerts, events, stages, DJ parties, weddings, TV studios and architectural lighting requiring a sharp 2.1° beam with RGB ring, color, gobo and 24-facet prism effects.",
+    "quantity": "1 pc / carton (52×38×41cm, gross 11KG)",
+    "highlights": [
+      "230W Osram SIRIUS HRI 7R lamp, 8000K, 128mm lens beam, 2.1° beam angle",
+      "RGB color ring around the lens for eye-catching aperture effects",
+      "24-facet prism with rainbow effect",
+      "13 colors + white, 14 gobos + white",
+      "0-100% linear atomization",
+      "540° pan / 270° tilt 8/16-bit",
+      "DMX512, master-slave, sound & auto modes; supports RDM"
+    ],
+    "specs": [
+      ["Model", "YX-MH230D"],
+      ["Voltage", "AC110-240V, 50/60Hz"],
+      ["Power", "250W"],
+      ["Lamp", "7R 230W Osram Lamp"],
+      ["Lens Beam", "128mm"],
+      ["Strobe", "1-13s/t"],
+      ["CCT", "8000K"],
+      ["Color", "13 colors + white"],
+      ["Gobo", "14 gobos + white"],
+      ["Atomization", "0-100% linear"],
+      ["Beam Angle", "2.1°"],
+      ["Prism", "1× 24-facet prism"],
+      ["Pan", "540° (8/16-bit)"],
+      ["Tilt", "270° (8/16-bit)"],
+      ["Control Mode", "DMX512, master-slave, sound, auto"],
+      ["Net Weight", "10.5KG"],
+      ["Gross Weight", "11KG"],
+      ["Carton Size", "52×38×41cm"]
+    ]
   }
 ]
