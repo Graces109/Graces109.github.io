@@ -2119,5 +2119,39 @@
       ["Working Temperature", "-30°C to 50°C"],
       ["IP Level", "IP65, can be connected"]
     ]
+  },
+  {
+    "model": "YX-RTP60",
+    "name": "Transformers 60W Waterproof Single Retro Light",
+    "img": "assets/img/products/yx-rtp60.jpg",
+    "images": [
+      "assets/img/products/yx-rtp60-1.jpg",
+      "assets/img/products/yx-rtp60-2.jpg",
+      "assets/img/products/yx-rtp60-3.jpg",
+      "assets/img/products/yx-rtp60-4.jpg",
+      "assets/img/products/yx-rtp60-5.jpg"
+    ],
+    "category": "LED Wash Light",
+    "subcategory": "Outdoor Wash Light",
+    "application": "Outdoor stages, concerts, architecture, parks and wet environments needing a compact waterproof single COB retro par light.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "1× 60W Golden COB LED light source",
+      "Freely splicable, IP65 waterproof, can be connected",
+      "32-bit 0-100% linear dimming",
+      "DMX512 / auto / sound / master-slave control, with RDM function",
+      "Working temperature -30°C to 50°C",
+      "Waterproof and outdoor rated"
+    ],
+    "specs": [
+      ["Model", "YX-RTP60"],
+      ["Voltage", "AC100~220V, 50/60Hz"],
+      ["Power", "150W"],
+      ["Light Source", "1 pc 60W Golden COB LED"],
+      ["Control Mode", "DMX512, auto, sound, master-slave, RDM function"],
+      ["Dimming", "32-bit 0-100% linear dimming"],
+      ["Working Temperature", "-30°C to 50°C"],
+      ["IP Level", "IP65, can be connected"]
+    ]
   }
 ]
