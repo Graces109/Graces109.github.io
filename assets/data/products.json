@@ -1759,5 +1759,49 @@
       ["Power Outlet", "Power connector input/output"],
       ["Signal Input/Output", "Three-core or five-core cannon head socket, RJ45"]
     ]
+  },
+  {
+    "model": "YX-MH1260",
+    "name": "12×60W RGBW 4-in-1 LED Moving Beam Bar Pixel Zoom Sweeper",
+    "img": "assets/img/products/yx-mh1260.jpg",
+    "images": [
+      "assets/img/products/yx-mh1260-1.jpg",
+      "assets/img/products/yx-mh1260-2.jpg",
+      "assets/img/products/yx-mh1260-3.jpg",
+      "assets/img/products/yx-mh1260-4.jpg",
+      "assets/img/products/yx-mh1260-5.jpg",
+      "assets/img/products/yx-mh1260-6.jpg"
+    ],
+    "category": "Moving Head Light",
+    "subcategory": "LED Effect Moving Head Light",
+    "youtube": "https://youtu.be/aXAwsscC0f8",
+    "application": "Concerts, events, stages, DJ parties, weddings, TV studios and architectural lighting requiring sweeping beam and wash effects from a multi-head pixel moving beam bar.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "12× four-in-one 60W LED lamp beads (800W)",
+      "Single swing + staining + beam effects",
+      "32-bit 0-100% linear dimming, strobe frequency 1-30Hz",
+      "DMX512, self-propelled, master-slave & voice control, with RDM function",
+      "Multi channel modes: CH20, CH169A, CH169B, CH53, CH101, CH155, CH179",
+      "Metal black body, DMX & power in/out, IP20",
+      "Working temperature -30°C to 50°C"
+    ],
+    "specs": [
+      ["Model", "YX-MH1260"],
+      ["Voltage", "AC100~240V, 50/60Hz"],
+      ["Power", "12×60W (800W)"],
+      ["Lamp Beads", "12 four-in-one 60W LED lamp beads"],
+      ["Control Mode", "DMX512, self-propelled, master-slave, voice control, with RDM function"],
+      ["Channel", "CH20, CH169A, CH169B, CH53, CH101, CH155, CH179"],
+      ["Dimming", "32-bit 0-100% linear dimming"],
+      ["Features", "Single swing + staining + beam"],
+      ["Working Temperature", "-30°C to 50°C"],
+      ["Strobe Frequency", "1-30Hz"],
+      ["Appearance", "Metal, black"],
+      ["Connection Method", "DMX512 input/output, power input/output"],
+      ["IP Rating", "IP20"],
+      ["Size", "1000×300×165mm"],
+      ["Weight", "26.5KG"]
+    ]
   }
 ]
