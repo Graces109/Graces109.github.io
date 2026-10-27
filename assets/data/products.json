@@ -745,5 +745,48 @@
       ["Gross Weight", "24KG"],
       ["Double Pack Aviation Box Size", "80×40×81cm"]
     ]
+  },
+  {
+    "model": "YX-MH500F",
+    "name": "500W CTO CMY Framing Profile Moving Head Light",
+    "img": "assets/img/products/yx-mh500f.jpg",
+    "images": [
+      "assets/img/products/yx-mh500f-1.jpg",
+      "assets/img/products/yx-mh500f-2.jpg",
+      "assets/img/products/yx-mh500f-3.jpg",
+      "assets/img/products/yx-mh500f-4.jpg",
+      "assets/img/products/yx-mh500f-5.jpg",
+      "assets/img/products/yx-mh500f-6.jpg",
+      "assets/img/products/yx-mh500f-7.jpg"
+    ],
+    "category": "Moving Head Light",
+    "subcategory": "Profile Moving Head Light",
+    "youtube": "https://youtu.be/CuieMcbrpzw",
+    "application": "Theatre, concerts, TV studios, events, stages and architectural lighting requiring precise framing, gobo projection and smooth CTO/CMY color control.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "500W LED module, 8500K high brightness, uniform light spot",
+      "CTO + CMY color control with 13+1 colors tray & adjustable color temperature, partial CMY effect",
+      "All high-temperature resistant glass pattern plate",
+      "Framing/cutting system made of high-temperature resistant materials - no deformation, smooth, arbitrary shape changes",
+      "3.8-35° zoom with smooth linear guide rail focusing, no shaking",
+      "540° X-axis / 270° Y-axis with 8-bit & 16-bit modes, fast response & smooth operation",
+      "DMX512 + RDM control, 23/27 channels, self-propelled & master-slave modes"
+    ],
+    "specs": [
+      ["Model", "YX-MH500F"],
+      ["Voltage / Frequency", "AC100-240V, 50/60Hz"],
+      ["Rated Power", "800W"],
+      ["Light Source", "500W LED module, uniform light spot, high brightness, color temperature 8500K"],
+      ["Light Angle", "3.8-35°"],
+      ["Control Channel Mode", "23 channels / 27 channels"],
+      ["Operating Modes", "Self-propelled, master-slave, DMX512, RDM, voice control"],
+      ["Color Tray", "One with 13+1 colors, one with adjustable color temperature, with partial CMY effect"],
+      ["Pattern Plate", "All high-temperature resistant glass patterns with good main effect"],
+      ["Focusing & Amplification", "Guide rail sliding rod, good linearity, large focusing & color amplification, smooth and no shaking"],
+      ["Cutting", "High-temperature resistant materials & fine parts, no deformation after long-term use, runs smoothly, arbitrary shape changes"],
+      ["XY Axis", "540° X-axis / 270° Y-axis, 8-bit & 16-bit modes available"],
+      ["Features", "Fast response and smooth operation"]
+    ]
   }
 ]
