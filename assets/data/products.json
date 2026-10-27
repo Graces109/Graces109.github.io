@@ -2546,5 +2546,56 @@
       ["Net Weight", "7.5KG"],
       ["Gross Weight", "8KG"]
     ]
+  },
+  {
+    "model": "YX-SM0336",
+    "name": "36× 3W Matrix Moving Head Effect Light",
+    "img": "assets/img/products/yx-sm0336.jpg",
+    "images": [
+      "assets/img/products/yx-sm0336-1.jpg",
+      "assets/img/products/yx-sm0336-2.jpg",
+      "assets/img/products/yx-sm0336-3.jpg",
+      "assets/img/products/yx-sm0336-4.jpg",
+      "assets/img/products/yx-sm0336-5.jpg",
+      "assets/img/products/yx-sm0336-6.jpg",
+      "assets/img/products/yx-sm0336-7.jpg",
+      "assets/img/products/yx-sm0336-8.jpg",
+      "assets/img/products/yx-sm0336-9.jpg",
+      "assets/img/products/yx-sm0336-10.jpg"
+    ],
+    "category": "LED Effect Light",
+    "subcategory": "LED Strobe Light",
+    "youtube": "https://youtu.be/9wQb2PGdQJA",
+    "application": "Concerts, clubs, festivals, stage shows and large events needing a matrix moving head effect light with flash, dye, effects and shake-head functions.",
+    "quantity": "2 pcs / carton",
+    "highlights": [
+      "36 main warm light lamp beads × 3W (36 segments) + 648 auxiliary 5050 RGB lamp beads (36 segments)",
+      "Warm light 3200K color temperature",
+      "Flash + dye + effect + shake head",
+      "DMX512 / auto / master-slave / voice control, with RDM function",
+      "CH6 / CH16 / CH146 channel modes",
+      "32-bit 0-100% linear dimming",
+      "Working temperature -30°C to 50°C, strobe 1-30Hz, IP20"
+    ],
+    "specs": [
+      ["Model", "YX-SM0336"],
+      ["Voltage", "AC100~240V, 50/60Hz"],
+      ["Power", "200W"],
+      ["Lamp Beads", "36 main warm light lamp beads × 3W (36 segments), 648 auxiliary 5050RGB lamp beads (36 segments)"],
+      ["Color Temperature", "Warm light 3200K"],
+      ["Control Mode", "DMX512, auto, master-slave, voice control, with RDM function"],
+      ["Channel", "CH6, CH16, CH146"],
+      ["Dimming", "32-bit 0-100% linear dimming"],
+      ["Features", "Flash + dye + effect + shake head"],
+      ["Working Temperature", "-30°C to 50°C"],
+      ["Strobe Frequency", "1-30Hz"],
+      ["Appearance", "Metal, black"],
+      ["Connection Mode", "DMX512 input/output / power input/output"],
+      ["IP Level", "IP20"],
+      ["Inner Box Size", "56×15×32cm"],
+      ["Carton Size", "58×32×35cm (2 pcs / carton)"],
+      ["Net Weight", "5.8KG"],
+      ["Gross Weight", "6.3KG"]
+    ]
   }
 ]
