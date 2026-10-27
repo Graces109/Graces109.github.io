@@ -1141,5 +1141,60 @@
       ["Product Gross Weight", "51.5KG"],
       ["Product Appearance", "Flame retardant, high temperature resistance, folding clamp"]
     ]
+  },
+  {
+    "model": "YX-MH450",
+    "name": "450W White LED Moving Head Zoom Surface Light with CTO & RGBW Color Wheel",
+    "img": "assets/img/products/yx-mh450.jpg",
+    "images": [
+      "assets/img/products/yx-mh450-1.jpg",
+      "assets/img/products/yx-mh450-2.jpg",
+      "assets/img/products/yx-mh450-3.jpg",
+      "assets/img/products/yx-mh450-4.jpg",
+      "assets/img/products/yx-mh450-5.jpg",
+      "assets/img/products/yx-mh450-6.jpg",
+      "assets/img/products/yx-mh450-7.jpg",
+      "assets/img/products/yx-mh450-8.jpg",
+      "assets/img/products/yx-mh450-9.jpg"
+    ],
+    "category": "Moving Head Light",
+    "subcategory": "Beam Moving Head Light",
+    "youtube": "https://youtu.be/VCUHWK8NICI",
+    "application": "Theatre, TV studios, events, stages and architectural lighting requiring a bright white wash/fill with zoom, CTO color temperature correction and RGBW color effects.",
+    "quantity": "1 pc / flightcase (2 in 1) 70×43×84cm",
+    "highlights": [
+      "450W white LED moving head surface light with motorized 5°-60° zoom",
+      "CTO 2550K-6700K linear color temperature correction + RGBW color wheel (5 colors + white, red/yellow/blue/green/rose red)",
+      "High CRI 95 for natural, accurate color rendering",
+      "Adjustable soft light spot angle and size; high precision laminated optical lens",
+      "1-100% linear dimming, 0-25Hz strobe",
+      "540° pan / 250° tilt with automatic calibration and positioning; 6 ultra-quiet motors",
+      "DMX512, master-slave & auto run, 12 channels"
+    ],
+    "specs": [
+      ["Model", "YX-MH450"],
+      ["Voltage", "AC100V-240V, 50/60Hz"],
+      ["Light Source", "450W white LED module"],
+      ["Color Temperature", "2550K-6700K color temperature correction (CTO)"],
+      ["Service Life", "50000 hours"],
+      ["Color", "5 colors + white light (red, yellow, blue, green, rose red) for color rendering effects"],
+      ["Lens", "High precision laminated optical lens"],
+      ["Soft Light Effect", "Adjustable angle and size of the soft light spot"],
+      ["Focusing", "Linear focusing"],
+      ["CTO Function", "Linear color temperature adjustment"],
+      ["Dimming", "1-100% linear adjustment"],
+      ["Strobe", "0-25T/S"],
+      ["CRI", "95"],
+      ["Number of Channels", "12 channels"],
+      ["Control Mode", "Master-slave, auto run, DMX512"],
+      ["Projection Range", "540° pan, 250° tilt, with automatic calibration and positioning"],
+      ["Spot Angle", "5°-60°"],
+      ["Number of Motors", "6 ultra-quiet motors"],
+      ["Appearance", "High temperature resistant and flame-retardant plastic"],
+      ["Protection Level", "IP20"],
+      ["Product Size", "335×246×566mm"],
+      ["Product Weight", "12.0KG"],
+      ["Flightcase (2 in 1)", "70×43×84cm"]
+    ]
   }
 ]
