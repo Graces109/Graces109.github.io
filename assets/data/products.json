@@ -1803,5 +1803,49 @@
       ["Size", "1000×300×165mm"],
       ["Weight", "26.5KG"]
     ]
+  },
+  {
+    "model": "YX-MH1060",
+    "name": "10×60W LED Zoom Matrix Moving Head Light",
+    "img": "assets/img/products/yx-mh1060.jpg",
+    "images": [
+      "assets/img/products/yx-mh1060-1.jpg",
+      "assets/img/products/yx-mh1060-2.jpg",
+      "assets/img/products/yx-mh1060-3.jpg",
+      "assets/img/products/yx-mh1060-4.jpg",
+      "assets/img/products/yx-mh1060-5.jpg"
+    ],
+    "category": "Moving Head Light",
+    "subcategory": "LED Effect Moving Head Light",
+    "youtube": "https://youtu.be/yDyk13udmF0",
+    "application": "Concerts, events, stages, DJ parties, weddings, TV studios and architectural lighting requiring matrix beam and wash effects with zoom control.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "10× 60W RGBW LED + 96× 3W CW LED + 96× 3W WW LED + 96× 0.5W RGB LED",
+      "White light color temperature 6300K, luminous flux 22400 lm, 20000 hours LED life",
+      "Zoom: beam angle 2.8°-31°, spot angle 5°-46°",
+      "Multi DMX channels: 17 / 27 / 99 / 108 / 168 / 8+100 / 8+160 / 170CH",
+      "DMX512 + RDM control, software upgrade via DMX connection",
+      "Y-axis operation angle 202°",
+      "LCD display; 180-240V input, 800W power"
+    ],
+    "specs": [
+      ["Model", "YX-MH1060"],
+      ["Input Power Supply", "180-240V~ 50/60Hz"],
+      ["Power", "800W"],
+      ["Light Source", "10× 60W RGBW LED + 96× 3W CW LED + 96× 3W WW LED + 96× 0.5W RGB LED"],
+      ["White Light Color Temperature", "6300K"],
+      ["Luminous Flux", "22400 lm"],
+      ["LED Expected Life", "20000 hours"],
+      ["Beam Angle", "2.8°-31°"],
+      ["Spot Angle", "5°-46°"],
+      ["Control Panel", "LCD display"],
+      ["Control Protocol", "DMX512, RDM"],
+      ["DMX Channel", "17 / 27 / 99 / 108 / 168 / 8+100 / 8+160 / 170CH"],
+      ["Software Upgrade", "Update software through DMX connection"],
+      ["Y-Axis Operation Angle", "202°"],
+      ["Power Outlet", "Power connector input/output"],
+      ["Signal Input/Output", "Three-core or five-core cannon head socket, RJ45"]
+    ]
   }
 ]
