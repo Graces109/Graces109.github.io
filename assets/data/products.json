@@ -2807,5 +2807,46 @@
       ["Single Package Size", "83×82×21cm"],
       ["Net Weight", "15.4kg"]
     ]
+  },
+  {
+    "model": "YX-RT614",
+    "name": "Mini 6-Eye Retro Stage Effect Light",
+    "img": "assets/img/products/yx-rt614.jpg",
+    "images": [
+      "assets/img/products/yx-rt614-1.jpg",
+      "assets/img/products/yx-rt614-2.jpg",
+      "assets/img/products/yx-rt614-3.jpg",
+      "assets/img/products/yx-rt614-4.jpg",
+      "assets/img/products/yx-rt614-5.jpg"
+    ],
+    "category": "LED Effect Light",
+    "subcategory": "LED Retro Light",
+    "youtube": "https://youtube.com/shorts/_qTdjcPU7R8",
+    "application": "Clubs, bars, retro-themed stages, parties and live shows needing a compact mini 6-eye retro effect light with dyeing, explosion flash and auxiliary light.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "Mini 6-eye retro stage effect light",
+      "144× 0.3W + 6× 50W, 144× 5050 three-color LED beads + 6 warm white COB beads",
+      "Dyeing + explosion flash + auxiliary light",
+      "DMX512 / self-walking / master-slave / voice control, with RDM function",
+      "CH04 / CH12 / CH24 channel modes",
+      "32-bit 0-100% linear dimming",
+      "Working temperature -30°C to 50°C, strobe 1-30Hz, IP20"
+    ],
+    "specs": [
+      ["Model", "YX-RT614"],
+      ["Voltage", "AC100~220V, 50/60Hz"],
+      ["Power", "144× 0.3W + 6× 50W"],
+      ["Beads", "144× 5050 three-color LED beads + 6 warm white COB beads"],
+      ["Control Mode", "DMX512, self-walking, master-slave, voice control, with RDM function"],
+      ["Channels", "CH04, CH12, CH24"],
+      ["Dimming", "32-bit 0-100% linear dimming"],
+      ["Features", "Dyeing + explosion flash + auxiliary light"],
+      ["Operating Temperature", "-30°C to 50°C"],
+      ["Strobe Frequency", "1-30Hz"],
+      ["Appearance", "Metal, black"],
+      ["Connection Mode", "DMX512 I/O / Power I/O"],
+      ["IP Level", "IP20"]
+    ]
   }
 ]
