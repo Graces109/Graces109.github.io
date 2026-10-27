@@ -1890,5 +1890,43 @@
       ["Operating Temperature", "-20°C to 40°C"],
       ["Link Method", "DMX512 input and output, power input and output"]
     ]
+  },
+  {
+    "model": "YX-MH5120",
+    "name": "5×120W Tornado / 2nd Generation Moving Head Light",
+    "img": "assets/img/products/yx-mh5120.jpg",
+    "images": [
+      "assets/img/products/yx-mh5120-1.jpg",
+      "assets/img/products/yx-mh5120-2.jpg",
+      "assets/img/products/yx-mh5120-3.jpg"
+    ],
+    "category": "Moving Head Light",
+    "subcategory": "LED Effect Moving Head Light",
+    "application": "Concerts, events, stages, DJ parties, weddings, TV studios and architectural lighting requiring sweeping tornado beam and wash effects.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "5× 120W RGB lemon yellow (1212 LED beads) + 120 RGB auxiliary light beads",
+      "Tornado single swing + dyeing + beam effects",
+      "32-bit 0-100% linear dimming, stroboscopic frequency 1-30Hz",
+      "DMX512, autonomous & master-slave control, with RDM function",
+      "Multi channels: CH31 / CH41 / CH51 / CH71 / CH79",
+      "Metal black body, DMX & power in/out, IP20",
+      "Working temperature -30°C to 50°C"
+    ],
+    "specs": [
+      ["Model", "YX-MH5120"],
+      ["Voltage", "AC 100~240V, 50/60Hz"],
+      ["Power", "800W"],
+      ["LED Beads", "5× 120W RGB lemon yellow (1212 LED beads) + 120 RGB auxiliary light beads"],
+      ["Control Modes", "DMX512, autonomous, master-slave, with RDM function"],
+      ["Channels", "CH31 / CH41 / CH51 / CH71 / CH79"],
+      ["Dimming", "32-bit 0-100% linear dimming"],
+      ["Features", "Single swing + dyeing + beam"],
+      ["Operating Temperature", "-30°C to 50°C"],
+      ["Stroboscopic Frequency", "1-30Hz"],
+      ["Appearance", "Metal, black"],
+      ["Connection Method", "DMX512 input/output, power input/output"],
+      ["IP Rating", "IP20"]
+    ]
   }
 ]
