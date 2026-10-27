@@ -1196,5 +1196,55 @@
       ["Product Weight", "12.0KG"],
       ["Flightcase (2 in 1)", "70×43×84cm"]
     ]
+  },
+  {
+    "model": "YX-MHS300",
+    "name": "300W LED 3-in-1 Sharpy Beam Spot Zoom Wash Moving Head Light",
+    "img": "assets/img/products/yx-mhs300.jpg",
+    "images": [
+      "assets/img/products/yx-mhs300-1.jpg",
+      "assets/img/products/yx-mhs300-2.jpg",
+      "assets/img/products/yx-mhs300-3.jpg",
+      "assets/img/products/yx-mhs300-4.jpg",
+      "assets/img/products/yx-mhs300-5.jpg",
+      "assets/img/products/yx-mhs300-6.jpg",
+      "assets/img/products/yx-mhs300-7.jpg",
+      "assets/img/products/yx-mhs300-8.jpg",
+      "assets/img/products/yx-mhs300-9.jpg"
+    ],
+    "category": "Moving Head Light",
+    "subcategory": "Beam Moving Head Light",
+    "youtube": "https://youtu.be/llWFSS6QIiY",
+    "application": "Concerts, events, stages, DJ parties, weddings, TV studios and architectural lighting requiring bright beam, spot and wash effects in one fixture.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "300W LED 3-in-1 beam/spot/wash (BSW) moving head, 350W power consumption",
+      "Motorized 3°-45° beam zoom with mechanical focus optical system",
+      "8 colors + open, 7 static gobos + open, 8 rotating gobos + open",
+      "3-facet prism with bi-directional rotation, effect wheel",
+      "0-100% dimming, 0-20Hz strobe",
+      "540° pan / 270° tilt 16-bit with electric correction",
+      "DMX512, master-slave, auto run & RDM, 25 channels"
+    ],
+    "specs": [
+      ["Model", "YX-MHS300"],
+      ["Input Power", "AC100-240V, 50/60Hz"],
+      ["Power Consumption", "350W"],
+      ["DMX Channel", "25 channels"],
+      ["Pan Scan", "540° (16-bit) electric correction"],
+      ["Tilt Scan", "270° (16-bit) electric correction"],
+      ["Color Wheel", "8 colors + open"],
+      ["Static Gobo", "7 gobos + open"],
+      ["Rotation Gobo", "8 gobos + open"],
+      ["Effect Wheel", "3-facet prism, bi-directional rotation"],
+      ["Lens Optical System", "Mechanical focus, beam zoom angle 3°-45°"],
+      ["Control Mode", "DMX512 / master-slave / auto run / RDM"],
+      ["Dimmer", "0-100%"],
+      ["Strobe", "0-20Hz"],
+      ["Display", "LCD display"],
+      ["Net Weight", "13.5KG"],
+      ["Gross Weight", "15.5KG"],
+      ["Product Size", "52×41.5×37cm"]
+    ]
   }
 ]
