@@ -206,6 +206,39 @@
       color: #00a6a6;
       font-weight: 500;
     }
+    .ov-pager {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 6px;
+      flex-wrap: wrap;
+      padding: 18px 0 8px;
+    }
+    .ov-pager button {
+      min-width: 38px;
+      height: 38px;
+      padding: 0 12px;
+      border: 1px solid #dce8e8;
+      background: #fff;
+      color: #0f3d3d;
+      font-size: 14px;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .ov-pager button:hover {
+      border-color: #00a6a6;
+      color: #00a6a6;
+    }
+    .ov-pager button.active {
+      background: #00a6a6;
+      border-color: #00a6a6;
+      color: #fff;
+    }
+    .ov-pager button:disabled {
+      opacity: 0.45;
+      cursor: not-allowed;
+    }
     .coming-soon {
       color: #8aa0a0;
       font-size: 13px;
@@ -477,6 +510,7 @@
                 <button class="btn-all" id="ov-all" style="display:none;">All Products</button>
               </div>
               <div id="product-grid" class="thumb-grid"><!-- rendered from products.json --></div>
+              <nav class="ov-pager" id="ov-pager" aria-label="Products pagination"></nav>
             </div>
 
           </div>
@@ -579,30 +613,82 @@
 
       var allList = [];
       var sidebar = document.querySelector('.cat-sidebar ul');
+      var pageSize = 12;
+      var currentList = [];
+      var currentPage = 1;
+      var pager = document.getElementById('ov-pager');
+
+      function renderCard(p) {
+        var a = document.createElement('a');
+        a.className = 'thumb-item';
+        a.href = 'product.html?model=' + encodeURIComponent(p.model || '');
+        var card = document.createElement('span'); card.className = 'th-card';
+        var imgw = document.createElement('span'); imgw.className = 'th-img';
+        var im = document.createElement('img');
+        im.src = p.img; im.alt = p.model || ''; im.loading = 'lazy';
+        imgw.appendChild(im);
+        var info = document.createElement('span'); info.className = 'th-info';
+        var mdl = document.createElement('span'); mdl.className = 'th-model';
+        mdl.textContent = p.model || '';
+        var nm = document.createElement('span'); nm.className = 'th-name';
+        nm.textContent = p.name || '';
+        info.appendChild(mdl); info.appendChild(nm);
+        card.appendChild(imgw); card.appendChild(info);
+        a.appendChild(card);
+        return a;
+      }
+
+      function updatePager(totalPages) {
+        if (!pager) return;
+        pager.innerHTML = '';
+        if (totalPages <= 1) { pager.style.display = 'none'; return; }
+        pager.style.display = 'flex';
+
+        var prev = document.createElement('button');
+        prev.type = 'button'; prev.textContent = '\u2039 Prev';
+        prev.disabled = currentPage <= 1;
+        prev.addEventListener('click', function () {
+          if (currentPage > 1) { currentPage--; renderPage(); }
+        });
+        pager.appendChild(prev);
+
+        var start = Math.max(1, currentPage - 2);
+        var end = Math.min(totalPages, currentPage + 2);
+        for (var i = start; i <= end; i++) {
+          var b = document.createElement('button');
+          b.type = 'button'; b.textContent = i;
+          if (i === currentPage) b.classList.add('active');
+          b.addEventListener('click', (function (pg) {
+            return function () { currentPage = pg; renderPage(); };
+          })(i));
+          pager.appendChild(b);
+        }
+
+        var next = document.createElement('button');
+        next.type = 'button'; next.textContent = 'Next \u203A';
+        next.disabled = currentPage >= totalPages;
+        next.addEventListener('click', function () {
+          if (currentPage < totalPages) { currentPage++; renderPage(); }
+        });
+        pager.appendChild(next);
+      }
+
+      function renderPage() {
+        grid.innerHTML = '';
+        var totalPages = Math.max(1, Math.ceil(currentList.length / pageSize));
+        if (currentPage > totalPages) currentPage = totalPages;
+        var start = (currentPage - 1) * pageSize;
+        var slice = currentList.slice(start, start + pageSize);
+        if (count) count.textContent = currentList.length + ' models';
+        btnAll.style.display = (currentList.length < allList.length) ? 'inline-block' : 'none';
+        slice.forEach(function (p) { grid.appendChild(renderCard(p)); });
+        updatePager(totalPages);
+      }
 
       function render(list) {
-        grid.innerHTML = '';
-        if (count) count.textContent = list.length + ' models';
-        btnAll.style.display = (list.length < allList.length) ? 'inline-block' : 'none';
-        list.forEach(function (p) {
-          var a = document.createElement('a');
-          a.className = 'thumb-item';
-          a.href = 'product.html?model=' + encodeURIComponent(p.model || '');
-          var card = document.createElement('span'); card.className = 'th-card';
-          var imgw = document.createElement('span'); imgw.className = 'th-img';
-          var im = document.createElement('img');
-          im.src = p.img; im.alt = p.model || ''; im.loading = 'lazy';
-          imgw.appendChild(im);
-          var info = document.createElement('span'); info.className = 'th-info';
-          var mdl = document.createElement('span'); mdl.className = 'th-model';
-          mdl.textContent = p.model || '';
-          var nm = document.createElement('span'); nm.className = 'th-name';
-          nm.textContent = p.name || '';
-          info.appendChild(mdl); info.appendChild(nm);
-          card.appendChild(imgw); card.appendChild(info);
-          a.appendChild(card);
-          grid.appendChild(a);
-        });
+        currentList = list;
+        currentPage = 1;
+        renderPage();
       }
 
       function filterBy(text, isSub) {
