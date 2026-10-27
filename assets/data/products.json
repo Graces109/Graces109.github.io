@@ -1246,5 +1246,60 @@
       ["Gross Weight", "15.5KG"],
       ["Product Size", "52×41.5×37cm"]
     ]
+  },
+  {
+    "model": "YX-MH300L",
+    "name": "300W LED Beam Moving Head Light with Dual Prisms & RGB Ring",
+    "img": "assets/img/products/yx-mh300l.jpg",
+    "images": [
+      "assets/img/products/yx-mh300l-1.jpg",
+      "assets/img/products/yx-mh300l-2.jpg",
+      "assets/img/products/yx-mh300l-3.jpg",
+      "assets/img/products/yx-mh300l-4.jpg",
+      "assets/img/products/yx-mh300l-5.jpg",
+      "assets/img/products/yx-mh300l-6.jpg",
+      "assets/img/products/yx-mh300l-7.jpg",
+      "assets/img/products/yx-mh300l-8.jpg",
+      "assets/img/products/yx-mh300l-9.jpg"
+    ],
+    "category": "Moving Head Light",
+    "subcategory": "Beam Moving Head Light",
+    "youtube": "https://youtu.be/totV33Ep3sY",
+    "application": "Concerts, events, stages, DJ parties, weddings, TV studios and architectural lighting requiring sharp 0-4° beam effects with color, gobo and dual prism effects.",
+    "quantity": "1 pc / carton (56×38×44cm, gross 14.7KG)",
+    "highlights": [
+      "300W LED module (31 LED patch beads), 7950lm, 8500K, 152mm light exit",
+      "Dual prisms - 48 honeycomb prisms + 12 prisms, overlaid with independent bidirectional rotation",
+      "14 colors + white with adjustable speed, bidirectional flowing water & rainbow effects",
+      "17 fixed patterns + white; linear focusing with atomization function & adjustable speed",
+      "0-100% mechanical dimming, mechanical strobe 1-12 F.P.S with strobe macro",
+      "Lens group optical system, electric focusing, beam angle 0-4°",
+      "540° pan / 270° tilt 8/16-bit, optoelectronic reset & fine auto-correction; DMX512, 16 channels"
+    ],
+    "specs": [
+      ["Model", "YX-MH300L"],
+      ["Power Supply", "AC100-240V, 50/60Hz"],
+      ["Total Power", "400W"],
+      ["Light Exit Diameter", "152mm"],
+      ["Bulb Model", "LED 300W module, 31 LED patch beads"],
+      ["Luminous Flux", "7950lm, color temperature up to 8500K"],
+      ["Ballast", "Electronic inductance ballast"],
+      ["Control Mode", "DMX512 / WMDMX / self-propelled"],
+      ["Channel", "16 channels"],
+      ["Display", "Dot matrix display with four light touch switches, capable of 180° display reversal"],
+      ["Color Tray", "14 color chips + white, adjustable rotation speed, bidirectional flowing water & rainbow effects"],
+      ["Pattern Disc", "Fixed pattern disc, 17 pattern effects + white light"],
+      ["Dual Prisms", "48 honeycomb prisms + 12 prisms, dual prisms overlaid for bidirectional independent rotation, adjustable speed"],
+      ["Focusing", "Linear focusing from near to far, with atomization function & adjustable atomization speed"],
+      ["Dimming", "0-100% mechanical dimming"],
+      ["Strobe", "Mechanical strobe 1-12 F.P.S, adjustable strobe effects, supports strobe macro"],
+      ["Optical System", "Lens group optical system, electric focusing, beam angle 0-4°"],
+      ["Reset System", "Optoelectronic reset system, auto retrieve reset on accidental misoperation"],
+      ["Pan", "540°, 8-bit/16-bit fine adjustment"],
+      ["Tilt", "270°, 8-bit/16-bit fine adjustment"],
+      ["Correction", "Horizontal & vertical fine automatic error correction function"],
+      ["Protection", "Overheat protection, IP20"],
+      ["Power Switch", "AC/DC switch"]
+    ]
   }
 ]
