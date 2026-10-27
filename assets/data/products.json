@@ -1710,5 +1710,54 @@
       ["Shell Color", "Black"],
       ["Material", "Aluminum alloy + plastic shell"]
     ]
+  },
+  {
+    "model": "YX-MH0940",
+    "name": "9×40W LED Moving Head Light with Beam & Strobe",
+    "img": "assets/img/products/yx-mh0940.jpg",
+    "images": [
+      "assets/img/products/yx-mh0940-1.jpg",
+      "assets/img/products/yx-mh0940-2.jpg",
+      "assets/img/products/yx-mh0940-3.jpg",
+      "assets/img/products/yx-mh0940-4.jpg",
+      "assets/img/products/yx-mh0940-5.jpg",
+      "assets/img/products/yx-mh0940-6.jpg",
+      "assets/img/products/yx-mh0940-7.jpg",
+      "assets/img/products/yx-mh0940-8.jpg",
+      "assets/img/products/yx-mh0940-9.jpg"
+    ],
+    "category": "Moving Head Light",
+    "subcategory": "LED Effect Moving Head Light",
+    "youtube": "https://youtu.be/a6sv-j_ypoI",
+    "application": "Concerts, events, stages, DJ parties, weddings, TV studios and architectural lighting requiring beam and strobe effects from a dual-beam moving head.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "Beam end: 9× 40W RGBW LED; Strobe terminal: 54× 1W CW LED + 54× 1W WW LED + 54× 0.5W RGB LED",
+      "White light color temperature 6300K, luminous 22400 lm, 20000 hours LED life",
+      "Zoom: beam angle 2.8°-31°, spot angle 5°-50° (beam end)",
+      "4 DMX channel modes: CH29 / CH34 / CH38 / CH61",
+      "DMX512 + RDM control, software upgrade via DMX connection",
+      "X-axis electrodeless rotation, Y-axis 202°",
+      "LCD display with 5 keys; 180-240V input, 500W power"
+    ],
+    "specs": [
+      ["Model", "YX-MH0940"],
+      ["Light Source (Beam End)", "9× 40W RGBW LED"],
+      ["Light Source (Strobe Terminal)", "54× 1W CW LED + 54× 1W WW LED + 54× 0.5W RGB LED"],
+      ["White Light Color Temperature", "6300K"],
+      ["Light Lux", "22400 lm"],
+      ["LED Life Expectancy", "20000 hours"],
+      ["Beam Angle", "2.8°-31° (beam end)"],
+      ["Spot Angle", "5°-50° (beam end)"],
+      ["Control", "5 keys, LCD display"],
+      ["Control Protocol", "DMX512, RDM"],
+      ["DMX Channel Mode", "4 types: CH29, CH34, CH38, CH61"],
+      ["Software Upgrade", "Update software through DMX connection"],
+      ["Rotation", "X-axis electrodeless rotation; Y-axis operation angle 202°"],
+      ["Input Power Supply", "180-240V~ 50/60Hz"],
+      ["Power", "500W"],
+      ["Power Outlet", "Power connector input/output"],
+      ["Signal Input/Output", "Three-core or five-core cannon head socket, RJ45"]
+    ]
   }
 ]
