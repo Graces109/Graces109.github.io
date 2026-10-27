@@ -445,5 +445,51 @@
       ["Packing Size", "40×38×51cm"],
       ["G.W", "14KG"]
     ]
+  },
+  {
+    "model": "YX-MH200W",
+    "name": "200W LED Waterproof Beam Moving Head Light",
+    "img": "assets/img/products/yx-mh200w.jpg",
+    "images": [
+      "assets/img/products/yx-mh200w-1.jpg",
+      "assets/img/products/yx-mh200w-2.jpg",
+      "assets/img/products/yx-mh200w-3.jpg",
+      "assets/img/products/yx-mh200w-4.jpg"
+    ],
+    "category": "Moving Head Light",
+    "subcategory": "Outdoor Moving Head Light",
+    "youtube": "https://youtu.be/10h3qLtu3_Q",
+    "application": "Outdoor stages, concerts, festivals, theme parks, building lighting and large events exposed to rain and harsh weather.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "200W white LED module, 7500K, 50,000h lifetime, low consumption & eco friendly",
+      "Ultra sharp 1.6° beam angle",
+      "13 colors + white color wheel; 18 static gobos + white with two-way flow & shake",
+      "8+16 facet prism for stunning beam effects",
+      "IP65 waterproof die-cast aluminum housing",
+      "540° pan / 270° tilt with intelligent photoelectric reset & pan/tilt lock for easy carry",
+      "17CH DMX, electronic focusing, 0-100% dimming, 1-25Hz strobe"
+    ],
+    "specs": [
+      ["Model", "YX-MH200W"],
+      ["Voltage", "AC100-240V, 50/60Hz"],
+      ["Rated Power", "300W"],
+      ["LED Source", "New 200W white LED module"],
+      ["Color Temperature", "7500K"],
+      ["LED Lifetime", "50,000 hours, low consumption, energy saving & eco friendly"],
+      ["Pan / Tilt", "540° / 270° + fine"],
+      ["Beam Angle", "1.6°"],
+      ["DMX Channels", "17CH"],
+      ["Focus System", "Electronic focusing"],
+      ["Dimming", "0-100% linear dimmer"],
+      ["Strobe", "1-25Hz, random pulse multi strobe"],
+      ["Color Wheel", "13 colors + white"],
+      ["Gobo Wheel", "18 static gobos + white, two-way flow & shaking effect"],
+      ["Prism", "8+16 facet prism"],
+      ["Display", "Chinese/English LCD menu display"],
+      ["Housing & IP", "Die-cast aluminum, IP65 waterproof"],
+      ["Reset System", "Intelligent photoelectric reset correction system; if a mistake happens the light recovers and returns to original position; pan & tilt lock button for easy maintenance & carry"],
+      ["Cooling System", "Low noise fan with excellent drive performance, heating flux analyzed & calculated by CFD software"]
+    ]
   }
 ]
