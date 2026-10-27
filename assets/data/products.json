@@ -2597,5 +2597,47 @@
       ["Net Weight", "5.8KG"],
       ["Gross Weight", "6.3KG"]
     ]
+  },
+  {
+    "model": "YX-ST960W",
+    "name": "400W Waterproof Strobe Light",
+    "img": "assets/img/products/yx-st960w.jpg",
+    "images": [
+      "assets/img/products/yx-st960w-1.jpg",
+      "assets/img/products/yx-st960w-2.jpg",
+      "assets/img/products/yx-st960w-3.jpg"
+    ],
+    "category": "LED Effect Light",
+    "subcategory": "LED Strobe Light",
+    "youtube": "https://youtu.be/mNHJn_T6ybg",
+    "application": "Outdoor events, concerts, festivals, clubs and stages needing a waterproof IP65 400W RGBW strobe with 12+12 built-in effects and horse-racing color effects.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "960 lamp beads with 12+12 segments, RGBW 4-color horse racing effect",
+      "Horse running + dyeing + flash effects",
+      "DMX512 / self-propelled / master-slave / voice control, with RDM function",
+      "CH4 / CH16 / CH48 channel modes",
+      "32-bit 0-100% linear dimming",
+      "Die-cast aluminum chassis, intelligent waterproof fan for heat dissipation",
+      "Waterproof IP65, working temperature -30°C to 50°C, small size and light weight"
+    ],
+    "specs": [
+      ["Model", "YX-ST960W"],
+      ["Voltage", "AC90-240V, 50-60Hz"],
+      ["Power", "400W"],
+      ["Lamp Beads", "960 pieces, 12+12 segments"],
+      ["Control Mode", "DMX512, self-propelled, master-slave, voice controlled, with RDM function"],
+      ["Channels", "CH4, CH16, CH48"],
+      ["Dimming", "32-bit 0-100% linear dimming"],
+      ["Features", "Horse running + dyeing + flash"],
+      ["Housing", "Die-cast aluminum chassis"],
+      ["Built-in Effects", "12+12 built-in effects, RGBW 4-color horse racing effect"],
+      ["Heat Dissipation", "Intelligent waterproof fan for heat dissipation"],
+      ["Working Temperature", "-30°C to 50°C"],
+      ["Stroboscopic Frequency", "1-30Hz"],
+      ["Waterproof Grade", "IP65"],
+      ["Lamp Size", "50×11.6×25.2cm"],
+      ["Net Weight", "8.9KG"]
+    ]
   }
 ]
