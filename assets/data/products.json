@@ -2724,5 +2724,47 @@
       ["Outer Box Size", "84×42.5×38.5cm (1 unit packed with 4 units)"],
       ["Gross Weight (4 units)", "17KG"]
     ]
+  },
+  {
+    "model": "YX-EF7126",
+    "name": "Mini 7pcs LED Retro Stage Effect Light",
+    "img": "assets/img/products/yx-ef7126.jpg",
+    "images": [
+      "assets/img/products/yx-ef7126-1.jpg",
+      "assets/img/products/yx-ef7126-2.jpg",
+      "assets/img/products/yx-ef7126-3.jpg",
+      "assets/img/products/yx-ef7126-4.jpg"
+    ],
+    "category": "LED Effect Light",
+    "subcategory": "LED Retro Light",
+    "youtube": "https://www.youtube.com/watch?v=sUZuh6WD89g",
+    "application": "Clubs, bars, retro-themed stages, parties and live shows needing a compact 7-head vintage retro effect light with RGB wash and COB strip lighting.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "Mini 7-piece vintage retro lamp",
+      "126× 5050RGB LED strip COB + 50W×7 lamp beads",
+      "7-head RGB auxiliary light + 7-head COB strip single-head control",
+      "DMX512 / self-walking / master-slave / voice control, with RDM function",
+      "CH4 / CH12 / CH30 channel modes",
+      "Working temperature -30°C to 50°C, strobe 1-30Hz, IP20",
+      "N.W. 5.35KG, single-head control with linear dimming"
+    ],
+    "specs": [
+      ["Model", "YX-EF7126"],
+      ["Voltage", "AC100~240V, 50/60Hz"],
+      ["Power", "30V / 18V / 200W"],
+      ["Lamp Beads", "126× 5050RGB LED strip COB / 50W×7"],
+      ["Control Mode", "DMX512, self-walking, master-slave, voice control, with RDM function"],
+      ["Channels", "CH4, CH12, CH30"],
+      ["Dimming", "7-head RGB auxiliary light + 7-head COB strip single-head control"],
+      ["Working Temperature", "-30°C to 50°C"],
+      ["Strobe Frequency", "1-30Hz"],
+      ["Connection Mode", "DMX512 I/O / Power I/O"],
+      ["IP Level", "IP20"],
+      ["Single Package Size (inside)", "61×55×18cm"],
+      ["Net Weight", "5.35KG"],
+      ["Outer Carton Size", "64×57×39cm (2 in 1)"],
+      ["Packaging Standard", "1 power line, 1 signal line, and 1 instruction manual"]
+    ]
   }
 ]
