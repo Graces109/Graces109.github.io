@@ -1624,5 +1624,42 @@
       ["Packaging Size", "95×34×19cm"],
       ["Net Weight", "9.85KG"]
     ]
+  },
+  {
+    "model": "YX-MH12",
+    "name": "12pcs Beam + Strobe Double-Sided Moving Head Light",
+    "img": "assets/img/products/yx-mh12.jpg",
+    "images": [
+      "assets/img/products/yx-mh12-1.jpg",
+      "assets/img/products/yx-mh12-2.jpg",
+      "assets/img/products/yx-mh12-3.jpg",
+      "assets/img/products/yx-mh12-4.jpg"
+    ],
+    "category": "Moving Head Light",
+    "subcategory": "LED Effect Moving Head Light",
+    "youtube": "https://youtu.be/hvvJRFyvro0",
+    "application": "Concerts, events, stages, DJ parties, weddings, TV studios and architectural lighting requiring combined beam and strobe effects from a double-sided moving head.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "12× 8W 5050RGBW four-in-one lamp beads + 224× 0.2W 5050 RGB 3-in-1 lamp beads + 56× 1W 505 white light lamp beads",
+      "Double-sided design combining beam and strobe effects",
+      "Y-axis infinite rotation",
+      "Flash 0-25 seconds, speed adjustable",
+      "Triple channel modes: 14CH / 27CH / 84CH",
+      "DMX512 / RDM / master-slave / sound control / auto-propelled mode",
+      "3-pin XLR control interface, average life 50,000 hours"
+    ],
+    "specs": [
+      ["Model", "YX-MH12"],
+      ["Power", "AC100-240V, 50/60Hz"],
+      ["Rated Power", "200W"],
+      ["Light Source", "12× 8W 5050RGBW four-in-one lamp beads; 224× 0.2W 5050 RGB 3-in-1 lamp beads; 56× 1W 505 white light lamp beads"],
+      ["Average Life", "50,000 hours"],
+      ["Channel Mode", "14/27/84CH"],
+      ["Control Mode", "DMX512 / RDM / master-slave / sound control / auto-propelled mode"],
+      ["Control Interface", "3-pin XLR head"],
+      ["Flash", "0-25 seconds (speed adjustable)"],
+      ["Rotation Angle", "Y-axis infinite rotation"]
+    ]
   }
 ]
