@@ -1363,5 +1363,61 @@
       ["Packaging Size", "51.5×37×40.5cm"],
       ["Gross Weight", "14KG"]
     ]
+  },
+  {
+    "model": "YX-MH380D",
+    "name": "380W Beam Moving Head Light with Dual Prisms & Rainbow Effects",
+    "img": "assets/img/products/yx-mh380d.jpg",
+    "images": [
+      "assets/img/products/yx-mh380d-1.jpg",
+      "assets/img/products/yx-mh380d-2.jpg",
+      "assets/img/products/yx-mh380d-3.jpg",
+      "assets/img/products/yx-mh380d-4.jpg",
+      "assets/img/products/yx-mh380d-5.jpg",
+      "assets/img/products/yx-mh380d-6.jpg",
+      "assets/img/products/yx-mh380d-7.jpg"
+    ],
+    "category": "Moving Head Light",
+    "subcategory": "Beam Moving Head Light",
+    "youtube": "https://youtu.be/7D4CMWB00Y0",
+    "application": "Concerts, events, stages, DJ parties, weddings, TV studios and architectural lighting requiring sharp beam effects with color, gobo and dual prism effects.",
+    "quantity": "1 pc / carton (56×38×44cm, gross 15KG)",
+    "highlights": [
+      "380W Phoenix bubble lamp, 7950lm, 8500K, electronic inductive ballast",
+      "Dual prisms - 48 honeycomb prisms + 12 prisms, stackable with independent bidirectional rotation",
+      "14 colors + white with 6 colorful tiles & rainbow effect, adjustable speed, bidirectional flowing effect",
+      "14 pattern effects + white light (10 fixed patterns + 4 glass images); linear focusing with atomization & adjustable speed",
+      "0-100% mechanical dimming, mechanical strobe 1-12 F.P.S with strobe macro",
+      "Photoelectric reset system; 540° pan / 270° tilt 8/16-bit with fine auto-correction",
+      "DMX512 / WMDMX / self-propelled, 16 channels"
+    ],
+    "specs": [
+      ["Model", "YX-MH380D"],
+      ["Power Supply", "AC100-240V, 50/60Hz"],
+      ["Total Power", "600W"],
+      ["Bulb Model", "Phoenix bubble 380W"],
+      ["Luminous Flux", "7950lm, color temperature up to 8500K"],
+      ["Ballast", "Electronic inductive ballast"],
+      ["Control Mode", "DMX512 / WMDMX / self-propelled"],
+      ["Channel", "16 channels"],
+      ["Display", "Dot matrix display with four light touch switches, capable of reversing 180° for display"],
+      ["Color Palette", "14 color tiles + white, 6 colorful tiles, rainbow effect; adjustable rotation speed, bidirectional flowing & rainbow effects"],
+      ["Pattern Disk", "Fixed pattern disk, 10 fixed patterns + 4 glass images (14 pattern effects + white light)"],
+      ["Prism", "48 honeycomb prisms + 12 prisms, double prisms stackable & rotate independently in both directions, adjustable rotation speed"],
+      ["Focusing", "Linear focusing from near to far, with atomization function & adjustable atomization speed"],
+      ["Dimming", "0-100% mechanical dimming"],
+      ["Strobe", "Mechanical strobe 1-12 F.P.S, adjustable strobe effects, supports strobe macro function"],
+      ["Reset System", "Photoelectric reset system, auto retrieve reset on accidental misoperation"],
+      ["Horizontal", "540°, 8-bit/16-bit fine tuned"],
+      ["Vertical", "270°, 8-bit/16-bit fine tuned"],
+      ["Correction", "Horizontal & vertical fine automatic error correction functions"],
+      ["Protection", "Overheat protection, IP20"],
+      ["Power Supply Type", "AC/DC switch power supply"],
+      ["Display Screen", "LCD display screen"],
+      ["Size", "300×240×530mm"],
+      ["Net Weight", "12KG"],
+      ["Packaging Size", "56×38×44cm"],
+      ["Gross Weight", "15KG"]
+    ]
   }
 ]
