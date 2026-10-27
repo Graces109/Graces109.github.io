@@ -1520,5 +1520,64 @@
       ["Packaging Size", "51×37×40.5cm"],
       ["Gross Weight", "14KG"]
     ]
+  },
+  {
+    "model": "YX-MH400B",
+    "name": "400W LED 3-in-1 Moving Head Light with CMY & CTO",
+    "img": "assets/img/products/yx-mh400b.jpg",
+    "images": [
+      "assets/img/products/yx-mh400b-1.jpg",
+      "assets/img/products/yx-mh400b-2.jpg",
+      "assets/img/products/yx-mh400b-3.jpg",
+      "assets/img/products/yx-mh400b-4.jpg",
+      "assets/img/products/yx-mh400b-5.jpg"
+    ],
+    "category": "Moving Head Light",
+    "subcategory": "Beam Moving Head Light",
+    "youtube": "https://youtu.be/1j2jSKLvLtU",
+    "application": "Concerts, events, stages, DJ parties, weddings, TV studios and architectural lighting requiring beam, spot and wash effects with CMY/CTO color control.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "400W white LED module, 8000K, 4m 80000 lm, 430W rated power",
+      "Independent CMY + CTO color mixing system, 12 colors + white with half-color function",
+      "12 fixed patterns + white, 7 glass rotating patterns each independently reversible",
+      "Single 6-row prisms + 8 prisms, each prism independently forward/reverse",
+      "0-100% linear dimming, high-speed strobe 0-30/s with macro; 4-50m linear focusing, 4-35° zoom",
+      "540° pan / 270° tilt 16-bit with electronic error correction",
+      "DMX512 + RDM, online software upgrade, dial address code, 22 channels; button + touch dual operation"
+    ],
+    "specs": [
+      ["Model", "YX-MH400B"],
+      ["Color Temperature", "8000K"],
+      ["Color Rendering Index", "75"],
+      ["Input Voltage", "AC110V-240V, 50/60Hz"],
+      ["Light Source", "400W white light LED module"],
+      ["Light Source Lifespan", "50000 hours"],
+      ["Luminous Illumination", "4 meters 80000 lm"],
+      ["Rated Power", "430W"],
+      ["Channel Mode", "22 channels"],
+      ["Horizontal Scanning", "540° (16-bit precision scanning), electronic error correction"],
+      ["Vertical Scanning", "270° (16-bit precision scanning), electronic error correction"],
+      ["Dimming System", "0-100% linear adjustment"],
+      ["Focusing System", "Linearly adjustable from 4 to 50 meters"],
+      ["Atomization System", "1 independent atomization effect, soft and natural light spot"],
+      ["Magnification Angle", "4-35°"],
+      ["High Speed Strobe", "0-30 times/second, adjustable speed strobe effect, strobe macro function"],
+      ["Color", "12 colors + white light, color half color function"],
+      ["Color System", "Independent CMY + CTO color mixing system"],
+      ["Fixed Pattern", "12 fixed patterns + white light"],
+      ["Rotating Pattern", "7 glass patterns, each independently reversible"],
+      ["Prism System", "Single 6-row prisms + 8 prisms, each prism independently forward & reverse"],
+      ["Macro Functions", "Console reset function, self-driving mode, master-slave mode"],
+      ["Display Mode", "LCD display, button + touch dual operation mode"],
+      ["Control Signal", "International standard DMX512, equipped with RDM function, online software upgrade, dial address code"],
+      ["Cooling Method", "Axial fans for enhanced cooling"],
+      ["Safety Device", "Electronic temperature control overheat protection, auto power-off protection on overheat system failure"],
+      ["Appearance Material", "High temperature resistant plastic"],
+      ["Working Environment", "-20°C to 40°C"],
+      ["Protection Level", "IP20"],
+      ["Net Weight", "22.5KG"],
+      ["Product Size", "38×27×65cm (L×W×H)"]
+    ]
   }
 ]
