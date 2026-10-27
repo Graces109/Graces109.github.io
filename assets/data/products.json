@@ -1976,5 +1976,108 @@
       ["Product Size", "Height 28.5 (with handle 31) × Length 22 × Width 23cm"],
       ["Net Weight", "4KG"]
     ]
+  },
+  {
+    "model": "YX-P350",
+    "name": "350W Waterproof Spotlight with Soft Light – Freely Assembled Type",
+    "img": "assets/img/products/yx-p350.jpg",
+    "images": [
+      "assets/img/products/yx-p350-1.jpg",
+      "assets/img/products/yx-p350-2.jpg",
+      "assets/img/products/yx-p350-3.jpg",
+      "assets/img/products/yx-p350-4.jpg",
+      "assets/img/products/yx-p350-5.jpg",
+      "assets/img/products/yx-p350-6.jpg",
+      "assets/img/products/yx-p350-7.jpg",
+      "assets/img/products/yx-p350-8.jpg",
+      "assets/img/products/yx-p350-9.jpg",
+      "assets/img/products/yx-p350-10.jpg"
+    ],
+    "category": "LED Wash Light",
+    "subcategory": "LED Par Wash Light",
+    "youtube": "https://youtu.be/G-6CfD8y94A",
+    "application": "Stage, film, TV studio, event and architectural soft-wash lighting where modules can be freely assembled into a large soft light panel.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "350W RGBAWW five-color light source, total luminous flux 12,000 Lm",
+      "Beam angle 60° / 30° with optional optical lenses",
+      "Color temperature 1800-8500K, CRI 92+, lifespan 20,000 hours",
+      "Freely assembled type — build large soft light panels as needed",
+      "IP65 waterproof, aluminum die-cast salt-corrosion resistant body",
+      "DMX512 / RDM protocol, up to 28 channel modes",
+      "OLED display, rapid software update via DMX"
+    ],
+    "specs": [
+      ["Model", "YX-P350"],
+      ["Input Voltage", "AC 100V-240V, 50/60Hz"],
+      ["Rated Power", "350W"],
+      ["Optical Light Source", "350-watt RGBAWW five-color light source"],
+      ["Beam Angle", "60° / 30° (optical lenses and other lenses available)"],
+      ["Total Luminous Flux", "12,000 Lm"],
+      ["Color Temperature", "1800-8500K"],
+      ["Color Rendering Index", "92+"],
+      ["Light Source Lifespan", "20,000 hours"],
+      ["Fast Stroboscopic", "1-25Hz"],
+      ["LED Refresh Rate", "900-25KHz"],
+      ["Control Channels", "1CH/2CH/3CH/4CH/5CH/7CH/12CH/19CH/RGB10CH/RGB15CH/CMY10CH/CMY15CH/8CH/28CH"],
+      ["Protocol", "Standard DMX512 protocol, RDM protocol"],
+      ["Data Connection", "Three-conductor XLR input/output"],
+      ["Display", "OLED display operation panel"],
+      ["Software", "Convenient and rapid software updates via DMX signals, intelligent temperature protection to ensure LED lifespan"],
+      ["Lamp Body", "Aluminum alloy die-cast structure, natural heat dissipation resistant to salt corrosion"],
+      ["Protection Class", "IP65"],
+      ["Working Environment", "-40°C to 45°C"],
+      ["Operating Environment", "-20°C to 45°C"]
+    ]
+  },
+  {
+    "model": "YX-PT200",
+    "name": "200W Zoom with CTO & Ring Par Light",
+    "img": "assets/img/products/yx-pt200.jpg",
+    "images": [
+      "assets/img/products/yx-pt200-1.jpg",
+      "assets/img/products/yx-pt200-2.jpg",
+      "assets/img/products/yx-pt200-3.jpg",
+      "assets/img/products/yx-pt200-4.jpg",
+      "assets/img/products/yx-pt200-5.jpg",
+      "assets/img/products/yx-pt200-6.jpg",
+      "assets/img/products/yx-pt200-7.jpg",
+      "assets/img/products/yx-pt200-8.jpg",
+      "assets/img/products/yx-pt200-9.jpg",
+      "assets/img/products/yx-pt200-10.jpg"
+    ],
+    "category": "LED Wash Light",
+    "subcategory": "LED Par Wash Light",
+    "youtube": "https://youtu.be/6Qoi8Zi_0fE",
+    "application": "Stage, bar, wedding, party and architectural lighting requiring a compact zoom par with CTO effect and point-control ring color.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "200W imported high brightness LED + 37 auxiliary lights for point control effect",
+      "CTO effect with 3 color swatches (red, green, blue) for dyeing, ultra quiet",
+      "High precision stepper motor, 10-60 degree linear zoom",
+      "Color temperature 3200K / 5600K or dual color options",
+      "DMX control / master-slave / voice control, 6/13/15/130 channel modes",
+      "Constant current drive, fire-resistant drop-proof nylon shell",
+      "Compact size, net weight 3.8KG"
+    ],
+    "specs": [
+      ["Model", "YX-PT200"],
+      ["Input Voltage", "AC90-240V, 50Hz/60Hz"],
+      ["Power", "250W"],
+      ["Light Source", "High brightness LED 200W imported light source beads + 37 auxiliary lights for point control effect"],
+      ["Effect", "With CTO effect and light to dark, comes with 3 color swatches (red, green, and blue) to meet the dyeing effect, ultra quiet"],
+      ["Motor", "High precision stepper motor"],
+      ["Color Temperature", "3200K / 5600K or dual color options available"],
+      ["Lens", "High precision spotlight lens group"],
+      ["Luminous Angle", "10-60 degrees linear amplification"],
+      ["Control Mode", "DMX control / master-slave / voice control"],
+      ["Channel", "6CH / 13CH / 15CH / 130CH"],
+      ["Drive Form", "Constant current drive"],
+      ["Shell", "Nylon plastic shell, fire-resistant, drop proof, environmentally friendly"],
+      ["Product Size", "Height 28.5 (with handle 31) × Length 22 × Width 23cm"],
+      ["Net Weight", "3.8KG"],
+      ["Packaging (1 pc)", "23×23×36cm, weight 4.25kg"],
+      ["Packaging (4 pcs)", "49×49×38cm, weight 17kg"]
+    ]
   }
 ]
