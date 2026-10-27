@@ -2199,5 +2199,47 @@
       ["Net Weight", "8.50KG"],
       ["Gross Weight", "9.5KG"]
     ]
+  },
+  {
+    "model": "YX-P5403Z",
+    "name": "54×3W Outdoor LED Par Wash Light",
+    "img": "assets/img/products/yx-p5403z.jpg",
+    "images": [
+      "assets/img/products/yx-p5403z-1.jpg",
+      "assets/img/products/yx-p5403z-2.jpg",
+      "assets/img/products/yx-p5403z-3.jpg"
+    ],
+    "category": "LED Wash Light",
+    "subcategory": "Outdoor Wash Light",
+    "application": "Outdoor stages, concerts, architecture, parks and wet environments needing a durable waterproof 54×3W RGBW par wash light.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "54× 3W RGBW LEDs, mixable to 16.7 million colors",
+      "Selectable beam angle 15° / 25° / 38° / 45° / 60° (45° default)",
+      "DMX 0-100% linearly adjustable zoom",
+      "Strobe 0-20 t/s, speed adjustable",
+      "DMX512 / sound / auto / master-slave control, 3/4/5/6/9CH",
+      "IP65 waterproof, aluminum honeycomb cooling housing",
+      "3-core XLR in/out"
+    ],
+    "specs": [
+      ["Model", "YX-P5403Z"],
+      ["Voltage", "AC100-240V, 50-60Hz"],
+      ["Power", "170W"],
+      ["Lamp Source", "54pcs × 3Watt"],
+      ["IP Grade", "IP65"],
+      ["Beam Angle", "15°, 25°, 38°, 45°, 60°; 45° as default, others need inquiry first"],
+      ["Color", "RGBW color can be mixed to more than 16.7 million colors"],
+      ["Control Mode", "DMX512 / sound / auto / master-slave"],
+      ["Channel", "3 / 4 / 5 / 6 / 9CH"],
+      ["Signal Input", "3-core XLR"],
+      ["Signal Output", "3-core XLR"],
+      ["Strobe", "0-20 t/s, speed adjustable"],
+      ["Dimming", "DMX 0-100% linearly adjustable zoom"],
+      ["Housing", "Aluminum chassis, honeycomb design, high quality cooling system"],
+      ["Carton Size", "26×26×38cm (1pc/ctn)"],
+      ["Gross Weight", "4.45KG (1pc/ctn)"],
+      ["Carton Packing", "79×54×41cm (6pcs/ctn)"]
+    ]
   }
 ]
