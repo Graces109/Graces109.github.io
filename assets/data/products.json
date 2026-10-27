@@ -2378,5 +2378,42 @@
       ["Net Weight", "3.2kg"],
       ["Gross Weight", "3.5kg"]
     ]
+  },
+  {
+    "model": "YX-T4812",
+    "name": "48×4W Double-Row Wall Washer Light",
+    "img": "assets/img/products/yx-t4812.jpg",
+    "images": [
+      "assets/img/products/yx-t4812-1.jpg",
+      "assets/img/products/yx-t4812-2.jpg",
+      "assets/img/products/yx-t4812-3.jpg",
+      "assets/img/products/yx-t4812-4.jpg"
+    ],
+    "category": "LED Wash Light",
+    "subcategory": "LED Wall Wash Light",
+    "application": "Architectural walls, facades, stage backdrops, bridges and event décor needing a double-row RGBW wall washer with 12-segment single-point control.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "48× 4W RGBW lamp beads in a double-row design",
+      "12-segment single-point control with linear dimming",
+      "DMX512 / self-propelled / master-slave / voice control, with RDM function",
+      "CH09 / CH53 channel modes",
+      "Flash frequency 1-30Hz",
+      "Working temperature -30°C to 50°C",
+      "DMX512 & power in/out, IP20"
+    ],
+    "specs": [
+      ["Model", "YX-T4812"],
+      ["Voltage", "AC100~240V, 50/60Hz"],
+      ["Power", "180W"],
+      ["Lamp Beads", "48× 4W RGBW"],
+      ["Control Mode", "DMX512, self-propelled, master-slave, voice control, with RDM function"],
+      ["Channel", "CH09, CH53"],
+      ["Dimming", "12-segment single-point control, linear dimming"],
+      ["Working Temperature", "-30°C to 50°C"],
+      ["Flash Frequency", "1-30Hz"],
+      ["Connection Mode", "DMX512 input and output / power input and output"],
+      ["IP Grade", "IP20"]
+    ]
   }
 ]
