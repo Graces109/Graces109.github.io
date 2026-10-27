@@ -594,5 +594,54 @@
       ["Dimensions", "353×355×570mm"],
       ["Appearance", "Full die-casting + high-strength engineering nylon plastic, UV resistant, high temp resistant, anti-aging, lightweight; wind direction drainage & temperature intelligent monitoring technology for fast heat dissipation"]
     ]
+  },
+  {
+    "model": "YX-MH480W",
+    "name": "Outdoor 480W Beam Moving Head Light IP65 Waterproof",
+    "img": "assets/img/products/yx-mh480w.jpg",
+    "images": [
+      "assets/img/products/yx-mh480w-1.jpg",
+      "assets/img/products/yx-mh480w-2.jpg",
+      "assets/img/products/yx-mh480w-3.jpg",
+      "assets/img/products/yx-mh480w-4.jpg",
+      "assets/img/products/yx-mh480w-5.jpg",
+      "assets/img/products/yx-mh480w-6.jpg"
+    ],
+    "category": "Moving Head Light",
+    "subcategory": "Outdoor Moving Head Light",
+    "youtube": "https://youtu.be/m0T3TzIMX50",
+    "application": "Outdoor stage lighting, concerts, music festivals, large events, building projection and installations exposed to rain or harsh weather.",
+    "quantity": "1 pc / carton (600×500×850mm)",
+    "highlights": [
+      "Original OSRAM 461W lamp, 800W total power - ultra bright beam for concerts, festivals & big outdoor events",
+      "IP65 waterproof - reliable outdoor beam for stage, event & building lighting in rain",
+      "Imported Italy pure color: 13+1 colors + multicolor rainbow + atomization; 13 fixed patterns + white",
+      "160mm lens with 0-1.8° beam angle, electronic linear HD dynamic focusing",
+      "8 rotatable prism with macro function",
+      "Powerful three-electric-drive XY motor - fast, stable & silent movement",
+      "High-strength engineering nylon + die-casting aluminum shell, UV/high-temp resistant, lightweight with fast heat dissipation"
+    ],
+    "specs": [
+      ["Model", "YX-MH480W"],
+      ["Voltage", "Wide voltage 110-240V, 50/60Hz"],
+      ["Light Source", "Original OSRAM 461W"],
+      ["Total Power", "800W"],
+      ["Color", "Imported from Italy pure color: 13+1 + multicolor rainbow effect + atomization function"],
+      ["Pattern", "Pattern disc: 13 fixed patterns + 1 white light"],
+      ["Focusing", "Electronic linear HD dynamic focusing with high-density glass optical lens"],
+      ["Dimming", "0%-100% linear dimming curve"],
+      ["Beam Angle", "0-1.8°"],
+      ["Channels", "16/20 international standard DMX512 channels"],
+      ["Lens Diameter", "160mm"],
+      ["XY Motor", "Three electric drives, powerful, faster, more stable & more silent"],
+      ["Appearance", "High-strength engineering nylon (UV resistant, high temp resistant, anti-aging) + high-temp die-casting aluminum shell, lightweight; wind direction drainage & temperature intelligent monitoring technology for fast heat dissipation"],
+      ["Waterproof Grade", "IP65"],
+      ["Control Mode", "DMX512, self-propelled, master-slave"],
+      ["Prism", "8 prism rotatable, macro function"],
+      ["Lamp Body Size", "424×367×725mm"],
+      ["Net Weight", "27KG"],
+      ["Package Size", "600×500×850mm"],
+      ["Gross Weight", "36kg"]
+    ]
   }
 ]
