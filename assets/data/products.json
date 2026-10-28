@@ -4376,5 +4376,52 @@
       ["Product Size", "394mm×393mm×245mm (L×W×H)"],
       ["Net Weight", "12.5kg"]
     ]
+  },
+  {
+    "model": "YX-SP200W",
+    "name": "200W LED Spotlight (High Brightness, DMX512)",
+    "img": "assets/img/products/yx-sp200w.jpg",
+    "images": [
+      "assets/img/products/yx-sp200w-1.jpg",
+      "assets/img/products/yx-sp200w-2.jpg",
+      "assets/img/products/yx-sp200w-3.jpg",
+      "assets/img/products/yx-sp200w-4.jpg",
+      "assets/img/products/yx-sp200w-5.jpg",
+      "assets/img/products/yx-sp200w-6.jpg",
+      "assets/img/products/yx-sp200w-7.jpg",
+      "assets/img/products/yx-sp200w-8.jpg"
+    ],
+    "category": "LED Movies Light",
+    "subcategory": "",
+    "application": "Studios, theaters, stages, conference rooms and video shooting needing a high-brightness 200W LED spotlight with manual focusing and DMX512 control.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "200W imported high brightness LED light source",
+      "Color temperature 3200K/5600K optional, 2-in-1, RGBW",
+      "Color rendering index (CRI) ≥95",
+      "Optical angle 15°-40° manual focusing",
+      "0-100% linear dimming, fan cooling",
+      "Standard DMX512, self-propelled and master-slave control",
+      "50,000 hours lamp bead lifespan, IP20",
+      "Cost-effective low-configuration version with no special venue requirements"
+    ],
+    "specs": [
+      ["Model", "YX-SP200W"],
+      ["Input Voltage", "AC100-240V, 50/60Hz"],
+      ["Rated Power", "200W"],
+      ["Light Source", "200W imported high brightness LED"],
+      ["Color Temperature", "3200K/5600K optional, 2-in-1, RGBW"],
+      ["Color Rendering Index", "≥95"],
+      ["Cooling", "Fan cooling"],
+      ["Lamp Bead Lifespan", "50000 hours"],
+      ["Dimming", "0%-100% linear dimming"],
+      ["Optical Material", "Large angle condenser lens + threaded condenser lens"],
+      ["Optical Angle", "15°-40° manual focusing"],
+      ["Protection Level", "IP20"],
+      ["Control Mode", "Standard DMX512 signal, self-propelled, master-slave"],
+      ["Number of Channels", "2 (monochrome) / 4 (dual color) / 9 (four-color) DMX channels"],
+      ["Product Size", "41×32×20cm (L×W×H)"],
+      ["Net Weight", "5.3kg"]
+    ]
   }
 ]
