@@ -5249,5 +5249,43 @@
       ["Aviation Box", "51CM × 31CM × 20CM, gross weight 9.8KG"],
       ["Carton Packaging", "48.5CM × 27.8CM × 15.5CM, gross weight 7KG"]
     ]
+  },
+  {
+    "model": "YX-BK08",
+    "name": "Big Wing for MA 3 on PC DMX Console (4096 Parameters, 29 Encoders)",
+    "img": "assets/img/products/yx-bk08.jpg",
+    "images": [
+      "assets/img/products/yx-bk08-1.jpg",
+      "assets/img/products/yx-bk08-2.jpg"
+    ],
+    "category": "DMX Console",
+    "subcategory": "",
+    "application": "Professional lighting control for large stages, theaters, concerts and touring when paired with grand MA 3 on PC software, offering a full command wing with encoders, faders and assignable keys.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "Real-time control of 4096 parameters using grand MA 3 on PC",
+      "Command section similar to grandMA3 compact layout",
+      "29 rotating RGB backlight encoders plus 5 dual encoders",
+      "10 60mm electric thrusters, 2 100mm electric A/B thrusters",
+      "40 independent plays, 16 assignable X keys",
+      "1 horizontal wheel",
+      "Simply connect to any PC via USB to run"
+    ],
+    "specs": [
+      ["Model", "YX-BK08"],
+      ["Control", "Real-time control of 4096 parameters using grand MA 3 on PC"],
+      ["Command Section", "Command section similar to grandMA3 compact layout"],
+      ["Encoders", "29 rotating RGB backlight encoders, 5 dual encoders"],
+      ["Thrusters", "10 60mm electric thrusters"],
+      ["Independent Plays", "40 independent plays"],
+      ["Assignable Keys", "16 assignable X keys"],
+      ["A/B Thrusters", "2 100mm electric A/B thrusters"],
+      ["Wheel", "1 horizontal wheel"],
+      ["Buttons", "Independent backlight and dimmable mute (no click) button"],
+      ["Connection", "Simply connect to any PC via USB to run"],
+      ["Console Size", "63CM × 42CM × 12CM, net weight 11.8KG"],
+      ["Aviation Box", "69CM × 52CM × 19.5CM, gross weight 21KG"],
+      ["Carton Packaging", "68.5CM × 48.5CM × 15.5CM, gross weight 13KG"]
+    ]
   }
 ]
