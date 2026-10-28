@@ -3560,5 +3560,48 @@
       ["Carton Size", "73×35×29.5cm"],
       ["Gross Weight", "13.5KG"]
     ]
+  },
+  {
+    "model": "YX-P05RGB",
+    "name": "5-Head RGB Laser Matrix Light (Parallel Beam)",
+    "img": "assets/img/products/yx-p05rgb.jpg",
+    "images": [
+      "assets/img/products/yx-p05rgb-1.jpg",
+      "assets/img/products/yx-p05rgb-2.jpg",
+      "assets/img/products/yx-p05rgb-3.jpg",
+      "assets/img/products/yx-p05rgb-4.jpg",
+      "assets/img/products/yx-p05rgb-5.jpg"
+    ],
+    "category": "LED Laser Light",
+    "subcategory": "Laser Light",
+    "youtube": "https://youtu.be/-OBMRZSVUhA",
+    "application": "Concerts, stages, DJ parties, weddings, clubs and events needing a 5-head RGB laser matrix with parallel beams, colorful laser array and flowing color changing effects.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "5-head RGB laser array, each color with 256-grade dimming",
+      "Φ15mm outlet spot, high brightness and no risk to the environment",
+      "5 parallel beam effects with 10cm spacing, each beam XY axis adjustable",
+      "Small beam diameter and divergence, ideal spots over long distance",
+      "DMX512 (16 channels), sound active, AUTO, manual, master/slave",
+      "Laser key, laser remote interlock and flying rings bolt safety",
+      "Full diode laser modules, stable quality and long service life"
+    ],
+    "specs": [
+      ["Model", "YX-P05RGB"],
+      ["Laser Array", "5-head RGB laser array, each color has 256-grade dimming for colorful laser array and various flowing color changing effects"],
+      ["Outlet Spot", "Φ15mm, showing high brightness, no risk to the environment"],
+      ["Beam", "5 parallel beam effects, spacing between each beam 10cm; each beam XY axis position adjustable for ideal parallel beams"],
+      ["Dust Proof", "Dust proof designs"],
+      ["Play Modes", "DMX512 (16 channels), sound active, AUTO, manual, master/slave"],
+      ["Safety Configuration", "Laser key, laser remote interlock, flying rings bolt"],
+      ["Power Supply", "90~250V, 50/60Hz, 50~100W"],
+      ["Size", "500×210×70mm"],
+      ["Weight", "5.6Kg"],
+      ["Laser", "Full diode laser modules, stable quality and long service life; 5 RGB laser beams"],
+      ["Beam Spec (P05RGB7500)", "R-Laser 300mW@638nm, G-Laser 300mW@520nm, B-Laser 900mW@450nm; Beam diameter Φ15mm; Divergence <2.5mrad"],
+      ["Beam Spec (P05RGB10000)", "R-Laser 500mW@638nm, G-Laser 600mW@520nm, B-Laser 1000mW@450nm; Beam diameter Φ15mm; Divergence <2.5mrad"],
+      ["Inner Carton", "57×24×17cm, G.W 7KG"],
+      ["Outer Carton (2 in 1)", "59×26×38cm, G.W 14KG"]
+    ]
   }
 ]
