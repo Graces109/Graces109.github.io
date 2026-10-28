@@ -4334,5 +4334,47 @@
       ["Packing Size", "48cm×28cm×27cm"],
       ["Packing Weight", "5kg"]
     ]
+  },
+  {
+    "model": "YX-B4100",
+    "name": "400W Waterproof Audience Light (4x100W COB, IP65)",
+    "img": "assets/img/products/yx-b4100.jpg",
+    "images": [
+      "assets/img/products/yx-b4100-1.jpg",
+      "assets/img/products/yx-b4100-2.jpg",
+      "assets/img/products/yx-b4100-3.jpg"
+    ],
+    "category": "LED Movies Light",
+    "subcategory": "",
+    "application": "Outdoor concerts, stages, festivals, architectural lighting, television studios and events needing a waterproof audience light with 4x100W COB LEDs and IP65 rating.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "4× 100W / 4× 150W LED light source, 400W/600W rated power",
+      "Color temperature 3200K/5600K/2-in-1/4-in-1 optional",
+      "Lens + reflective cup / double lens optical options",
+      "IP65 waterproof, works outdoor -20°C to 50°C",
+      "International standard DMX512, self-propelled and master-slave control",
+      "Independent electronic strobe 1-25Hz, linear dimming 0-100%",
+      "High strength die-cast aluminum alloy housing, beam angle 30°/60° optional"
+    ],
+    "specs": [
+      ["Model", "YX-B4100"],
+      ["Input Voltage", "AC100-240V, 50-60Hz"],
+      ["Rated Power", "400W/600W"],
+      ["Optical Material", "Lens + reflective cup / double lens"],
+      ["LED Light Source", "4×100W / 4×150W"],
+      ["Color Temperature", "3200K/5600K/2-in-1/4-in-1 optional"],
+      ["Lamp Bead Lifespan", "50000 hours"],
+      ["Number of Channels", "2 DMX channels"],
+      ["Control Mode", "International standard DMX512 signal, self-propelled, master-slave"],
+      ["Beam Angle", "30°, 60° optional"],
+      ["High Speed Strobe", "Independent electronic strobe, 1-25Hz"],
+      ["Linear Dimming", "0-100% linear dimming"],
+      ["Product Appearance", "High strength die-cast aluminum alloy, streamlined appearance design"],
+      ["Working Environment", "Outdoor -20°C to 50°C"],
+      ["Waterproof Rating", "IP65"],
+      ["Product Size", "394mm×393mm×245mm (L×W×H)"],
+      ["Net Weight", "12.5kg"]
+    ]
   }
 ]
