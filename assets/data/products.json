@@ -3858,5 +3858,57 @@
       ["Net Weight", "10KG"],
       ["Application", "Disco, clubs, KTV, pub, bar, family party, etc"]
     ]
+  },
+  {
+    "model": "YX-AL15RGB-Pro",
+    "name": "15W RGB Wedding Laser Light with APP Control (40KPPS, ILDA)",
+    "img": "assets/img/products/yx-al15rgb.jpg",
+    "images": [
+      "assets/img/products/yx-al15rgb-1.jpg",
+      "assets/img/products/yx-al15rgb-2.jpg",
+      "assets/img/products/yx-al15rgb-3.jpg",
+      "assets/img/products/yx-al15rgb-4.jpg",
+      "assets/img/products/yx-al15rgb-5.jpg",
+      "assets/img/products/yx-al15rgb-6.jpg",
+      "assets/img/products/yx-al15rgb-7.jpg",
+      "assets/img/products/yx-al15rgb-8.jpg",
+      "assets/img/products/yx-al15rgb-9.jpg"
+    ],
+    "category": "LED Laser Light",
+    "subcategory": "Laser Light",
+    "youtube": "https://youtu.be/kz4PHUQ2Zbs",
+    "application": "Weddings, large-scale outdoor performances, outdoor lighting projects, events and shows needing a 15W RGB wedding laser light with APP text control, ILDA/DMX512 and 40KPPS scanner.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "15W RGB laser: red 4000mW@638nm, green 4000mW@525nm, blue 7000mW@440nm",
+      "Full pure diode (DSS) laser, stable performance, works -30°C to 40°C",
+      "Analog laser modulation with linear brightness dimming",
+      "Beam show and animated graphics show patterns",
+      "8GB TF card for built-in and downloadable programs, .ild playback",
+      "40KPPS scanner, max scanning angle 50°, XY mirror 8×14mm",
+      "APP control with text input (supports Chinese/English, up to 5-6 Chinese characters; other characters hand-drawn)",
+      "ILDA, DMX512 (18/25CH), PRG, ILD, sound, AUTO, outdoor and master/slave modes",
+      "Automatic laser shutdown without trigger signal and scanner failure protection"
+    ],
+    "specs": [
+      ["Model", "YX-AL15RGB-Pro"],
+      ["Voltage", "AC90~250V, 50Hz/60Hz"],
+      ["Rated Power", "300W"],
+      ["Waterproof Level", "IP51"],
+      ["Work Environment", "Indoor, -30°C to 40°C"],
+      ["Laser", "Full pure diode laser (DSS); analog laser modulation, 30kHz frequency"],
+      ["Laser Power", "Red 4000mW@638nm, Green 4000mW@525nm, Blue 7000mW@440nm"],
+      ["Beam Diameter", "<5.5mm, Divergence <1.3mrad"],
+      ["Scanner", "40KPPS ILDA @8°, max scanning angle 50°, signal input voltage ±5V, XY mirror 8×14mm, maximum accommodate laser spot 5.6(W)×5.6(H)mm"],
+      ["Graphics & Effects", "Beam show and animated graphics show patterns"],
+      ["TF Card", "8GB, for storage, built-in program and downloading program; play program format .ild laser show document"],
+      ["Working Modes", "ILDA (PC control), DMX512 (18CH/25CH), PRG (TF card program), ILD (TF card program), sound active, AUTO, outdoor mode, master/slave"],
+      ["Safety Configuration", "Security protection, laser key switch, laser remote interlock, SFS control (scanner fail safety control ON/OFF), flying rings bolt"],
+      ["Interface", "3-pin XLR jack for DMX, DB25 and RJ45 interface for PC control"],
+      ["Machine Dimension", "355(L)×220(W)×185(H)mm"],
+      ["Machine Weight", "12.2Kg"],
+      ["Flightcase (1 in 1)", "472×346×252mm, G.W 19KG"],
+      ["Application", "All kinds of large-scale outdoor performances, outdoor lighting projects, weddings"]
+    ]
   }
 ]
