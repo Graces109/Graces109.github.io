@@ -11507,5 +11507,65 @@
         "To avoid any mistake, before you order, please be sure to check the size (picture 2, 3) first, then make order"
       ]
     ]
+  },
+  {
+    "model": "YX-SK01",
+    "name": "Sparkle Bag Spark Powder (Composite Titanium Metal Powder, 200g)",
+    "img": "assets/img/products/yx-sk01.jpg",
+    "images": [
+      "assets/img/products/yx-sk01-1.jpg",
+      "assets/img/products/yx-sk01-2.jpg",
+      "assets/img/products/yx-sk01-3.jpg",
+      "assets/img/products/yx-sk01-4.jpg"
+    ],
+    "category": "Accessories",
+    "subcategory": "",
+    "application": "Special effects for concerts, events, weddings and shows, producing a safe sparkle effect when used with a spark machine.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "Composite titanium metal powder for sparkle effects",
+      "Non-toxic and harmless, gentle and not too hot to touch by hand",
+      "For spray/spark machines",
+      "Aluminum foil bag packaging",
+      "Indoor spray height 1-3.5 meters, outdoor spray height 1-6 meters"
+    ],
+    "specs": [
+      [
+        "Model",
+        "YX-SK01"
+      ],
+      [
+        "Product Name",
+        "Composite Titanium Metal Powder"
+      ],
+      [
+        "Safety",
+        "Non toxic and harmless, easy to touch by hand, gentle and not too hot to touch"
+      ],
+      [
+        "Machine Used",
+        "Spray/spark machine"
+      ],
+      [
+        "Weight",
+        "200g"
+      ],
+      [
+        "Packaging Specifications",
+        "10 × 18 × 0.8cm"
+      ],
+      [
+        "Product Packaging",
+        "Aluminum foil bag packaging"
+      ],
+      [
+        "Indoor Spray Height",
+        "1-3.5 meters"
+      ],
+      [
+        "Outdoor Spray Height",
+        "1-6 meters"
+      ]
+    ]
   }
 ]
