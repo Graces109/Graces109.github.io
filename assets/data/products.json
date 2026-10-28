@@ -3345,5 +3345,52 @@
       ["Machine Size", "510(L)×320(W)×260(H)mm"],
       ["Machine Weight", "36Kg"]
     ]
+  },
+  {
+    "model": "YX-LP2",
+    "name": "2W Full Color Laser Starry Sky Light with Aperture",
+    "img": "assets/img/products/yx-lp2.jpg",
+    "images": [
+      "assets/img/products/yx-lp2-1.jpg",
+      "assets/img/products/yx-lp2-2.jpg",
+      "assets/img/products/yx-lp2-3.jpg",
+      "assets/img/products/yx-lp2-4.jpg",
+      "assets/img/products/yx-lp2-5.jpg"
+    ],
+    "category": "LED Laser Light",
+    "subcategory": "Laser Light",
+    "application": "Smart lighting KTV private rooms, music restaurants, high-end villas, home theaters, performance venues, outdoor and cultural tourism settings needing a 2W full-color starry sky laser with LED aperture ring.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "2W full-color laser: red 500mW + green 500mW + blue 1000mW",
+      "Full color, pure white and color combinations",
+      "38× 5050 RGB 0.2W LED light strip with independent loop control and running light function",
+      "DMX512 / self-walking / sound control / master-slave, with RDM function",
+      "Class 3B laser, projection distance ≥10m, scanning angle 180°",
+      "High-speed motor playback, 180° scanning, <0.5S input signal activation",
+      "Works -20°C to +35°C, service life 8000 hours"
+    ],
+    "specs": [
+      ["Model", "YX-LP2"],
+      ["Input Voltage", "AC90-240V, 50Hz/60Hz"],
+      ["Power", "250W"],
+      ["Laser Power", "2W full-color laser (Red 500mW / Green 500mW / Blue 1000mW)"],
+      ["Color Combinations", "Full color, pure white, color"],
+      ["Control Methods", "DMX512, self-walking, sound control, master-slave, with RDM function"],
+      ["Light Strip", "38 pieces of 5050 RGB × 0.2W LEDs with independent loop control and running light function"],
+      ["Laser Class", "Class 3B"],
+      ["Color Temperature", "5500K, COOL WHITE"],
+      ["Operating Ambient Temperature", "-20°C to +35°C"],
+      ["Projection Distance", "≥10m"],
+      ["Service Life", "8000 hours"],
+      ["Playback System", "High-speed motor"],
+      ["Scanning Angle", "180 degrees"],
+      ["Input Signal Activation Time", "<0.5S"],
+      ["Lamp Material", "New fireproof engineering plastic"],
+      ["Product Dimensions", "Height 28.5 (31 with handle) × Length 22 × Width 23 cm"],
+      ["Net Weight", "3.5kg"],
+      ["Packaging", "One pack: 23×23×36, weight 4.25kg; one set of four: 49×49×38, weight 17kg"],
+      ["Applicable Venues", "Smart lighting KTV private rooms, music restaurants, high-end villas, home theaters, performance venues, outdoor and cultural tourism settings"]
+    ]
   }
 ]
