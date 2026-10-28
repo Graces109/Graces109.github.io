@@ -4004,5 +4004,45 @@
       ["Machine Dimension", "300(L)×380(W)×220(H)mm"],
       ["Net Weight", "22.8Kg"]
     ]
+  },
+  {
+    "model": "YX-FB900",
+    "name": "2 Heads LED 900W Smoke Fog Bubble Machine",
+    "img": "assets/img/products/yx-fb900.jpg",
+    "images": [
+      "assets/img/products/yx-fb900-1.jpg",
+      "assets/img/products/yx-fb900-2.jpg",
+      "assets/img/products/yx-fb900-3.jpg",
+      "assets/img/products/yx-fb900-4.jpg",
+      "assets/img/products/yx-fb900-5.jpg",
+      "assets/img/products/yx-fb900-6.jpg"
+    ],
+    "category": "Fog Machine",
+    "subcategory": "",
+    "application": "Parties, clubs, bars, stage shows and events needing a 900W smoke fog bubble machine with 2 heads, 3-in-1 RGB LED effects and DMX/remote control.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "2 heads LED 900W smoke fog bubble machine",
+      "48 pcs 3W 3-in-1 RGB LEDs for colorful effects",
+      "DMX512 (8 channels), self-driving and remote control modes",
+      "1.2L fuel tank capacity",
+      "LCD display screen",
+      "3-pin XLR DMX socket"
+    ],
+    "specs": [
+      ["Model", "YX-FB900"],
+      ["Power Supply", "AC220-240V, 50-60Hz"],
+      ["Power", "900W"],
+      ["DMX Channels", "8CH"],
+      ["Working Modes", "Self-driving mode, DMX512, remote control"],
+      ["DMX Socket", "3-Pin XLR"],
+      ["Fuel Tank Capacity", "1.2L"],
+      ["LED Quantity", "48 pieces, 3W, 3-in-1 LED"],
+      ["Display", "LCD display screen"],
+      ["Size", "45×35×46.5cm"],
+      ["Net Weight", "12.8KG"],
+      ["Packaging Size", "53.5×43.5×49.5cm"],
+      ["Gross Weight", "15.1KG"]
+    ]
   }
 ]
