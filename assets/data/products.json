@@ -11613,5 +11613,54 @@
         "1 side male and another side female"
       ]
     ]
+  },
+  {
+    "model": "YX-Cable08",
+    "name": "1.5m Powercon Cable with Plug (RVVP Copper, USA/EU/AU/UK)",
+    "img": "assets/img/products/yx-cable08.jpg",
+    "images": [
+      "assets/img/products/yx-cable08-1.jpg"
+    ],
+    "category": "Accessories",
+    "subcategory": "",
+    "application": "Powering stage lighting equipment such as beam moving head, spot moving head, wash moving head, LED PAR, LED bar and CO2 effect fixtures, converting AC plug to Powercon connector.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "1.5-meter AC plug to Powercon connector cable for stage lighting equipment",
+      "Plug type shipped according to your shipping country (USA/EU/AU/UK)",
+      "For beam moving head, spot moving head, wash moving head, LED PAR, LED bar, CO2 effect",
+      "Customizable to any length",
+      "RVVP + copper conductors, 3×1mm cable size"
+    ],
+    "specs": [
+      [
+        "Model",
+        "YX-Cable08"
+      ],
+      [
+        "Type",
+        "1.5-meter Powercon cable with plug"
+      ],
+      [
+        "Plug Type",
+        "Ship the plug type according to your shipping country, e.g. shipping address is USA, we will ship USA plug; plug with standard USA/EU/AU/UK"
+      ],
+      [
+        "Application",
+        "AC plug exchange to Powercon connector for stage lighting equipment use like beam moving head, spot moving head, wash moving head, LED PAR, LED bar, CO2 effect"
+      ],
+      [
+        "Length",
+        "Standard with 1.5m (5ft); can be customized to any length"
+      ],
+      [
+        "Cable Material",
+        "RVVP + Copper"
+      ],
+      [
+        "Cable Size",
+        "3 × 1mm"
+      ]
+    ]
   }
 ]
