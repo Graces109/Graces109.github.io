@@ -3435,5 +3435,47 @@
       ["Packaging", "One pack one: 23×23×36, weight 4.25kg; one pack four: 49×49×38, weight 17kg"],
       ["Applicable Places", "Intelligent lighting, KTV rooms, private rooms, music restaurants, high-end villas, home theaters, performance venues, outdoor cultural tourism venues"]
     ]
+  },
+  {
+    "model": "YX-PT200A",
+    "name": "200W LED Par Surface Light with 3D Stereoscopic Phantom",
+    "img": "assets/img/products/yx-pt200a.jpg",
+    "images": [
+      "assets/img/products/yx-pt200a-1.jpg",
+      "assets/img/products/yx-pt200a-2.jpg",
+      "assets/img/products/yx-pt200a-3.jpg",
+      "assets/img/products/yx-pt200a-4.jpg",
+      "assets/img/products/yx-pt200a-5.jpg"
+    ],
+    "category": "LED Wash Light",
+    "subcategory": "LED Par Wash Light",
+    "application": "Stages, TV studios, weddings, events and architectural lighting needing a 200W LED par surface light with 3D stereoscopic phantom RGB ring effects, linear dimming and DMX control.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "200W high-brightness LED surface light, 3200K/5600K or dual-color",
+      "3 independent RGB light rings, each layer controls 52× 3030 full-color RGB LEDs",
+      "Rich dynamic light wheel and 3D stereoscopic phantom effects with independent layer control",
+      "16-bit 0~100% linear dimming",
+      "38× 0.2W 5050 RGB LED beads with independent loop control and running light control",
+      "DMX512, autonomous, sound control, master-slave, with RDM function",
+      "Strobe frequency 1~30Hz, fire-resistant engineering plastic, IP20"
+    ],
+    "specs": [
+      ["Model", "YX-PT200A"],
+      ["Input Voltage", "AC110-240V, 50Hz/60Hz"],
+      ["Power", "250W"],
+      ["Light Source", "Main surface light uses a 200W high-brightness LED bulb, with 3200K/5600K or dual-color options"],
+      ["Effect", "3 independent RGB light rings, each layer independently controls 52× 3030 full-color RGB LEDs, delivering rich dynamic light wheel and 3D stereoscopic phantom effects with independent layer control"],
+      ["Dimming", "16-bit 0~100% linear dimming"],
+      ["Light Strip", "38× 0.2W 5050 RGB LED beads with independent loop control and running light control"],
+      ["Control Modes", "DMX512, autonomous, sound control, master-slave, with RDM function"],
+      ["Working Environment Temperature", "0°C to 45°C"],
+      ["Stroboscopic Frequency", "1~30Hz"],
+      ["Lamp Material", "New fire-resistant engineering plastic"],
+      ["IP Rating", "IP20"],
+      ["Product Dimensions", "Height 28.5 (31 with handle) × Length 22 × Width 23 cm"],
+      ["Net Weight", "3.8kg"],
+      ["Packaging", "One box one piece: 23×23×36, weight 4.25kg; one box four pieces: 49×49×38, weight 17kg"]
+    ]
   }
 ]
