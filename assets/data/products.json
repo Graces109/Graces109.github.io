@@ -4210,5 +4210,44 @@
       ["Packing Size", "46×30×27cm (one pack), 7.8KG"],
       ["Outer Box Size", "48×32×57cm (two packs), 16.5KG"]
     ]
+  },
+  {
+    "model": "YX-BL0450",
+    "name": "4x 50W Four-Eye Blinder Light (Dual Color COB, DMX512)",
+    "img": "assets/img/products/yx-bl0450.jpg",
+    "images": [
+      "assets/img/products/yx-bl0450-1.jpg",
+      "assets/img/products/yx-bl0450-2.jpg",
+      "assets/img/products/yx-bl0450-3.jpg",
+      "assets/img/products/yx-bl0450-4.jpg",
+      "assets/img/products/yx-bl0450-5.jpg",
+      "assets/img/products/yx-bl0450-6.jpg",
+      "assets/img/products/yx-bl0450-7.jpg"
+    ],
+    "category": "LED Movies Light",
+    "subcategory": "",
+    "youtube": "https://youtu.be/nw6f2pwmqWc",
+    "application": "Concerts, stages, DJ parties, television studios, video shooting and events needing a four-eye blinder light with dual-color COB LEDs and DMX512 control.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "4× 50W dual-color COB lamp beads, 200W total",
+      "50,000 hours light source life",
+      "DMX512, voice control, self-propelled and master-slave control",
+      "6/12 channel modes",
+      "Strobe speed 0-20 times/second, adjustable",
+      "3-core XLR control interface"
+    ],
+    "specs": [
+      ["Model", "YX-BL0450"],
+      ["Input Voltage", "AC100-240V, 50-60Hz"],
+      ["Input Power", "250W"],
+      ["Light Source", "4×50W dual-color COB lamp beads"],
+      ["Light Source Life", "50,000 hours"],
+      ["Control Mode", "DMX512, voice control, self-propelled, master-slave control"],
+      ["Control Interface", "3-core XLR head (XLR-3P)"],
+      ["Channel Mode", "6/12 channels"],
+      ["Strobe Speed", "0-20 times/second (speed adjustable)"],
+      ["Protection Level", "IP20"]
+    ]
   }
 ]
