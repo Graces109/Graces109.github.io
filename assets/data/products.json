@@ -5214,5 +5214,40 @@
       ["Console Size", "34cm × 25cm × 9cm"],
       ["Weight", "Net weight 2.2kg, gross weight 3kg"]
     ]
+  },
+  {
+    "model": "YX-BK09",
+    "name": "Small Wing for MA 3 on PC DMX Console (4096 Parameters, 20 Encoders)",
+    "img": "assets/img/products/yx-bk09.jpg",
+    "images": [
+      "assets/img/products/yx-bk09-1.jpg",
+      "assets/img/products/yx-bk09-2.jpg",
+      "assets/img/products/yx-bk09-3.jpg"
+    ],
+    "category": "DMX Console",
+    "subcategory": "",
+    "application": "Professional lighting control for theaters, concerts, studios and touring when paired with grand MA 3 on PC software, offering a compact fader wing with encoders and multiple DMX outputs.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "Real-time control of 4096 parameters using grand MA 3 on PC",
+      "2 DMX connectors, 1 USB connector",
+      "20 rotating RGB backlight encoders",
+      "10 60mm electric thrusters",
+      "40 independent plays",
+      "Independent backlight and dimmable mute (no click) buttons",
+      "Including aviation box"
+    ],
+    "specs": [
+      ["Model", "YX-BK09"],
+      ["Control", "Real-time control of 4096 parameters using grand MA 3 on PC"],
+      ["DMX Connectors", "2 DMX connectors"],
+      ["USB", "1 USB connector"],
+      ["Encoders", "20 rotating RGB backlight encoders"],
+      ["Thrusters", "10 60mm electric thrusters"],
+      ["Independent Plays", "40 independent plays"],
+      ["Buttons", "Independent backlight and dimmable mute (no click) button"],
+      ["Aviation Box", "51CM × 31CM × 20CM, gross weight 9.8KG"],
+      ["Carton Packaging", "48.5CM × 27.8CM × 15.5CM, gross weight 7KG"]
+    ]
   }
 ]
