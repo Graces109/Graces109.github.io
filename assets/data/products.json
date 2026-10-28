@@ -3519,5 +3519,46 @@
       ["Machine Dimension", "450(L)×305(W)×200(H)mm"],
       ["Net Weight", "28.5Kg"]
     ]
+  },
+  {
+    "model": "YX-MHL500",
+    "name": "Six-Head Moving Head RGB Laser Light with LED Beam",
+    "img": "assets/img/products/yx-mhl500.jpg",
+    "images": [
+      "assets/img/products/yx-mhl500-1.jpg",
+      "assets/img/products/yx-mhl500-2.jpg",
+      "assets/img/products/yx-mhl500-3.jpg",
+      "assets/img/products/yx-mhl500-4.jpg",
+      "assets/img/products/yx-mhl500-5.jpg",
+      "assets/img/products/yx-mhl500-6.jpg"
+    ],
+    "category": "LED Laser Light",
+    "subcategory": "Laser Moving Head Light",
+    "youtube": "https://youtube.com/shorts/zr78OicePsk",
+    "application": "Disco, clubs, KTV, concerts, parties and stage productions needing a six-head moving head RGB laser light with LED beam, laser skynet/water line/strobe effects and stepper motor scanning.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "Laser power 3000mW (500mW × 6 pcs), RGB color",
+      "7 pcs 5W LED beam light beads, beam angle 3-5°",
+      "Precision stepper motor scanning system, 360° angle controllable",
+      "Laser skynet beam, laser water line, laser strobe, LED beam sense and water strobe effects",
+      "Voice control, self-propelled, DMX512, master-slave control",
+      "14/39 DMX channels optional",
+      "Indoor operation, -20°C to 55°C"
+    ],
+    "specs": [
+      ["Model", "YX-MHL500"],
+      ["Laser Power", "3000mW (500mW × 6 pcs)"],
+      ["Laser Color", "RGB"],
+      ["LED", "7 pcs 5W light beads, beam angle 3-5°"],
+      ["Laser System", "Precision stepper motor scanning system, 360° angle controllable"],
+      ["Laser Effects", "Laser skynet beam performance, laser water line effect, laser stroboscopic effect, LED beam sense, water stroboscopic effect, etc"],
+      ["Control Mode", "Voice control, self-propelled, DMX512, master-slave effect"],
+      ["DMX Channels", "14/39 channels optional"],
+      ["Service Environment", "Indoor, operating temperature -20°C to 55°C"],
+      ["Net Weight", "10.7kg"],
+      ["Carton Size", "73×35×29.5cm"],
+      ["Gross Weight", "13.5KG"]
+    ]
   }
 ]
