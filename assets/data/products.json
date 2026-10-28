@@ -4126,5 +4126,40 @@
       ["Gross Weight", "11KG"],
       ["Packing Size", "46×42×45cm"]
     ]
+  },
+  {
+    "model": "YX-SK1",
+    "name": "Spark Water Fall Effect Machine (Cold Spark Machine)",
+    "img": "assets/img/products/yx-sk1.jpg",
+    "images": [
+      "assets/img/products/yx-sk1-1.jpg",
+      "assets/img/products/yx-sk1-2.jpg",
+      "assets/img/products/yx-sk1-3.jpg"
+    ],
+    "category": "Fog Machine",
+    "subcategory": "",
+    "youtube": "https://youtu.be/w7dJjj5w_ng",
+    "application": "Weddings, concerts, parties, clubs, stage shows and events needing a cold spark waterfall effect machine with adjustable 1.5-5M spark height and DMX/remote control.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "Spark waterfall effect machine (cold spark)",
+      "Shoot-up spark effect, spark height 1.5-5M adjustable",
+      "Remote control and DMX512 (2CH) modes",
+      "LCD display screen",
+      "Pre-heating time only 3 minutes"
+    ],
+    "specs": [
+      ["Model", "YX-SK1"],
+      ["Rated Voltage", "AC220V/50Hz or AC120V/60Hz"],
+      ["Rated Power", "500W"],
+      ["Fuse", "15A"],
+      ["Pre-Heating Time", "3 mins"],
+      ["Spark Height", "1.5-5M height adjustable"],
+      ["Control Mode", "Remote control / DMX512"],
+      ["Display Screen", "LCD"],
+      ["DMX Channels", "2CH"],
+      ["Net Weight", "6.5Kg"],
+      ["Carton Dimension", "28×28×35cm"]
+    ]
   }
 ]
