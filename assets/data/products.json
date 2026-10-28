@@ -5121,5 +5121,56 @@
       ["DMX Input", "1 DMX-512 input connector (composite output function)"],
       ["Other Interfaces", "2 working lamp interfaces, 1 gigabit network interface, 1 MIDI input interface"]
     ]
+  },
+  {
+    "model": "YX-BK05",
+    "name": "Naughty Horse DMX Console (4096 Channels, 2×15.4\" Touch)",
+    "img": "assets/img/products/yx-bk05.jpg",
+    "images": [
+      "assets/img/products/yx-bk05-1.jpg",
+      "assets/img/products/yx-bk05-2.jpg",
+      "assets/img/products/yx-bk05-3.jpg",
+      "assets/img/products/yx-bk05-4.jpg",
+      "assets/img/products/yx-bk05-5.jpg"
+    ],
+    "category": "DMX Console",
+    "subcategory": "",
+    "application": "Stage, concert, theater, touring and event lighting productions needing a Naughty Horse DMX console with 4096 channels, dual touch screens, wireless remote control and reliable UPS backup.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "4096 built-in DMX channel parameters",
+      "Two 15.4-inch widescreen touch screens",
+      "Built-in UPS uninterruptible power supply with 0-delay auto switching",
+      "4 imported CNC high-precision encoders with anodized aluminum caps",
+      "24-hour uninterrupted aging baking machine test, 2-hour multi-frequency vibration test",
+      "Fully silent backlight professional mechanical buttons with adjustable brightness",
+      "6 DMX512 output interfaces, supports wireless remote control",
+      "Can create 1000 built-in effects and 1000 programs"
+    ],
+    "specs": [
+      ["Model", "YX-BK05"],
+      ["DMX Channels", "4096 built-in DMX channel parameters"],
+      ["Master Push Rod", "1 master control push rod"],
+      ["A/B Push Rods", "2 A/B push rods"],
+      ["Program Playback", "15 program playback putters"],
+      ["Program Store", "30 program storage function keys"],
+      ["Touch Screen", "Two 15.4-inch widescreen touch screens"],
+      ["Keypad", "Full specification command keypad"],
+      ["Encoders", "4 imported encoders, CNC high-precision machining, anodizing technology, aluminum encoder caps"],
+      ["Testing", "24-hour uninterrupted aging baking machine test, 2-hour uninterrupted multi-frequency vibration test"],
+      ["Keys", "Fully silent backlight professional mechanical buttons with adjustable backlight brightness"],
+      ["UPS", "Built-in UPS uninterruptible power supply, 0-delay automatic switching, undervoltage, overvoltage protection and indication functions"],
+      ["Size", "Lightweight small size design 710×530×(high 190, low 50)mm"],
+      ["Net Weight", "14kg"],
+      ["Motherboard", "Industrial control customized motherboard"],
+      ["CPU", "Intel Celeron CPU"],
+      ["Memory", "4GB DDR3 1600 RAM"],
+      ["Storage", "60GB solid state hard disk"],
+      ["Graphics", "Multiscreen control graphics card"],
+      ["Interfaces", "Two USB 2.0 interfaces, 1 LTC input interface, 1 gigabit network interface, 1 MIDI interface"],
+      ["DMX Output", "Six DMX512 output interfaces"],
+      ["Remote Control", "Support wireless remote control"],
+      ["Effects", "Can create 1000 built-in effects, can create 1000 programs"]
+    ]
   }
 ]
