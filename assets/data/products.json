@@ -4044,5 +4044,49 @@
       ["Packaging Size", "53.5×43.5×49.5cm"],
       ["Gross Weight", "15.1KG"]
     ]
+  },
+  {
+    "model": "YX-FB1500A",
+    "name": "4 Heads LED 1500W Smoke Fog Bubble Machine",
+    "img": "assets/img/products/yx-fb1500a.jpg",
+    "images": [
+      "assets/img/products/yx-fb1500a-1.jpg",
+      "assets/img/products/yx-fb1500a-2.jpg",
+      "assets/img/products/yx-fb1500a-3.jpg",
+      "assets/img/products/yx-fb1500a-4.jpg",
+      "assets/img/products/yx-fb1500a-5.jpg",
+      "assets/img/products/yx-fb1500a-6.jpg",
+      "assets/img/products/yx-fb1500a-7.jpg",
+      "assets/img/products/yx-fb1500a-8.jpg",
+      "assets/img/products/yx-fb1500a-9.jpg"
+    ],
+    "category": "Fog Machine",
+    "subcategory": "",
+    "youtube": "https://youtube.com/shorts/H3mGynwhm8s",
+    "application": "Parties, clubs, bars, stage shows and events needing a 1500W smoke fog bubble machine with 4 heads, 3-in-1 RGB LED effects and DMX/remote control.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "4 heads LED 1500W smoke fog bubble machine",
+      "48 pcs 3W 3-in-1 RGB LEDs for colorful effects",
+      "DMX512 (8 channels), self-driving and remote control modes",
+      "1.2L fuel tank capacity",
+      "LCD display screen",
+      "3-pin XLR DMX socket"
+    ],
+    "specs": [
+      ["Model", "YX-FB1500A"],
+      ["Power Supply", "AC220-240V, 50-60Hz"],
+      ["Power", "1500W"],
+      ["DMX Channels", "8CH"],
+      ["Working Modes", "Self-driving mode, DMX512, remote control"],
+      ["DMX Socket", "3-Pin XLR"],
+      ["Fuel Tank Capacity", "1.2L"],
+      ["LED Quantity", "48 pieces, 3W, 3-in-1 LED"],
+      ["Display", "LCD display screen"],
+      ["Size", "76×53×49cm"],
+      ["Net Weight", "27KG"],
+      ["Packaging Size", "76×53×49cm"],
+      ["Gross Weight", "28KG"]
+    ]
   }
 ]
