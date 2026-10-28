@@ -11716,5 +11716,52 @@
         "PowerCON"
       ]
     ]
+  },
+  {
+    "model": "YX-CR04",
+    "name": "Rain Cover for LED PAR Light (420D Oxford Cloth, Black)",
+    "img": "assets/img/products/yx-cr04.jpg",
+    "images": [
+      "assets/img/products/yx-cr04-1.jpg",
+      "assets/img/products/yx-cr04-2.jpg",
+      "assets/img/products/yx-cr04-3.jpg"
+    ],
+    "category": "Accessories",
+    "subcategory": "",
+    "application": "Protecting LED PAR lights, stage lighting, control panels and sound systems during outdoor performances, keeping them dry and dust-free.",
+    "quantity": "4 pcs / carton",
+    "highlights": [
+      "Rain cover for LED PAR light",
+      "420D Oxford cloth, black color",
+      "Waterproof, dustproof, flame-retardant, high-temperature resistant",
+      "Soft fabric, foldable, can be hung up and restored to original state",
+      "Convenient for carrying and use"
+    ],
+    "specs": [
+      [
+        "Model",
+        "YX-CR04"
+      ],
+      [
+        "Color",
+        "Black, transparent"
+      ],
+      [
+        "Material",
+        "420D Oxford cloth"
+      ],
+      [
+        "Features",
+        "Waterproof, dustproof, flame-retardant, high-temperature resistant, soft fabric, foldable, can be hung up and restored to its original state, convenient for carrying and use"
+      ],
+      [
+        "Scope of Application",
+        "Stage lighting, control panel, sound system, Raya shed, etc., suitable for outdoor performance use"
+      ],
+      [
+        "Packing Quantity",
+        "4 pcs"
+      ]
+    ]
   }
 ]
