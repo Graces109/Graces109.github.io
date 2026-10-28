@@ -4165,5 +4165,50 @@
       ["Net Weight", "6.5Kg"],
       ["Carton Dimension", "28×28×35cm"]
     ]
+  },
+  {
+    "model": "YX-P300Z",
+    "name": "300W Rainproof Focus Surface Light (High CRI LED, IP56)",
+    "img": "assets/img/products/yx-p300z.jpg",
+    "images": [
+      "assets/img/products/yx-p300z-1.jpg",
+      "assets/img/products/yx-p300z-2.jpg",
+      "assets/img/products/yx-p300z-3.jpg",
+      "assets/img/products/yx-p300z-4.jpg"
+    ],
+    "category": "LED Movies Light",
+    "subcategory": "",
+    "youtube": "https://youtu.be/rcO8PaOaJx8",
+    "application": "Video shooting, long-distance lighting, indoor and outdoor stage performances, studios, theaters and conference rooms needing a 300W high-CRI rainproof focus surface light.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "300W high-CRI LED surface light, color rendering index ≥95",
+      "Focusable for long and short distance, irradiation angle 10-60° linear amplification",
+      "Color temperature 3200K-5600K adjustable",
+      "Stable constant current drive, balanced illumination without flash and spots",
+      "Soft light-focusing switch effect",
+      "IP56 rainproof, iron casing",
+      "DMX control / master-slave / sound control, 10CH"
+    ],
+    "specs": [
+      ["Model", "YX-P300Z"],
+      ["Input Voltage", "AC90-240V, 50Hz/60Hz"],
+      ["Power", "300W"],
+      ["Light Source", "300W high-brightness COB integrated lamp bead"],
+      ["Motor", "High-precision stepper motor"],
+      ["Color Temperature", "3200K-5600K adjustable"],
+      ["Color Rendering Index", "≥95"],
+      ["Transparency Mirror", "High-precision focusing lens group"],
+      ["Effect", "Soft light-focusing switch"],
+      ["Lighting Angle", "10-60 degrees linear amplification"],
+      ["Control Mode", "DMX control / master-slave / sound control"],
+      ["Channel", "10CH"],
+      ["Drive Form", "Constant current drive"],
+      ["Casing", "Iron"],
+      ["Protection Level", "IP56"],
+      ["Net Weight", "7.1kg"],
+      ["Packing Size", "46×30×27cm (one pack), 7.8KG"],
+      ["Outer Box Size", "48×32×57cm (two packs), 16.5KG"]
+    ]
   }
 ]
