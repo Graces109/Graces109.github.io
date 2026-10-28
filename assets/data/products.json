@@ -3094,5 +3094,46 @@
       ["Y-Axis", "180°"],
       ["Z-Axis", "Infinite rotation"]
     ]
+  },
+  {
+    "model": "YX-MH8AXYZ",
+    "name": "8 Eyes Green Color Laser Moving Light",
+    "img": "assets/img/products/yx-mh8axyz.jpg",
+    "images": [
+      "assets/img/products/yx-mh8axyz-1.jpg",
+      "assets/img/products/yx-mh8axyz-2.jpg",
+      "assets/img/products/yx-mh8axyz-3.jpg",
+      "assets/img/products/yx-mh8axyz-4.jpg",
+      "assets/img/products/yx-mh8axyz-5.jpg"
+    ],
+    "category": "LED Laser Light",
+    "subcategory": "Laser Moving Head Light",
+    "youtube": "https://youtu.be/h7uKn4EqNjk",
+    "application": "Discos, clubs, KTV, pubs, family parties and shows needing an 8-eye green laser moving light with infinite X/Y/Z rotation.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "8 eyes green color laser moving light",
+      "G532-80mW × 8 pcs green laser, beam diameter φ15mm",
+      "7 pcs stepper motor, infinite X/Y/Z rotation",
+      "Auto / sound / DMX512 / master-slave modes",
+      "Rated power <180W, AC100~240V 50/60Hz",
+      "Optional: B445-500mW × 8 pcs or R638-500mW × 8 pcs"
+    ],
+    "specs": [
+      ["Model", "YX-MH8AXYZ"],
+      ["Rated Voltage", "AC100~240V, 50/60Hz"],
+      ["Rated Power", "<180W"],
+      ["Laser Color", "Green"],
+      ["Laser", "G532-80mW × 8 pcs"],
+      ["Beam Diameter", "φ15mm"],
+      ["Motor", "7 pcs stepper motor"],
+      ["X Rotate", "Infinite"],
+      ["Y Rotate", "Infinite"],
+      ["Z Rotate", "Infinite"],
+      ["Mode", "Auto, sound, DMX512, master-slave"],
+      ["Operating Requirement", "Dry, less dust, -10~45°C environmental temperature, reduces diode attenuation and extends light life"],
+      ["Application", "Disco, club, KTV, pub, family party, etc."],
+      ["Optional Configuration", "B445-500mW × 8 pcs; R638-500mW × 8 pcs (send request first)"]
+    ]
   }
 ]
