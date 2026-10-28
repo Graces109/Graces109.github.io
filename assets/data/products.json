@@ -3775,5 +3775,45 @@
       ["Body Size", "19.5×16.5×25.5cm"],
       ["Net Weight", "9KG"]
     ]
+  },
+  {
+    "model": "YX-AH3000G",
+    "name": "3W Green Laser Light (ILDA/DMX512, 40KPPS)",
+    "img": "assets/img/products/yx-ah3000g.jpg",
+    "images": [
+      "assets/img/products/yx-ah3000g-1.jpg",
+      "assets/img/products/yx-ah3000g-2.jpg"
+    ],
+    "category": "LED Laser Light",
+    "subcategory": "Laser Light",
+    "youtube": "https://youtu.be/kcE_m026AAw",
+    "application": "Disco, clubs, KTV, pub, bar, family parties and events needing a 3W green laser light with ILDA PC control, DMX512, LCD/SD functions and high-power safety protection.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "3W green laser (>3000mW@520nm), beam dia. 4×5mm, divergence <1.5mrad",
+      "Analog laser modulation with linear brightness dimming",
+      "LCD display and SD card functions, pattern size/sensitivity/color/scanner speed/mirror image set by button",
+      "ILDA PC control, DMX512 (18 channels), sound active, AUTO, master/slave",
+      "Compatible with ILDA laser show software, electronic switches for full ILDA signal",
+      "Single beam protection system, power key switch, laser ON-OFF switch, laser remote interlock, flying rings bolt",
+      "Automatic laser shutdown without trigger signal; scanner failure protection + shutter blocks laser output",
+      "40KPPS scanner, ±30° scanning angle"
+    ],
+    "specs": [
+      ["Model", "YX-AH3000G"],
+      ["Beam Diameter & Divergence", "<5mm, <1.5mrad"],
+      ["Modulation", "Made of analog laser modulation; users can dim the laser brightness linearly to make the laser light more colorful"],
+      ["Control", "LCD display technology, SD card functions; pattern sizes, sensitivity, color setting, scanner speed and mirror image set by button, easy to operate and understand, lower hardware failure rates"],
+      ["Play Modes", "ILDA PC control, DMX512 (18 channels), sound active, AUTO, master/slave"],
+      ["PC Control", "Compatible ILDA laser show software with ILDA interface; electronic switches to convert full ILDA signal"],
+      ["Safety Configuration", "Single beam protection system (ON/OFF), power key switch, laser ON-OFF switch, laser remote interlock, flying rings bolt"],
+      ["Safety Intelligent", "Automatically identify ILDA or built-in program mode; master/slave, DMX512 and PC control modes shut off laser automatically without trigger signal; scanner failure protection shuts off the laser signal and the shutter blocks the laser output automatically to avoid a single beam coming out"],
+      ["Power Supply", "100~250V, 50/60Hz, 100W"],
+      ["Green Laser", "Power >3000mW, wavelength 520nm, beam dia. 4×5mm, divergence <1.5mrad"],
+      ["Scanner", "40KPPS, ±30°"],
+      ["Machine Size", "26×21.5×19cm"],
+      ["Net Weight", "9.3KG"],
+      ["Application", "Disco, clubs, KTV, pub, bar, family party, etc"]
+    ]
   }
 ]
