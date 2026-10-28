@@ -1,0 +1,743 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Products | Guangzhou Yuexin Lighting — Moving Head, LED Wash, Laser &amp; More</title>
+  <meta content="Guangzhou Yuexin Lighting Co., Ltd. product range: moving head lights, LED wash lights, LED effect lights, laser lights, fog machines, LED movies lights, follow spot lights, DMX consoles and accessories. One-stop stage lighting manufacturer in Guangzhou, China." name="description">
+  <meta content="stage lighting, moving head light, LED wash light, LED effect light, laser light, fog machine, DMX console, follow spot, LED movies light, stage lighting factory" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+  <style>
+    .page-header {
+      background: #00c1c1;
+      padding: 110px 0 60px;
+      color: #fff;
+      text-align: center;
+    }
+    .page-header h1 {
+      font-size: 34px;
+      font-weight: 700;
+      margin-bottom: 10px;
+    }
+    .page-header p {
+      font-size: 16px;
+      margin: 0;
+      opacity: 0.95;
+    }
+    .catalog-wrap {
+      padding: 50px 0 70px;
+      background: #f7fbfc;
+    }
+    /* Left category sidebar */
+    .cat-sidebar {
+      position: sticky;
+      top: 90px;
+      background: #fff;
+      border: 1px solid #e8f0f0;
+      border-radius: 14px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+      padding: 22px 0;
+      max-height: calc(100vh - 110px);
+      overflow-y: auto;
+    }
+    .cat-sidebar .cat-title {
+      font-size: 15px;
+      font-weight: 700;
+      color: #0f3d3d;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      padding: 0 22px 12px;
+      border-bottom: 1px solid #e8f0f0;
+      margin-bottom: 8px;
+    }
+    .cat-sidebar ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+    .cat-sidebar .l1 {
+      margin: 2px 0;
+    }
+    .cat-sidebar .l1 > a {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 9px 22px;
+      color: #0f3d3d;
+      font-size: 14px;
+      font-weight: 600;
+      text-decoration: none;
+      transition: all 0.25s;
+    }
+    .cat-sidebar .l1 > a:hover,
+    .cat-sidebar .l1 > a.active {
+      color: #00c1c1;
+      background: #f0fcfc;
+    }
+    .cat-sidebar .l2 a {
+      display: block;
+      padding: 7px 22px 7px 40px;
+      color: #4e6b6b;
+      font-size: 13px;
+      text-decoration: none;
+      transition: all 0.25s;
+    }
+    .cat-sidebar .l2 a:hover,
+    .cat-sidebar .l2 a.active {
+      color: #f4a340;
+    }
+    /* Right product overview */
+    .cat-section {
+      background: #fff;
+      border: 1px solid #e8f0f0;
+      border-radius: 14px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+      padding: 30px 30px 20px;
+      margin-bottom: 28px;
+    }
+    .cat-section .cs-head {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      border-bottom: 2px solid #e8f0f0;
+      padding-bottom: 12px;
+      margin-bottom: 20px;
+    }
+    .cat-section .cs-head h3 {
+      font-size: 22px;
+      font-weight: 700;
+      color: #0f3d3d;
+      margin: 0;
+    }
+    .cat-section .cs-head .cs-count {
+      color: #8aa0a0;
+      font-size: 13px;
+    }
+    .cat-section .cs-subs {
+      margin-bottom: 16px;
+    }
+    .cat-section .cs-subs .badge-cat {
+      display: inline-block;
+      background: #f0fcfc;
+      color: #00a6a6;
+      border: 1px solid #c9ecec;
+      font-size: 12px;
+      font-weight: 500;
+      padding: 4px 12px;
+      border-radius: 20px;
+      margin: 0 6px 6px 0;
+    }
+    .thumb-grid {
+      display: flex;
+      flex-wrap: wrap;
+      margin: 0 -10px;
+    }
+    .thumb-item {
+      flex: 0 0 25%;
+      max-width: 25%;
+      padding: 0 10px 20px;
+    }
+    .thumb-item .th-card {
+      background: #fff;
+      border: 1px solid #eef3f3;
+      border-radius: 10px;
+      overflow: hidden;
+      height: 100%;
+      display: block;
+      text-decoration: none;
+      transition: all 0.3s;
+    }
+    .thumb-item .th-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 12px 26px rgba(0,193,193,0.15);
+    }
+    .thumb-item .th-img {
+      background: #fff;
+      padding: 12px;
+    }
+    .thumb-item .th-img img {
+      width: 100%;
+      aspect-ratio: 4/3;
+      object-fit: contain;
+      border-radius: 6px;
+    }
+    .thumb-item .th-info {
+      padding: 10px 14px 14px;
+      border-top: 1px solid #eef3f3;
+    }
+    .thumb-item .th-info .th-model {
+      display: block;
+      font-size: 14px;
+      font-weight: 700;
+      color: #00a6a6;
+      margin-bottom: 2px;
+      line-height: 1.3;
+    }
+    .thumb-item .th-info .th-name {
+      display: block;
+      font-size: 13px;
+      font-weight: 600;
+      color: #0f3d3d;
+      line-height: 1.35;
+    }
+    .thumb-item .th-info .th-tag {
+      font-size: 11px;
+      color: #00a6a6;
+      font-weight: 500;
+    }
+    .ov-pager {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 6px;
+      flex-wrap: wrap;
+      padding: 18px 0 8px;
+    }
+    .ov-pager button {
+      min-width: 38px;
+      height: 38px;
+      padding: 0 12px;
+      border: 1px solid #dce8e8;
+      background: #fff;
+      color: #0f3d3d;
+      font-size: 14px;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .ov-pager button:hover {
+      border-color: #00a6a6;
+      color: #00a6a6;
+    }
+    .ov-pager button.active {
+      background: #00a6a6;
+      border-color: #00a6a6;
+      color: #fff;
+    }
+    .ov-pager button:disabled {
+      opacity: 0.45;
+      cursor: not-allowed;
+    }
+    .coming-soon {
+      color: #8aa0a0;
+      font-size: 13px;
+      font-style: italic;
+      padding: 6px 0 14px;
+    }
+    .product-overview {
+      background: #fff;
+      border: 1px solid #e8f0f0;
+      border-radius: 14px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+      padding: 30px 30px 10px;
+    }
+    .product-overview .ov-head {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      border-bottom: 2px solid #e8f0f0;
+      padding-bottom: 12px;
+      margin-bottom: 22px;
+    }
+    .product-overview .ov-head h3 {
+      font-size: 22px;
+      font-weight: 700;
+      color: #0f3d3d;
+      margin: 0;
+    }
+    .product-overview .ov-head .ov-count {
+      color: #8aa0a0;
+      font-size: 13px;
+    }
+    /* Product detail modal */
+    .product-modal .pm-wrap {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0;
+    }
+    .product-modal .pm-img {
+      flex: 0 0 100%;
+      max-width: 100%;
+      padding: 0 0 18px;
+    }
+    .product-modal .pm-img img {
+      width: 100%;
+      border-radius: 10px;
+      background: #fff;
+    }
+    .product-modal .pm-body h4 {
+      font-size: 20px;
+      font-weight: 700;
+      color: #0f3d3d;
+      margin-bottom: 6px;
+    }
+    .product-modal .pm-body .pm-model {
+      color: #00a6a6;
+      font-weight: 600;
+      font-size: 15px;
+      margin-bottom: 6px;
+    }
+    .product-modal .pm-cat {
+      color: #7a9494;
+      font-size: 13px;
+      margin-bottom: 8px;
+    }
+    .product-modal .btn-video {
+      display: inline-block;
+      background: #ff0000;
+      color: #fff;
+      border: 0;
+      padding: 8px 20px;
+      border-radius: 50px;
+      font-weight: 600;
+      font-size: 13px;
+      text-decoration: none;
+      margin-bottom: 14px;
+    }
+    .product-modal .btn-video:hover {
+      background: #d40000;
+      color: #fff;
+    }
+    .ov-head .btn-all {
+      margin-left: 12px;
+      background: #0f3d3d;
+      color: #fff;
+      border: 0;
+      padding: 4px 16px;
+      border-radius: 30px;
+      font-size: 13px;
+      font-weight: 600;
+    }
+    .ov-head .btn-all:hover {
+      background: #00a6a6;
+      color: #fff;
+    }
+    .product-modal .pm-specs {
+      list-style: none;
+      padding: 0;
+      margin: 0 0 18px;
+      border-top: 1px solid #eef3f3;
+    }
+    .product-modal .pm-specs li {
+      display: flex;
+      padding: 8px 0;
+      border-bottom: 1px dashed #eef3f3;
+      font-size: 14px;
+    }
+    .product-modal .pm-specs li .k {
+      flex: 0 0 42%;
+      max-width: 42%;
+      font-weight: 600;
+      color: #0f3d3d;
+      padding-right: 10px;
+    }
+    .product-modal .pm-specs li .v {
+      flex: 1 1 auto;
+      color: #4e6b6b;
+    }
+    .product-modal .pm-none {
+      color: #8aa0a0;
+      font-size: 14px;
+      font-style: italic;
+      margin-bottom: 16px;
+    }
+    .product-modal .btn-view {
+      display: inline-block;
+      background: #00c1c1;
+      color: #fff;
+      border: 0;
+      padding: 11px 30px;
+      border-radius: 50px;
+      font-weight: 600;
+      font-size: 14px;
+      text-decoration: none;
+    }
+    .product-modal .btn-view:hover {
+      background: #f4a340;
+      color: #fff;
+    }
+    @media (min-width: 768px) {
+      .product-modal .pm-img {
+        flex: 0 0 40%;
+        max-width: 40%;
+        padding: 0 20px 0 0;
+      }
+    }
+    @media (max-width: 992px) {
+      .cat-sidebar {
+        position: static;
+        max-height: none;
+        margin-bottom: 28px;
+      }
+      .thumb-item {
+        flex: 0 0 50%;
+        max-width: 50%;
+      }
+    }
+    @media (max-width: 576px) {
+      .thumb-item {
+        flex: 0 0 100%;
+        max-width: 100%;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top d-flex align-items-center header-inner-page">
+    <div class="container d-flex align-items-center justify-content-between ">
+
+      <div class="logo">
+        <a href="index.html"><img src="assets/img/logo.png" alt="Yuexin Lighting" class="img-fluid" style="height:42px;width:auto;"></a>
+      </div>
+
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="nav-link scrollto" href="index.html#hero">Home</a></li>
+          <li><a class="nav-link scrollto" href="index.html#about">About</a></li>
+          <li class="dropdown"><a href="products.html" class="active"><span>Products</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="#products-overview">Moving Head Light</a></li>
+              <li><a href="#products-overview">LED Wash Light</a></li>
+              <li><a href="#products-overview">LED Effect Light</a></li>
+              <li><a href="#products-overview">LED Laser Light</a></li>
+              <li><a href="#products-overview">Fog Machine</a></li>
+              <li><a href="#products-overview">LED Movies Light</a></li>
+              <li><a href="#products-overview">Follow Spot Light</a></li>
+              <li><a href="#products-overview">DMX Console</a></li>
+              <li><a href="#products-overview">Accessories</a></li>
+            </ul>
+          </li>
+          <li><a class="nav-link scrollto" href="index.html#services">Why Us</a></li>
+          <li><a class="nav-link scrollto" href="index.html#portfolio">Gallery</a></li>
+          <li><a class="nav-link scrollto" href="index.html#contact">Contact</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= Page Header ======= -->
+  <section class="page-header">
+    <div class="container">
+      <h1>Our Product Range</h1>
+      <p>Nine core categories, one factory. Browse the full range and source it all from Yuexin.</p>
+    </div>
+  </section>
+
+  <main id="main">
+
+    <section class="catalog-wrap">
+      <div class="container">
+        <div class="row">
+
+          <!-- ======= Left: Category Navigation ======= -->
+          <div class="col-lg-3">
+            <aside class="cat-sidebar">
+              <div class="cat-title">Product Categories</div>
+              <ul>
+                <li class="l1"><a href="#products-overview">Moving Head Light <i class="bi bi-chevron-right"></i></a>
+                  <ul>
+                    <li class="l2"><a href="#products-overview">Outdoor Moving Head Light</a></li>
+                    <li class="l2"><a href="#products-overview">Profile Moving Head Light</a></li>
+                    <li class="l2"><a href="#products-overview">Beam Moving Head Light</a></li>
+                    <li class="l2"><a href="#products-overview">LED Moving Head Light</a></li>
+                    <li class="l2"><a href="#products-overview">LED Effect Moving Head Light</a></li>
+                  </ul>
+                </li>
+                <li class="l1"><a href="#products-overview">LED Wash Light <i class="bi bi-chevron-right"></i></a>
+                  <ul>
+                    <li class="l2"><a href="#products-overview">Outdoor Wash Light</a></li>
+                    <li class="l2"><a href="#products-overview">LED Par Wash Light</a></li>
+                    <li class="l2"><a href="#products-overview">LED Wall Wash Light</a></li>
+                  </ul>
+                </li>
+                <li class="l1"><a href="#products-overview">LED Effect Light <i class="bi bi-chevron-right"></i></a>
+                  <ul>
+                    <li class="l2"><a href="#products-overview">LED Dance Floor Light</a></li>
+                    <li class="l2"><a href="#products-overview">LED Strobe Light</a></li>
+                    <li class="l2"><a href="#products-overview">LED Retro Light</a></li>
+                  </ul>
+                </li>
+                <li class="l1"><a href="#products-overview">LED Laser Light <i class="bi bi-chevron-right"></i></a>
+                  <ul>
+                    <li class="l2"><a href="#products-overview">Outdoor Laser Light</a></li>
+                    <li class="l2"><a href="#products-overview">Laser Moving Head Light</a></li>
+                    <li class="l2"><a href="#products-overview">Laser Light</a></li>
+                  </ul>
+                </li>
+                <li class="l1"><a href="#products-overview">Fog Machine <i class="bi bi-chevron-right"></i></a></li>
+                <li class="l1"><a href="#products-overview">LED Movies Light <i class="bi bi-chevron-right"></i></a></li>
+                <li class="l1"><a href="#products-overview">Follow Spot Light <i class="bi bi-chevron-right"></i></a></li>
+                <li class="l1"><a href="#products-overview">DMX Console <i class="bi bi-chevron-right"></i></a></li>
+                <li class="l1"><a href="#products-overview">Accessories <i class="bi bi-chevron-right"></i></a></li>
+              </ul>
+            </aside>
+          </div>
+
+                              <!-- ======= Right: Product Overview ======= -->
+          <div class="col-lg-9">
+
+            <div id="products-overview" class="product-overview">
+              <div class="ov-head">
+                <h3>Product Overview</h3>
+                <span class="ov-count" id="ov-count">Loading...</span>
+                <button class="btn-all" id="ov-all" style="display:none;">All Products</button>
+              </div>
+              <div id="product-grid" class="thumb-grid"><!-- rendered from products.json --></div>
+              <nav class="ov-pager" id="ov-pager" aria-label="Products pagination"></nav>
+            </div>
+
+          </div>
+    </section>
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-4 col-md-6">
+            <div class="footer-info">
+              <h3>Yuexin Light</h3>
+              <p class="pb-3"><em>Guangzhou Yuexin Lighting Co., Ltd. — Professional stage lighting manufacturer. One-stop for moving heads, LED, lasers, effects &amp; controllers.</em></p>
+              <p>
+                Building B, Longhu Industrial Park, Longhu Village,<br>
+                Shijing Town, Baiyun District, Guangzhou,<br>
+                Guangdong, China<br><br>
+                <strong>Phone / WhatsApp:</strong> +86 134 2752 0701<br>
+                <strong>Email:</strong> grace@yuexin-light.com<br>
+              </p>
+              <div class="social-links mt-3">
+                <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+                <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+                <a href="#" class="skype"><i class="bx bxl-skype"></i></a>
+                <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-6 footer-links">
+            <h4>Quick Links</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="index.html#hero">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="index.html#about">About Us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="products.html">Products</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="index.html#portfolio">Gallery</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="index.html#contact">Contact</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-2 col-md-6 footer-links">
+            <h4>Product Categories</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="products.html#products-overview">Moving Head Light</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="products.html#products-overview">LED Wash Light</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="products.html#products-overview">LED Effect Light</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="products.html#products-overview">LED Laser Light</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="products.html#products-overview">Fog Machine</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="products.html#products-overview">Accessories</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-4 col-md-6 footer-newsletter">
+            <h4>Get a Catalog</h4>
+            <p>Subscribe with your email to receive our latest stage lighting catalog and price list.</p>
+            <form action="" method="post">
+              <input type="email" name="email"><input type="submit" value="Subscribe">
+            </form>
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong><span>Guangzhou Yuexin Lighting Co., Ltd.</span></strong>. All Rights Reserved.
+      </div>
+      <div class="credits">
+        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+  <!-- Auto-render products from products.json -->
+  <script>
+    (function () {
+      var grid = document.getElementById('product-grid');
+      var count = document.getElementById('ov-count');
+      var btnAll = document.getElementById('ov-all');
+      if (!grid) return;
+
+      var allList = [];
+      var sidebar = document.querySelector('.cat-sidebar ul');
+      var pageSize = 12;
+      var currentList = [];
+      var currentPage = 1;
+      var pager = document.getElementById('ov-pager');
+
+      function renderCard(p) {
+        var a = document.createElement('a');
+        a.className = 'thumb-item';
+        a.href = 'product.html?model=' + encodeURIComponent(p.model || '');
+        var card = document.createElement('span'); card.className = 'th-card';
+        var imgw = document.createElement('span'); imgw.className = 'th-img';
+        var im = document.createElement('img');
+        im.src = p.img; im.alt = p.model || ''; im.loading = 'lazy';
+        imgw.appendChild(im);
+        var info = document.createElement('span'); info.className = 'th-info';
+        var mdl = document.createElement('span'); mdl.className = 'th-model';
+        mdl.textContent = p.model || '';
+        var nm = document.createElement('span'); nm.className = 'th-name';
+        nm.textContent = p.name || '';
+        info.appendChild(mdl); info.appendChild(nm);
+        card.appendChild(imgw); card.appendChild(info);
+        a.appendChild(card);
+        return a;
+      }
+
+      function updatePager(totalPages) {
+        if (!pager) return;
+        pager.innerHTML = '';
+        if (totalPages <= 1) { pager.style.display = 'none'; return; }
+        pager.style.display = 'flex';
+
+        var prev = document.createElement('button');
+        prev.type = 'button'; prev.textContent = '\u2039 Prev';
+        prev.disabled = currentPage <= 1;
+        prev.addEventListener('click', function () {
+          if (currentPage > 1) { currentPage--; renderPage(); }
+        });
+        pager.appendChild(prev);
+
+        var start = Math.max(1, currentPage - 2);
+        var end = Math.min(totalPages, currentPage + 2);
+        for (var i = start; i <= end; i++) {
+          var b = document.createElement('button');
+          b.type = 'button'; b.textContent = i;
+          if (i === currentPage) b.classList.add('active');
+          b.addEventListener('click', (function (pg) {
+            return function () { currentPage = pg; renderPage(); };
+          })(i));
+          pager.appendChild(b);
+        }
+
+        var next = document.createElement('button');
+        next.type = 'button'; next.textContent = 'Next \u203A';
+        next.disabled = currentPage >= totalPages;
+        next.addEventListener('click', function () {
+          if (currentPage < totalPages) { currentPage++; renderPage(); }
+        });
+        pager.appendChild(next);
+      }
+
+      function renderPage() {
+        grid.innerHTML = '';
+        var totalPages = Math.max(1, Math.ceil(currentList.length / pageSize));
+        if (currentPage > totalPages) currentPage = totalPages;
+        var start = (currentPage - 1) * pageSize;
+        var slice = currentList.slice(start, start + pageSize);
+        if (count) count.textContent = currentList.length + ' models';
+        btnAll.style.display = (currentList.length < allList.length) ? 'inline-block' : 'none';
+        slice.forEach(function (p) { grid.appendChild(renderCard(p)); });
+        updatePager(totalPages);
+      }
+
+      function render(list) {
+        currentList = list;
+        currentPage = 1;
+        renderPage();
+      }
+
+      function filterBy(text, isSub) {
+        if (!text) { render(allList); return; }
+        var list = allList.filter(function (p) {
+          return isSub ? (p.subcategory === text) : (p.category === text);
+        });
+        render(list);
+      }
+
+      if (sidebar) {
+        sidebar.addEventListener('click', function (e) {
+          var link = e.target.closest('a');
+          if (!link) return;
+          e.preventDefault();
+          var li = link.closest('li');
+          var isSub = li && li.classList.contains('l2');
+          var text = link.textContent.replace(/[\s\u00a0]+/g, ' ').trim();
+          filterBy(text, isSub);
+          sidebar.querySelectorAll('a').forEach(function (a) { a.classList.remove('active'); });
+          link.classList.add('active');
+          var ov = document.getElementById('products-overview');
+          if (ov) ov.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        });
+      }
+      if (btnAll) {
+        btnAll.addEventListener('click', function () {
+          render(allList);
+          if (sidebar) sidebar.querySelectorAll('a').forEach(function (a) { a.classList.remove('active'); });
+        });
+      }
+
+      fetch('assets/data/products.json')
+        .then(function (r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+        .then(function (list) {
+          if (!Array.isArray(list) || list.length === 0) throw new Error('empty');
+          allList = list;
+          render(list);
+        })
+        .catch(function () {
+          if (count) count.textContent = '0 models';
+          var em = document.createElement('div');
+          em.className = 'coming-soon';
+          em.textContent = 'Unable to load products.';
+          grid.appendChild(em);
+        });
+    })();
+  </script>
+
+</body>
+
+</html>

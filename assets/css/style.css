@@ -508,17 +508,6 @@ section {
   color: #334242;
 }
 
-.section-title h2::after {
-  content: "";
-  position: absolute;
-  display: block;
-  width: 200px;
-  height: 1px;
-  background: #00c1c1;
-  bottom: 0;
-  left: calc(50% - 100px);
-}
-
 .section-title p {
   margin-bottom: 0;
 }

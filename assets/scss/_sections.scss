@@ -22,17 +22,6 @@ section {
     color: $secondary;
   }
 
-  h2::after {
-    content: '';
-    position: absolute;
-    display: block;
-    width: 200px;
-    height: 1px;
-    background: $primary;
-    bottom: 0;
-    left: calc(50% - 100px);
-  }
-
   p {
     margin-bottom: 0;
   }

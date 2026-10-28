@@ -1,0 +1,57 @@
+{
+  "schema_version": "1",
+  "source_path": "C:\\Users\\Leo-PC\\Doubao\\chats\\2026-10-17\\new-chat\\yuexin-website\\template\\alstar-main\\products.html",
+  "source_filename": "products.html",
+  "source_hash": "43e489c612f9",
+  "source_size_bytes": 25623,
+  "kind": "html",
+  "rendered_at_utc": "2026-10-28T09:16:18+00:00",
+  "output_dir": "C:\\Users\\Leo-PC\\Doubao\\chats\\2026-10-17\\new-chat\\yuexin-website\\template\\alstar-main\\.preview\\43e489c612f9",
+  "page_count": 2,
+  "rendered_page_count": 2,
+  "collage_count": 1,
+  "extracted_text_chars": 25619,
+  "text_relpath": "text.md",
+  "thumbnail_relpath": "thumb.jpg",
+  "pages": [
+    {
+      "page": 1,
+      "relpath": "pages\\p001.png",
+      "size_bytes": 87290,
+      "width": 1280,
+      "height": 1600
+    },
+    {
+      "page": 2,
+      "relpath": "pages\\p002.png",
+      "size_bytes": 71459,
+      "width": 1280,
+      "height": 1129
+    }
+  ],
+  "collages": [
+    {
+      "relpath": "collages\\c1.jpg",
+      "covers_pages": [
+        1,
+        2
+      ],
+      "grid_cols": 1,
+      "grid_rows": 2,
+      "size_bytes": 46828
+    }
+  ],
+  "warnings": [],
+  "options": {
+    "max_pages": 12,
+    "collage": true,
+    "page_range": null,
+    "thumbnail": true,
+    "text_only": false,
+    "jpeg_quality": 85,
+    "out_max_dim": 2048
+  },
+  "summary": {
+    "bytes": 25623
+  }
+}
