@@ -4249,5 +4249,46 @@
       ["Strobe Speed", "0-20 times/second (speed adjustable)"],
       ["Protection Level", "IP20"]
     ]
+  },
+  {
+    "model": "YX-BA0450",
+    "name": "4x 50W Four-Eye Blinder Light (Single Color COB, DMX512)",
+    "img": "assets/img/products/yx-ba0450.jpg",
+    "images": [
+      "assets/img/products/yx-ba0450-1.jpg",
+      "assets/img/products/yx-ba0450-2.jpg",
+      "assets/img/products/yx-ba0450-3.jpg",
+      "assets/img/products/yx-ba0450-4.jpg",
+      "assets/img/products/yx-ba0450-5.jpg",
+      "assets/img/products/yx-ba0450-6.jpg",
+      "assets/img/products/yx-ba0450-7.jpg",
+      "assets/img/products/yx-ba0450-8.jpg"
+    ],
+    "category": "LED Movies Light",
+    "subcategory": "",
+    "youtube": "https://youtu.be/lt_1kRIc-OY",
+    "application": "Concerts, stages, DJ parties, television studios, video shooting and events needing a four-eye blinder light with single-color COB LEDs and DMX512 control.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "4× 50W monochrome COB light beads, 200W total",
+      "48 pcs 0.2W 5050 RGB3 integrated light beads",
+      "50,000 hours light source lifespan",
+      "DMX512, voice control, self-propelled and master-slave control",
+      "8/20 channel modes",
+      "Flashing speed 0-20 times/second, adjustable",
+      "3-core XLR-3P control interface"
+    ],
+    "specs": [
+      ["Model", "YX-BA0450"],
+      ["Input Voltage", "AC100-230V, 50-60Hz"],
+      ["Input Power", "250W"],
+      ["Light Source", "4×50W monochrome COB light beads, 48 0.2W 5050RGB3 integrated light beads"],
+      ["Light Source Lifespan", "50000 hours"],
+      ["Control Mode", "DMX512, voice control, self-propelled, master-slave control"],
+      ["Control Interface", "3-core XLR-3P"],
+      ["Channel Mode", "8/20 channels"],
+      ["Flashing Speed", "0-20 times/second (adjustable speed)"],
+      ["Protection Level", "IP20"]
+    ]
   }
 ]
