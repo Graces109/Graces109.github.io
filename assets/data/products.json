@@ -4290,5 +4290,49 @@
       ["Flashing Speed", "0-20 times/second (adjustable speed)"],
       ["Protection Level", "IP20"]
     ]
+  },
+  {
+    "model": "YX-BL200",
+    "name": "2x 200W COB LED Blinder Light (Warm/Cool White, DMX512)",
+    "img": "assets/img/products/yx-bl200.jpg",
+    "images": [
+      "assets/img/products/yx-bl200-1.jpg",
+      "assets/img/products/yx-bl200-2.jpg",
+      "assets/img/products/yx-bl200-3.jpg"
+    ],
+    "category": "LED Movies Light",
+    "subcategory": "",
+    "application": "Concerts, stages, DJ parties, television studios, video shooting and events needing a COB LED blinder light with warm/cool white options and DMX512 control.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "2 pcs 100W COB LED, 200W total, individually controllable",
+      "Warm white and cool white color options",
+      "Color temperature 2500K/3200K/6500K",
+      "60,000 hours lifetime",
+      "DMX512, master/slave, auto run, stand alone and sound active modes",
+      "Dimmer 0-100% linear adjustable, 38° beam angle",
+      "Variable strobe speed (1-30Hz), metal housing, IP20"
+    ],
+    "specs": [
+      ["Model", "YX-BL200"],
+      ["Voltage", "AC90-240V, 50-60Hz"],
+      ["Power", "250W"],
+      ["Light Source", "2 pcs 100W COB LED"],
+      ["Light Color", "Warm white and cool white for option"],
+      ["LED Control", "Individual controllable"],
+      ["Lifetime", "60,000 hours"],
+      ["DMX Channel", "4CH"],
+      ["Color Temp", "2500K/3200K/6500K"],
+      ["Dimmer", "0~100% linear adjustable"],
+      ["Beam Angle", "38 degree"],
+      ["Working Temperature", "-30°C~50°C"],
+      ["Control Mode", "DMX512, master/slave, auto run, stand alone, sound active"],
+      ["Strobe Effect", "Variable speed (1-30Hz)"],
+      ["Housing Material", "Metal black"],
+      ["IP Rate", "IP20"],
+      ["Packing Way", "Carton box with foam inside"],
+      ["Packing Size", "48cm×28cm×27cm"],
+      ["Packing Weight", "5kg"]
+    ]
   }
 ]
