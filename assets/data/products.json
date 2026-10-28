@@ -4760,5 +4760,39 @@
       ["Lamp Body Weight", "15kg"],
       ["Lamp Body Size", "L535×W330×H91mm"]
     ]
+  },
+  {
+    "model": "YX-CL1308",
+    "name": "Easy Control DMX Console (512 DMX Channels, 7 Programmes)",
+    "img": "assets/img/products/yx-cl1308.jpg",
+    "images": [
+      "assets/img/products/yx-cl1308-1.jpg",
+      "assets/img/products/yx-cl1308-2.jpg"
+    ],
+    "category": "DMX Console",
+    "subcategory": "",
+    "application": "Stage, club, mobile DJ and event lighting setups needing a simple, easy-to-operate DMX512 controller for recording, auto playback and manual playback of up to 7 programmes and 127 cues each.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "Supports up to 512 DMX channels",
+      "Store up to 7 different programmes, up to 127 cues for each programme",
+      "Choose 1 among 7 different programmes, adjustable sequence speed",
+      "Run programme normally or automatically, stop programme control",
+      "Programmes stored in 4Mb flash memory",
+      "Easy Control DMX recorder with record, auto play and manual play modes"
+    ],
+    "specs": [
+      ["Model", "YX-CL1308"],
+      ["Programme Control", "Choose 1 among the 7 different programmes"],
+      ["Speed Control", "Change the speed of the sequence of the programme"],
+      ["Playback Mode", "Run the programme normally or automatically, stop the programme"],
+      ["Storage", "Up to 7 different programmes, up to 127 cues for each programme"],
+      ["DMX Channels", "Accepts up to 512 DMX channels"],
+      ["Memory", "Programmes stored in 4Mb flash memory"],
+      ["DMX In/Out", "3-pin male/female XLR"],
+      ["Power Input", "DC 9-12V 1000mA"],
+      ["Dimensions", "250mm×150mm×100mm"],
+      ["Net Weight", "1.2kg"]
+    ]
   }
 ]
