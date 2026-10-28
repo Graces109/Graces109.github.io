@@ -5050,5 +5050,33 @@
       ["MIDI", "Provides MIDI timecode control by MIDI remote playback buttons or faders"],
       ["Generator", "Built-in pixmap and built-in graphics generator"]
     ]
+  },
+  {
+    "model": "YX-BK01",
+    "name": "Black Horse Standard DMX Console (Panasonic UPS, 60GB SSD)",
+    "img": "assets/img/products/yx-bk01.jpg",
+    "images": [
+      "assets/img/products/yx-bk01-1.jpg"
+    ],
+    "category": "DMX Console",
+    "subcategory": "",
+    "application": "Stage, concert, theater, touring and event lighting productions needing a reliable Black Horse standard console with Panasonic UPS backup power and multi-screen control.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "Built-in Panasonic UPS power supply",
+      "Industrial motherboard for reliability",
+      "Intel Celeron 1.8GHz processor",
+      "4GB DDR3 1600 memory, 60GB SSD",
+      "Multi-screen control graphics"
+    ],
+    "specs": [
+      ["Model", "YX-BK01"],
+      ["Power Supply", "Built-in Panasonic UPS power supply"],
+      ["Motherboard", "Industrial motherboard"],
+      ["Processor", "Intel Celeron(R) 1.8GHz"],
+      ["Memory", "4GB DDR3 1600"],
+      ["Storage", "60GB SSD"],
+      ["Graphics", "Multi-screen control graphics"]
+    ]
   }
 ]
