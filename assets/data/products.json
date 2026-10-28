@@ -4855,5 +4855,50 @@
       ["Dimension", "217mm×124mm×48mm"],
       ["Net Weight", "0.9kg (AC cable not included)"]
     ]
+  },
+  {
+    "model": "YX-CL1317",
+    "name": "Sunny 512 DMX Console (512 Channels, 32 Scanners)",
+    "img": "assets/img/products/yx-cl1317.jpg",
+    "images": [
+      "assets/img/products/yx-cl1317-1.jpg",
+      "assets/img/products/yx-cl1317-2.jpg",
+      "assets/img/products/yx-cl1317-3.jpg"
+    ],
+    "category": "DMX Console",
+    "subcategory": "",
+    "application": "Stage, club, tour, rental and event lighting setups needing a 512-channel DMX controller with 32 scanner control, chases, scenes, environment programs and music triggering.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "DMX512/1990 standard, 512 DMX control channels",
+      "4 output with separate optical isolation",
+      "Up to 32 scanners with maximum 16 channels each",
+      "Large backlight LCD display, 16 channel faders plus speed and cross control",
+      "48 scenes, 48 chases up to 99 steps each, 1600 chase steps maximum",
+      "16-bit control for PAN/TILT fine adjustment, X/Y channels controlled by PAN/TILT wheel",
+      "Music trigger via audio line input or internal microphone",
+      "Data auto-saves, high performance switching power supply"
+    ],
+    "specs": [
+      ["Model", "YX-CL1317"],
+      ["Standard", "DMX512/1990 standard, 512 DMX control channels"],
+      ["Output", "4 output with separate optical isolation"],
+      ["Scanner Control", "Up to 32 scanners may be connected with a maximum of 16 channels each"],
+      ["Display", "Large backlight LCD to display operation parameters"],
+      ["Channel Faders", "16 channel faders plus 1 speed and 1 cross control fade"],
+      ["Chase", "1600 chase steps maximum, 48 chases up to 99 steps each, speed and cross time of each step can be set separately"],
+      ["Speed Control", "Speed adjustable by music active or manual mode"],
+      ["Fade Time", "SPEED fade and CROSS fade time range 0.01s-25.5s"],
+      ["Scenes", "48 scenes can be used directly"],
+      ["Concurrent", "8 chases and 48 scenes can run at the same time, 32 scanners can be selected together"],
+      ["PAN/TILT", "16-bit control for PAN/TILT fine adjustment"],
+      ["Environment Programs", "15 environment programs to output combinations of scenes, chases and manual output"],
+      ["Music Trigger", "Audio line input or internal microphone"],
+      ["Data Storage", "Data auto-saves through electronic memory storage"],
+      ["Power Supply", "High performance switching power supply, LED lamp connector"],
+      ["Power Input", "DC9V 1000mA"],
+      ["Dimension", "498×420×115mm"],
+      ["Net Weight", "6.5kg"]
+    ]
   }
 ]
