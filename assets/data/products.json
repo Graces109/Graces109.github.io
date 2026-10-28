@@ -4969,5 +4969,45 @@
       ["DMX Signal Port", "3-Pin plug"],
       ["ID Code and LED Color Correlation", "1 RED, 2 GREEN, 3 RED+GREEN=YELLOW, 4 BLUE, 5 RED+BLUE=PURPLE, 6 GREEN+BLUE=CYAN, 7 RED+GREEN+BLUE=WHITE"]
     ]
+  },
+  {
+    "model": "YX-CL1024",
+    "name": "1024 Stage Controller (DMX512, 1024 Channels, 32 Fixtures)",
+    "img": "assets/img/products/yx-cl1024.jpg",
+    "images": [
+      "assets/img/products/yx-cl1024-1.jpg",
+      "assets/img/products/yx-cl1024-2.jpg",
+      "assets/img/products/yx-cl1024-3.jpg"
+    ],
+    "category": "DMX Console",
+    "subcategory": "",
+    "application": "Stage, club, tour, rental and event lighting setups needing a powerful 1024-channel DMX stage controller with 32 fixture control, scenes, chases and 16-bit X/Y accuracy.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "DMX512 standard, 1024 DMX control channels",
+      "Two independent output drive ports with isolation, capable of withstanding 1500VDC electrical shocks",
+      "Large backlight LCD display screen, 16 channel push rods plus speed control push rod",
+      "1600 step storage capacity, 48 light walking programs up to 100 steps each",
+      "48 computer light scenes directly accessible, runs 4 programs and 48 scenes simultaneously",
+      "Manual control of 32 computer lights at the same time with channel release function",
+      "16-bit computer light X/Y control accuracy, X/Y controlled by data wheel or pusher",
+      "Music trigger via audio line input or built-in microphone, shutdown data retention"
+    ],
+    "specs": [
+      ["Model", "YX-CL1024"],
+      ["Working Voltage", "AC110V~240V, 50/60Hz"],
+      ["Standard", "DMX512 standard, 1024 DMX control channels"],
+      ["Output", "Two independent output drive ports with isolation, capable of withstanding 1500VDC electrical shocks, independent plug-in structure, easy to replace"],
+      ["Display", "Large LCD display screen with backlight for various operating parameters"],
+      ["Push Rods", "16 channel push rods, 1 speed control push rod"],
+      ["Storage", "1600 step storage capacity for lighting programs, 48 light walking programs with a maximum of 100 steps per program"],
+      ["Speed Control", "Each step speed and gradient parameter set independently, optional music synchronization or manual speed control"],
+      ["Scenes", "48 computer light scenes that can be directly accessed"],
+      ["Concurrent", "Runs 4 lighting programs and 48 scenes simultaneously, manually runs 32 computer lights at the same time (lantern), with channel release function"],
+      ["X/Y Control", "X/Y of different types of computer lights controlled by data wheel or by pusher"],
+      ["Accuracy", "16-bit computer light X/Y control accuracy"],
+      ["Music Trigger", "Audio line input or built-in microphone pickup"],
+      ["Operation", "Easy to learn and use, higher operational efficiency, shutdown data retention"]
+    ]
   }
 ]
