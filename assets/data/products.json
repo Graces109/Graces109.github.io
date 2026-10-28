@@ -11473,5 +11473,39 @@
         "0.2KG"
       ]
     ]
+  },
+  {
+    "model": "YX-LC11",
+    "name": "Foldable Light Hook for Moving Head Light (YX-LC11)",
+    "img": "assets/img/products/yx-lc11.jpg",
+    "images": [
+      "assets/img/products/yx-lc11-1.jpg",
+      "assets/img/products/yx-lc11-2.jpg",
+      "assets/img/products/yx-lc11-3.jpg",
+      "assets/img/products/yx-lc11-4.jpg"
+    ],
+    "category": "Accessories",
+    "subcategory": "",
+    "application": "Rigging moving head lights securely on trusses and pipes with a foldable light hook, allowing compact storage and easy setup.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "Foldable light hook for moving head light",
+      "Compact foldable design for easy storage",
+      "Please check the size (picture 2, 3) before ordering to avoid any mistake"
+    ],
+    "specs": [
+      [
+        "Model",
+        "YX-LC11"
+      ],
+      [
+        "Type",
+        "Foldable light hook for moving head light"
+      ],
+      [
+        "Note",
+        "To avoid any mistake, before you order, please be sure to check the size (picture 2, 3) first, then make order"
+      ]
+    ]
   }
 ]
