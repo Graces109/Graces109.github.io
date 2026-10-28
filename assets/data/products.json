@@ -11317,5 +11317,113 @@
         "N.W 18KG, gross weight 29.5KG"
       ]
     ]
+  },
+  {
+    "model": "YX-BK13",
+    "name": "Command Wing DMX Console XT Version (AMD Ryzen, 4096 Parameters)",
+    "img": "assets/img/products/yx-bk13.jpg",
+    "images": [
+      "assets/img/products/yx-bk13-1.jpg",
+      "assets/img/products/yx-bk13-2.jpg"
+    ],
+    "category": "DMX Console",
+    "subcategory": "",
+    "application": "Professional lighting control for large stages, theaters, concerts and touring, a command wing XT version paired with grandMA3 onPC software for real-time control of 4096 parameters.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "ASUS motherboard, AMD Ryzen V1605B CPU, 256GB SSD, 16GB memory, Win10 system",
+      "OnPC Wing controls 4096 parameters in real-time combined with grandMA3 onPC software, pre-installed on the built-in MA motherboard",
+      "Same command segment as grand MA 3 on PC command wing",
+      "29 rotating RGB backlight encoders plus 5 dual encoders",
+      "10 60mm electric thrusters, 2 100mm electric A/B thrusters",
+      "40 independent plays, 16 assignable X keys, 1 horizontal wheel",
+      "4 DP high-definition video interfaces, 2 Gigabit Ethernet ports"
+    ],
+    "specs": [
+      [
+        "Model",
+        "YX-BK13"
+      ],
+      [
+        "Motherboard",
+        "ASUS motherboard"
+      ],
+      [
+        "CPU",
+        "AMD Ryzen V1605B CPU"
+      ],
+      [
+        "Storage",
+        "256GB second-generation solid-state drive"
+      ],
+      [
+        "Memory",
+        "16GB memory module"
+      ],
+      [
+        "System",
+        "Win10 system"
+      ],
+      [
+        "Control",
+        "OnPC Wing can control 4096 parameters in real-time, combined with grandMA3 onPC software, pre-installed on the built-in MA motherboard"
+      ],
+      [
+        "Command Segment",
+        "The same command segment as grand MA 3 on the PC command wing"
+      ],
+      [
+        "Encoders",
+        "29 rotating RGB backlight encoders, 5 dual encoders"
+      ],
+      [
+        "Thrusters",
+        "10 60mm electric thrusters"
+      ],
+      [
+        "Independent Plays",
+        "40 independent plays"
+      ],
+      [
+        "Assignable Keys",
+        "16 assignable X keys"
+      ],
+      [
+        "A/B Thrusters",
+        "2 100mm electric A/B thrusters"
+      ],
+      [
+        "Wheel",
+        "1 horizontal wheel"
+      ],
+      [
+        "Buttons",
+        "Independent backlight and dimmable mute (no click) button"
+      ],
+      [
+        "Video Interfaces",
+        "4 DP high-definition video interfaces"
+      ],
+      [
+        "Ethernet",
+        "2 Gigabit Ethernet ports"
+      ],
+      [
+        "Aviation Box",
+        "68CM × 49CM × 24.5CM"
+      ],
+      [
+        "Air Cargo Box",
+        "22.1KG"
+      ],
+      [
+        "Console Size",
+        "62 × 43 × 13cm (rear height) × 8CM (front height)"
+      ],
+      [
+        "Net Weight",
+        "12.6KG"
+      ]
+    ]
   }
 ]
