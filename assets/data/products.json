@@ -11425,5 +11425,53 @@
         "12.6KG"
       ]
     ]
+  },
+  {
+    "model": "YX-LC30",
+    "name": "40-60mm Stage Light Clamp Hook (30KG Load, Stainless Steel)",
+    "img": "assets/img/products/yx-lc30.jpg",
+    "images": [
+      "assets/img/products/yx-lc30-1.jpg"
+    ],
+    "category": "Accessories",
+    "subcategory": "",
+    "application": "Rigging and hanging stage lights, LED fixtures and trusses securely on 40-60mm pipes with a stainless steel light hook rated for up to 30KG.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "Stainless steel construction, silver finish",
+      "Fits 40-60mm pipes",
+      "Max load 30KG",
+      "Lightweight, only 0.2KG"
+    ],
+    "specs": [
+      [
+        "Model",
+        "YX-LC30"
+      ],
+      [
+        "Light Model",
+        "Stage light hook"
+      ],
+      [
+        "Material",
+        "Stainless Steel"
+      ],
+      [
+        "Color",
+        "Silver"
+      ],
+      [
+        "Available Pipe",
+        "40-60mm"
+      ],
+      [
+        "Loading Weight",
+        "30Kg"
+      ],
+      [
+        "Body Weight",
+        "0.2KG"
+      ]
+    ]
   }
 ]
