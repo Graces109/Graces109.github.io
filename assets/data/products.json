@@ -4519,5 +4519,56 @@
       ["Product Size", "35×27×65cm (L×W×H)"],
       ["Net Weight", "7kg"]
     ]
+  },
+  {
+    "model": "YX-PF300W",
+    "name": "300W COB Profile Stage Light (LED Imaging Light, DMX512)",
+    "img": "assets/img/products/yx-pf300w.jpg",
+    "images": [
+      "assets/img/products/yx-pf300w-1.jpg",
+      "assets/img/products/yx-pf300w-2.jpg",
+      "assets/img/products/yx-pf300w-3.jpg",
+      "assets/img/products/yx-pf300w-4.jpg",
+      "assets/img/products/yx-pf300w-5.jpg",
+      "assets/img/products/yx-pf300w-6.jpg",
+      "assets/img/products/yx-pf300w-7.jpg",
+      "assets/img/products/yx-pf300w-8.jpg",
+      "assets/img/products/yx-pf300w-9.jpg",
+      "assets/img/products/yx-pf300w-10.jpg",
+      "assets/img/products/yx-pf300w-11.jpg"
+    ],
+    "category": "LED Movies Light",
+    "subcategory": "",
+    "youtube": "https://youtu.be/6aa7_ctIaqs",
+    "application": "Theaters, studios, stages, conference rooms and video shooting needing a high-quality 300W COB profile/imaging stage light with soft light, focus light and cut light functions and DMX512 control.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "Copper-tube heat dissipation structure for stable long-term operation",
+      "Professional K9 optical lens, color rendering index above 95",
+      "High-grade power supply and motherboard, fully meets theater requirements",
+      "Full rated power output with no blue edge on the beam",
+      "Color temperature 3200K/5600K optional, 2-in-1, RGBW",
+      "Optical angles 19°/26°/36° optional",
+      "Soft light, focus light and cut light functions",
+      "Standard DMX512, self-propelled and master-slave control"
+    ],
+    "specs": [
+      ["Model", "YX-PF300W"],
+      ["Input Voltage", "AC100-240V, 50/60Hz"],
+      ["Rated Power", "300W"],
+      ["Light Source", "300W COB"],
+      ["Color Temperature", "3200K/5600K optional, 2-in-1, RGBW"],
+      ["Color Rendering Index", "≥95"],
+      ["Lamp Bead Lifespan", "50000 hours"],
+      ["Dimming", "0%-100% linear dimming"],
+      ["Optical Material", "Optical lens"],
+      ["Optical Angles", "19°, 26°, 36° optional"],
+      ["Function Effects", "Soft light, focus light, cut light"],
+      ["Protection Level", "IP20"],
+      ["Control Mode", "Standard DMX512 signal, self-propelled, master-slave"],
+      ["Number of Channels", "2 (monochrome) / 4 (dual color) / 9 (RGBW) DMX channels"],
+      ["Product Size", "64×34×27cm (L×W×H)"],
+      ["Net Weight", "8.6kg"]
+    ]
   }
 ]
