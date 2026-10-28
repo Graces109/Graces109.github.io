@@ -3684,5 +3684,55 @@
       ["Size", "L×W×H = 1000×160×110mm"],
       ["Weight", "12.4Kg"]
     ]
+  },
+  {
+    "model": "YX-AL03RGB",
+    "name": "3W WiFi RGB Laser Light with APP Control (ZQShow)",
+    "img": "assets/img/products/yx-al03rgb.jpg",
+    "images": [
+      "assets/img/products/yx-al03rgb-1.jpg",
+      "assets/img/products/yx-al03rgb-2.jpg",
+      "assets/img/products/yx-al03rgb-3.jpg",
+      "assets/img/products/yx-al03rgb-4.jpg",
+      "assets/img/products/yx-al03rgb-5.jpg",
+      "assets/img/products/yx-al03rgb-6.jpg",
+      "assets/img/products/yx-al03rgb-7.jpg",
+      "assets/img/products/yx-al03rgb-8.jpg",
+      "assets/img/products/yx-al03rgb-9.jpg",
+      "assets/img/products/yx-al03rgb-10.jpg",
+      "assets/img/products/yx-al03rgb-11.jpg"
+    ],
+    "category": "LED Laser Light",
+    "subcategory": "Laser Light",
+    "youtube": "https://youtu.be/ftwPvLCHdSQ",
+    "application": "Parties, home shows, bars, clubs, events and stage productions needing a 3W WiFi RGB laser light with APP control (ZQShow), ILDA scanning and high-speed galvanometer performance.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "3W RGB laser: red 600mW@638nm, green 900mW@525nm, blue 1500mW@450nm",
+      "RGB analog modulation, 30kHz frequency",
+      "Class 4 laser, IP6X waterproof, laser life >10000 hours",
+      "Low-power high-performance scanner, 25KPPS (30KPPS optional), max scanning angle ±25°",
+      "WiFi APP control (ZQShow), AUTO, ILDA (QS/Beyond) working modes",
+      "RJ45-ILDA interface for PC control",
+      "Optional lithium-ion battery pack (2 groups × 18650×3, 12V, 3400mAh)"
+    ],
+    "specs": [
+      ["Model", "YX-AL03RGB"],
+      ["Voltage", "DC13.5V/5A, max consumption power 50W"],
+      ["Laser Module", "RGB analog modulate, 30kHz frequency"],
+      ["Laser Power", "Red 600mW@638nm, Green 900mW@525nm, Blue 1500mW@450nm"],
+      ["Beam Diameter", "<4.0×5.0mm, Divergence <1.3mrad"],
+      ["Laser Life", ">10000 hours"],
+      ["Laser Level", "Class 4 laser"],
+      ["Waterproof Level", "IP6X"],
+      ["Work Environment", "Indoor, -30°C to 40°C"],
+      ["Scanner", "Low power and high performance scanner, 25KPPS (optional 30KPPS), max scanning angle ±25°, XY mirror 7×12mm"],
+      ["APP Software", "ZQShow"],
+      ["Working Modes", "WiFi (APP control), AUTO, ILDA (QS/Beyond)"],
+      ["Interface", "RJ45-ILDA interface for PC control"],
+      ["Battery Pack", "Lithium ion battery × 2 groups, each group 18650 × 3 pcs, voltage 12V, capacity 3400mAh, optional"],
+      ["Machine Dimension", "100(L)×100(W)×165(H)mm"],
+      ["Net Weight", "1.6Kg"]
+    ]
   }
 ]
