@@ -4935,5 +4935,39 @@
       ["Dimension", "482×133×75mm"],
       ["Net Weight", "About 2.0kg"]
     ]
+  },
+  {
+    "model": "YX-CL1326",
+    "name": "Wireless DMX Pen Transceiver (2.4GHz, 300M, 126 Channels)",
+    "img": "assets/img/products/yx-cl1326.jpg",
+    "images": [
+      "assets/img/products/yx-cl1326-1.jpg",
+      "assets/img/products/yx-cl1326-2.jpg",
+      "assets/img/products/yx-cl1326-3.jpg"
+    ],
+    "category": "DMX Console",
+    "subcategory": "",
+    "application": "Stage, club, tour, event and mobile lighting setups needing a wireless DMX pen transceiver to transmit DMX512 signal reliably over long distances with high anti-interference.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "Tricolor LED displaying, 126 channels with automatic jumping frequency",
+      "High anti-jamming ability to ensure working reliability",
+      "7 groups ID code settable, 7 independent wireless networks without interference",
+      "Communication distance up to 300M",
+      "2.4GHz ISM band, receiver sensitivity -106dBm"
+    ],
+    "specs": [
+      ["Model", "YX-CL1326"],
+      ["Display", "Tricolor LED displaying"],
+      ["Frequency", "126 channels, automatic jumping frequency"],
+      ["Reliability", "High anti-jamming ability to ensure working reliability"],
+      ["ID Code", "7 groups ID code settable, user can use 7 groups individual wireless net without any interference"],
+      ["Input Voltage", "9VDC 500mA"],
+      ["Communication Distance", "300M"],
+      ["Work Frequency", "2.4GHz ISM band, 126 channels frequency section"],
+      ["Receiver Sensitivity", "-106dBm"],
+      ["DMX Signal Port", "3-Pin plug"],
+      ["ID Code and LED Color Correlation", "1 RED, 2 GREEN, 3 RED+GREEN=YELLOW, 4 BLUE, 5 RED+BLUE=PURPLE, 6 GREEN+BLUE=CYAN, 7 RED+GREEN+BLUE=WHITE"]
+    ]
   }
 ]
