@@ -3253,5 +3253,50 @@
       ["Carton Size", "55.5×38×43cm"],
       ["Gross Weight", "14KG"]
     ]
+  },
+  {
+    "model": "YX-LSD15",
+    "name": "10W-15W RGB Outdoor Laser Light",
+    "img": "assets/img/products/yx-lsd15.jpg",
+    "images": [
+      "assets/img/products/yx-lsd15-1.jpg",
+      "assets/img/products/yx-lsd15-2.jpg",
+      "assets/img/products/yx-lsd15-3.jpg",
+      "assets/img/products/yx-lsd15-4.jpg",
+      "assets/img/products/yx-lsd15-5.jpg",
+      "assets/img/products/yx-lsd15-6.jpg",
+      "assets/img/products/yx-lsd15-7.jpg"
+    ],
+    "category": "LED Laser Light",
+    "subcategory": "Outdoor Laser Light",
+    "application": "Outdoor and indoor shows, buildings, events and stage productions needing a weatherproof IP65 RGB outdoor laser light with Class 4 laser and high-speed DT40 galvanometer scanner.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "10W-15W RGB outdoor laser light",
+      "WP15RGB: R4.4W/638nm, G4.8W/520nm, B6.5W/450nm",
+      "WP10RGB: R3.3W/638nm, G3.6W/520nm, B4.5W/450nm",
+      "Class 4 laser, laser life >10,000 hours",
+      "IP65 waterproof, works outdoors and indoors, -30°C to 40°C",
+      "DT40 galvanometer scanner, >40KPPS ILDA @8°, max scanning angle 60°",
+      "ILDA(PC control), DMX512, AUTO working modes; optional PANGOLIN FB4"
+    ],
+    "specs": [
+      ["Model", "YX-LSD15"],
+      ["Voltage", "AC100~250V, 50Hz/60Hz"],
+      ["Max Consumption Power", "250W"],
+      ["Laser Specification WP15RGB", "Red laser 4.4W/638nm, Green laser 4.8W/520nm, Blue laser 6.5W/450nm; Beam Diameter <4.5×6.0(H)mm, Divergence <1.1mrad"],
+      ["Laser Specification WP10RGB", "Red laser 3.3W/638nm, Green laser 3.6W/520nm, Blue laser 4.5W/450nm; Beam Diameter <4.0×6.0(H)mm, Divergence <1.3mrad"],
+      ["Laser Life", ">10,000 hours"],
+      ["Laser Level", "Class 4 laser"],
+      ["Waterproof Level", "IP65"],
+      ["Work Environment", "Outdoors and indoors, -30°C to 40°C"],
+      ["Scanner", "Model DT40, speed >40KPPS ILDA @8°, max scanning angle 60°, signal input voltage ±5V; mirror 7×12mm/X and 7×12mm/Y"],
+      ["Scanner Quality", "Highest quality optical scanner, high speed, high precision, high stability and long life design"],
+      ["Working Modes", "ILDA (PC control), DMX512, AUTO"],
+      ["Option", "PANGOLIN FB4 control system"],
+      ["Interface", "3-pin XLR jack for DMX; RJ45-ILDA interface for PC control (no signal attenuation even after 300 meters transmission); RJ45 LAN Agreement for FB4 control with switch expansion interface"],
+      ["Machine Dimension", "370(L)×165(W)×210(H)mm"],
+      ["Net Weight", "13.5Kg (WP10RGB), 14.5Kg (WP15RGB)"]
+    ]
   }
 ]
