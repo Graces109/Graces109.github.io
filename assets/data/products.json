@@ -5078,5 +5078,48 @@
       ["Storage", "60GB SSD"],
       ["Graphics", "Multi-screen control graphics"]
     ]
+  },
+  {
+    "model": "YX-BK04",
+    "name": "Wild Horse DMX Console (i7-4790, 3×15.4\" Touch, 10 DMX Outputs)",
+    "img": "assets/img/products/yx-bk04.jpg",
+    "images": [
+      "assets/img/products/yx-bk04-1.jpg"
+    ],
+    "category": "DMX Console",
+    "subcategory": "",
+    "application": "Large-scale stage, concert, theater, touring and event lighting productions needing a powerful Wild Horse DMX console with three touch screens, high-capacity processing and multiple DMX outputs.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "3pcs 15.4-inch high brightness wide touch screens (industrial A+ display)",
+      "Intel Core i7-4790 4GHz CPU, GTX1060 3D independent graphics card",
+      "480GB solid state disk, 16GB DDR3 1600 RAM",
+      "Built-in Panasonic UPS uninterrupted power supply with zero-delay auto switching",
+      "10 DMX-512 output interfaces plus 1 DMX-512 input with composite output function",
+      "Industrial motherboard, full-size command keypad, flight case attached with keyboard and mouse",
+      "30 program playback faders, 60 program store function buttons"
+    ],
+    "specs": [
+      ["Model", "YX-BK04"],
+      ["Master Dimming Wheel", "1 master dimming wheel"],
+      ["Encoder Wheel", "4 attribute value encoder wheels (integration of key functions)"],
+      ["Faders", "1 Master Fader (60mm manual), 2 AB Fader (100mm manual), 30 program playback Fader (60mm manual)"],
+      ["Program Store", "60 program store function buttons"],
+      ["Touch Screen", "3pcs 15.4 inch high brightness wide touch screen (industrial A+ display and industrial grade A touch screen)"],
+      ["Keypad", "Full-size command keypad"],
+      ["Flight Case", "Flight case attached with keyboard and mouse"],
+      ["Input Voltage", "Wide-voltage, low-power consumption, energy-saving design: AC165-264V"],
+      ["Power Consumption", "600W"],
+      ["UPS", "Built-in UPS uninterrupted power supply, zero-delay automatic switching, undervoltage, overvoltage protection, Panasonic UPS dedicated high-density maintenance-free batteries"],
+      ["Motherboard", "Industrial motherboard"],
+      ["CPU", "Intel Core quad i7-4790 4GHz CPU"],
+      ["Graphics Card", "GTX1060 display card, 3D independent game graphics card"],
+      ["Storage", "ROM 480GB solid state disk"],
+      ["Memory", "RAM 16GB DDR3 1600"],
+      ["Interfaces", "2 USB 3.0 (A type), 4 USB 2.0 (A type), 1 audio input interface, 1 stereo output interface, 1 LTC input interface"],
+      ["DMX Output", "10 DMX-512 output interfaces"],
+      ["DMX Input", "1 DMX-512 input connector (composite output function)"],
+      ["Other Interfaces", "2 working lamp interfaces, 1 gigabit network interface, 1 MIDI input interface"]
+    ]
   }
 ]
