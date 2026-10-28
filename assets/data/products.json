@@ -3298,5 +3298,51 @@
       ["Machine Dimension", "370(L)×165(W)×210(H)mm"],
       ["Net Weight", "13.5Kg (WP10RGB), 14.5Kg (WP15RGB)"]
     ]
+  },
+  {
+    "model": "YX-LSD30",
+    "name": "30W RGB Outdoor Laser Light",
+    "img": "assets/img/products/yx-lsd30.jpg",
+    "images": [
+      "assets/img/products/yx-lsd30-1.jpg",
+      "assets/img/products/yx-lsd30-2.jpg",
+      "assets/img/products/yx-lsd30-3.jpg",
+      "assets/img/products/yx-lsd30-4.jpg",
+      "assets/img/products/yx-lsd30-5.jpg",
+      "assets/img/products/yx-lsd30-6.jpg",
+      "assets/img/products/yx-lsd30-7.jpg",
+      "assets/img/products/yx-lsd30-8.jpg",
+      "assets/img/products/yx-lsd30-9.jpg",
+      "assets/img/products/yx-lsd30-10.jpg"
+    ],
+    "category": "LED Laser Light",
+    "subcategory": "Outdoor Laser Light",
+    "youtube": "https://youtu.be/efX1L9qixhQ",
+    "application": "Outdoor shows, buildings, events, concerts and stage productions needing a high-power 30W RGB outdoor laser light with 30K scanner, ILDA/DMX/Art-Net control and .FB4 show playback.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "30W RGB outdoor laser light",
+      "9W/638nm red + 9W/520nm green + 14W/450nm blue laser",
+      "RGB analog modulation, 10kHz frequency",
+      "30K high-speed optical scanner, ±30° big angle scanning",
+      "BEYOND/QS, ILDA, DMX-512, Art-Net, autoplay working modes",
+      "8GB TF card with built-in and downloadable programs, .FB4 playback",
+      "Safety: laser key switch, remote interlock, safety shutter, SFS control, flying rings bolt"
+    ],
+    "specs": [
+      ["Model", "YX-LSD30"],
+      ["Voltage", "AC100~250V, 50Hz/60Hz"],
+      ["Rated Power", "800W"],
+      ["Scanner", "30K high-speed optical scanner, ±30° big angle scanning"],
+      ["Laser", "RGB analog modulation, 10kHz frequency; 9W/638nm red, 9W/520nm green, 14W/450nm blue"],
+      ["Working Modes", "BEYOND/QS, ILDA, DMX-512, Art-Net, autoplay"],
+      ["Graphics & Effects", "Beam show and animated graphics show patterns"],
+      ["TF Card", "8GB, built-in program and downloading program"],
+      ["Play Program Format", ".FB4 laser show document downloading for BEYOND/QSS"],
+      ["Safety Configuration", "Laser key switch, laser remote interlock, safety shutter, SFS control (scanner fail safety control ON/OFF), flying rings bolt"],
+      ["Interface", "3-pin XLR jack for DMX, DB25 port for PC control in ILDA mode, RJ45 Ethernet LAN port for BEYOND/QS"],
+      ["Machine Size", "510(L)×320(W)×260(H)mm"],
+      ["Machine Weight", "36Kg"]
+    ]
   }
 ]
