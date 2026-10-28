@@ -3392,5 +3392,48 @@
       ["Packaging", "One pack: 23×23×36, weight 4.25kg; one set of four: 49×49×38, weight 17kg"],
       ["Applicable Venues", "Smart lighting KTV private rooms, music restaurants, high-end villas, home theaters, performance venues, outdoor and cultural tourism settings"]
     ]
+  },
+  {
+    "model": "YX-LP5",
+    "name": "5W Full Color Animation Laser (RGB Programmable)",
+    "img": "assets/img/products/yx-lp5.jpg",
+    "images": [
+      "assets/img/products/yx-lp5-1.jpg",
+      "assets/img/products/yx-lp5-2.jpg",
+      "assets/img/products/yx-lp5-3.jpg",
+      "assets/img/products/yx-lp5-4.jpg",
+      "assets/img/products/yx-lp5-5.jpg"
+    ],
+    "category": "LED Laser Light",
+    "subcategory": "Laser Light",
+    "application": "Intelligent lighting, KTV rooms, private rooms, music restaurants, high-end villas, home theaters, performance venues and outdoor cultural tourism settings needing a 5W full-color animation laser with galvanometer scanning and programmable beam/animation effects.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "5W full-color laser: R1500mW/638nm + G1500mW/520nm + B2000mW/450nm",
+      "Customizable 2-5W full-color / single-color laser options",
+      "High-speed galvanometer scanning, ±20° scanning angle, input ±5V, linear distortion <2%",
+      "Beam, complex graphics, broken pen and animation effects with hundreds of animation line programs",
+      "38× 5050 RGB 0.2W LED beads with independent circle and race control",
+      "DMX512 / self-propelled / voice / master-slave, with RDM function",
+      "16-channel DMX simple mode, fire-resistant engineering plastic body"
+    ],
+    "specs": [
+      ["Model", "YX-LP5"],
+      ["Input Voltage", "AC90-240V, 50Hz/60Hz"],
+      ["Power", "80W"],
+      ["Laser Power", "Red 1500mW (638nm), Green 1500mW (520nm), Blue 2000mW (450nm)"],
+      ["Control Mode", "DMX512, self-propelled, voice controlled, master-slave, with RDM function"],
+      ["Control System", "High-speed galvanometer; scanning angle ±20°, input signal ±5V, linear distortion <2%"],
+      ["Playback System", "High-speed galvanometer with scanning angle 20K and linear distortion of input signal at around 20 degrees"],
+      ["Program Effects", "Various beams, complex graphics, broken pens, animation effects, memory with hundreds of animation line program effects"],
+      ["Lamp Strip", "38× 5050 RGB × 0.2W LED beads, independently controlled by circle and race control"],
+      ["Program Development", "Capable of arranging various beam and animation programs"],
+      ["Channel", "DMX512 (16-channel simple mode)"],
+      ["Lamp Material", "Brand new fire-resistant engineering plastic material"],
+      ["Product Size", "Height 28.5 (with handle 31) × Length 22 × Width 23cm"],
+      ["Net Weight", "3.8kg"],
+      ["Packaging", "One pack one: 23×23×36, weight 4.25kg; one pack four: 49×49×38, weight 17kg"],
+      ["Applicable Places", "Intelligent lighting, KTV rooms, private rooms, music restaurants, high-end villas, home theaters, performance venues, outdoor cultural tourism venues"]
+    ]
   }
 ]
