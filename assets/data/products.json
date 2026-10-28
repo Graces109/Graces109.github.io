@@ -4570,5 +4570,44 @@
       ["Product Size", "64×34×27cm (L×W×H)"],
       ["Net Weight", "8.6kg"]
     ]
+  },
+  {
+    "model": "YX-PW200",
+    "name": "200W LED Profile Light (COB, 3200K/5600K, DMX512)",
+    "img": "assets/img/products/yx-pw200.jpg",
+    "images": [
+      "assets/img/products/yx-pw200-1.jpg",
+      "assets/img/products/yx-pw200-2.jpg",
+      "assets/img/products/yx-pw200-3.jpg",
+      "assets/img/products/yx-pw200-4.jpg",
+      "assets/img/products/yx-pw200-5.jpg",
+      "assets/img/products/yx-pw200-6.jpg",
+      "assets/img/products/yx-pw200-7.jpg",
+      "assets/img/products/yx-pw200-8.jpg"
+    ],
+    "category": "LED Movies Light",
+    "subcategory": "",
+    "youtube": "https://youtube.com/shorts/nIBKYNWx5UA",
+    "application": "Theaters, studios, stages, conference rooms and video shooting needing a 200W COB LED profile/imaging light with white light output and DMX512 control.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "200W COB LED light source",
+      "Color temperature 3200K/5600K",
+      "Optical angles 19°/26°/36°",
+      "Manual and DMX512 control, 2 channels",
+      "Professional profile light for theater and studio applications"
+    ],
+    "specs": [
+      ["Model", "YX-PW200"],
+      ["Voltage", "AC110-230V, 50~60Hz"],
+      ["Power", "200W"],
+      ["Light Source", "COB 200W"],
+      ["Color Temperature", "3200K/5600K"],
+      ["Optical Angle", "19 degrees / 26 degrees / 36 degrees"],
+      ["Control Mode", "Manual, DMX512"],
+      ["Channel", "2 channels"],
+      ["Dimensions", "60×26.5×27.5cm"],
+      ["Net Weight", "9.3kg"]
+    ]
   }
 ]
