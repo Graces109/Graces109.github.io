@@ -3603,5 +3603,50 @@
       ["Inner Carton", "57×24×17cm, G.W 7KG"],
       ["Outer Carton (2 in 1)", "59×26×38cm, G.W 14KG"]
     ]
+  },
+  {
+    "model": "YX-A630RGB",
+    "name": "6-Head RGB Animation Laser Array Light",
+    "img": "assets/img/products/yx-a630rgb.jpg",
+    "images": [
+      "assets/img/products/yx-a630rgb-1.jpg",
+      "assets/img/products/yx-a630rgb-2.jpg",
+      "assets/img/products/yx-a630rgb-3.jpg",
+      "assets/img/products/yx-a630rgb-4.jpg",
+      "assets/img/products/yx-a630rgb-5.jpg"
+    ],
+    "category": "LED Laser Light",
+    "subcategory": "Laser Light",
+    "youtube": "https://youtu.be/aDwkn_Fyazg",
+    "application": "Concerts, stages, DJ parties, clubs, events and shows needing a 6-head RGB animation laser array with 12W RGB power, galvanometer scanning and over 128 built-in beam/pattern effects.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "6-head RGB laser array, total 12W RGB (2W/3W per hole)",
+      "Red 450mW@638nm, green 550mW@525nm, blue 1000mW@450nm per hole",
+      "Exit spot 5×6mm, divergence <1.5mrad",
+      "Galvanometer 15KPPS, ±20°, maximum scanning angle 40°",
+      "Self-propelled, voice control, DMA, master-slave control modes",
+      "Over 128 built-in beam and pattern effects",
+      "Body 100×20.6×13.5cm, net weight 19kg"
+    ],
+    "specs": [
+      ["Model", "YX-A630RGB"],
+      ["Voltage", "AC100-240V, 50-60Hz"],
+      ["Total Power", "250W"],
+      ["Power", "12W RGB, 2W/3W RGB per hole"],
+      ["2W Red Laser", "450mW@638nm; exit spot 5×6mm, divergence angle <1.5mrad"],
+      ["2W Green Laser", "550mW@525nm; exit spot 5×6mm, divergence angle <1.5mrad"],
+      ["2W Blue Laser", "1000mW@450nm; exit spot 5×6mm, divergence angle <1.5mrad"],
+      ["3W Red Laser", "450mW@638nm; exit spot 5×6mm, divergence angle <1.5mrad"],
+      ["3W Green Laser", "550mW@525nm; exit spot 5×6mm, divergence angle <1.5mrad"],
+      ["3W Blue Laser", "1000mW@450nm; exit spot 5×6mm, divergence angle <1.5mrad"],
+      ["Luminescent Angle", "ca. <6mm, divergence <1.3mrad"],
+      ["Galvanometer", "15KPPS, ±20°"],
+      ["Control Mode", "Self-propelled, voice controlled, DMA, master-slave"],
+      ["Maximum Scanning Angle", "40°"],
+      ["Built-in Patterns", "Over 128 beam and pattern effects"],
+      ["Body Size", "100×20.6×13.5cm"],
+      ["Net Weight", "19KG"]
+    ]
   }
 ]
