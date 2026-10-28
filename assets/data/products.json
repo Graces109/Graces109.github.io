@@ -3477,5 +3477,47 @@
       ["Net Weight", "3.8kg"],
       ["Packaging", "One box one piece: 23×23×36, weight 4.25kg; one box four pieces: 49×49×38, weight 17kg"]
     ]
+  },
+  {
+    "model": "YX-LSD20",
+    "name": "20W Outdoor RGB Laser Light IP65 (ILDA/DMX512)",
+    "img": "assets/img/products/yx-lsd20.jpg",
+    "images": [
+      "assets/img/products/yx-lsd20-1.jpg",
+      "assets/img/products/yx-lsd20-2.jpg",
+      "assets/img/products/yx-lsd20-3.jpg",
+      "assets/img/products/yx-lsd20-4.jpg"
+    ],
+    "category": "LED Laser Light",
+    "subcategory": "Outdoor Laser Light",
+    "youtube": "https://youtu.be/_icHWmfKS24",
+    "application": "Outdoor shows, buildings, events, concerts and stage productions needing a 20W outdoor RGB laser light with IP65 waterproofing, 30kHz analog modulation and ILDA/DMX512/AUTO control.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "20W outdoor RGB laser: red 7W/638nm, green 7W/525nm, blue 8W/450nm",
+      "RGB analog modulation, 30kHz frequency",
+      "IP65 waterproof, Class 4 laser, laser life >10000 hours",
+      "DT50BB high-speed optical scanner, >30KPPS ILDA@8°, max scanning angle 50°, input ±5V",
+      "ILDA, DMX512, sound active and AUTO working modes",
+      "RJ45-ILDA interface for PC control, up to 300m transmission without signal attenuation",
+      "Optional PANGOLIN FB4 control system"
+    ],
+    "specs": [
+      ["Model", "YX-LSD20"],
+      ["Voltage", "AC90~250V, 50Hz/60Hz, max consumption power 700W"],
+      ["Laser Module", "RGB analog modulate, 30kHz frequency"],
+      ["Laser Power", "Red 7W (638nm), Green 7W (525nm), Blue 8W (450nm)"],
+      ["Beam Diameter", "<7.0×6.0mm, Divergence <1.0mrad"],
+      ["Laser Life", ">10000 hours"],
+      ["Laser Level", "Class 4 laser"],
+      ["Waterproof Level", "IP65"],
+      ["Work Environment", "Indoor, -20°C to 40°C"],
+      ["Scanner", "Model DT50BB; >30KPPS ILDA @8°, max scanning angle 50°, signal input voltage ±5V, mirror 12×14mm/X and 20×10mm/Y"],
+      ["Working Modes", "ILDA, DMX512, sound active, AUTO"],
+      ["Option", "PANGOLIN FB4 control system"],
+      ["Interface", "3-pin XLR jack for DMX; RJ45-ILDA interface for PC control (RJ45 cat cable, no signal attenuation even after 300m transmission)"],
+      ["Machine Dimension", "450(L)×305(W)×200(H)mm"],
+      ["Net Weight", "28.5Kg"]
+    ]
   }
 ]
