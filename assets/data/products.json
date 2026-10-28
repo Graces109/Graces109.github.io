@@ -3910,5 +3910,53 @@
       ["Flightcase (1 in 1)", "472×346×252mm, G.W 19KG"],
       ["Application", "All kinds of large-scale outdoor performances, outdoor lighting projects, weddings"]
     ]
+  },
+  {
+    "model": "YX-AL20RGB",
+    "name": "20W Full Color Animated Laser Light (ILDA/DMX512, 40KPPS)",
+    "img": "assets/img/products/yx-al20rgb.jpg",
+    "images": [
+      "assets/img/products/yx-al20rgb-1.jpg",
+      "assets/img/products/yx-al20rgb-2.jpg",
+      "assets/img/products/yx-al20rgb-3.jpg",
+      "assets/img/products/yx-al20rgb-4.jpg",
+      "assets/img/products/yx-al20rgb-5.jpg",
+      "assets/img/products/yx-al20rgb-6.jpg",
+      "assets/img/products/yx-al20rgb-7.jpg",
+      "assets/img/products/yx-al20rgb-8.jpg",
+      "assets/img/products/yx-al20rgb-9.jpg"
+    ],
+    "category": "LED Laser Light",
+    "subcategory": "Laser Light",
+    "youtube": "https://youtu.be/hJqjezTjmvc",
+    "application": "Large-scale outdoor performances, outdoor lighting projects, events and shows needing a high-power full-color animated laser light with ILDA PC control, DMX512 and 40KPPS scanner.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "High-power full-color animated laser, RGB analog modulation 30kHz",
+      "Configurable power: AL15RGB (red 4000mW@638nm + green 4000mW@525nm + blue 7000mW@440nm), AL18RGB (red 5000mW@638nm + green 5000mW@525nm + blue 8000mW@440nm)",
+      "IP51 waterproof, works -30°C to 40°C",
+      "40KPPS scanner, max scanning angle 50°, XY mirror 8×14mm",
+      "ILDA, DMX512 (18/25CH), PRG, ILD, sound, AUTO, outdoor and master/slave modes",
+      "8GB TF card with built-in and downloadable programs, .ild playback",
+      "Automatic laser shutdown without trigger signal and scanner failure protection"
+    ],
+    "specs": [
+      ["Model", "YX-AL20RGB"],
+      ["Voltage", "AC90~250V, 50Hz/60Hz"],
+      ["Rated Power", "300W"],
+      ["Waterproof Level", "IP51"],
+      ["Work Environment", "Indoor, -30°C to 40°C"],
+      ["Scanner", "40KPPS ILDA @8°, max scanning angle 50°, signal input voltage ±5V, XY mirror 8×14mm, maximum accommodate laser spot 5.6(W)×5.6(H)mm"],
+      ["Laser", "RGB analog modulate, 30kHz frequency"],
+      ["Laser Power (AL15RGB)", "Red 4000mW@638nm, Green 4000mW@525nm, Blue 7000mW@440nm"],
+      ["Laser Power (AL18RGB)", "Red 5000mW@638nm, Green 5000mW@525nm, Blue 8000mW@440nm"],
+      ["Beam Diameter", "<5.5mm, Divergence <1.3mrad"],
+      ["Working Modes", "ILDA mode (PC control), DMX512 (18CH/25CH), PRG (TF card program), ILD (TF card program), sound active, AUTO, outdoor mode, master/slave"],
+      ["TF Card Play Program Format", ".ild laser show document"],
+      ["Safety Configuration", "Security protection, laser key switch, laser remote interlock, SFS control (scanner fail safety control ON/OFF), flying rings bolt"],
+      ["Interface", "3-pin XLR jack for DMX, DB25 and RJ45 interface for PC control"],
+      ["Machine Dimension", "35.5(L)×22(W)×18.5(H)cm"],
+      ["Machine Weight", "12.2Kg"]
+    ]
   }
 ]
