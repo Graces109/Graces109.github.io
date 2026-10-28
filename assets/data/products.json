@@ -3193,5 +3193,65 @@
       ["Packaging Size", "50×35×37cm"],
       ["Gross Weight", "12kg"]
     ]
+  },
+  {
+    "model": "YX-LM0510",
+    "name": "10W Moving Head Laser + LED Dyeing Light",
+    "img": "assets/img/products/yx-lm0510.jpg",
+    "images": [
+      "assets/img/products/yx-lm0510-1.jpg",
+      "assets/img/products/yx-lm0510-2.jpg",
+      "assets/img/products/yx-lm0510-3.jpg",
+      "assets/img/products/yx-lm0510-4.jpg",
+      "assets/img/products/yx-lm0510-5.jpg",
+      "assets/img/products/yx-lm0510-6.jpg",
+      "assets/img/products/yx-lm0510-7.jpg",
+      "assets/img/products/yx-lm0510-8.jpg",
+      "assets/img/products/yx-lm0510-9.jpg",
+      "assets/img/products/yx-lm0510-10.jpg",
+      "assets/img/products/yx-lm0510-11.jpg"
+    ],
+    "category": "LED Laser Light",
+    "subcategory": "Laser Moving Head Light",
+    "youtube": "https://youtu.be/T7w6MZpLRcs",
+    "application": "Discos, bars, nightclubs, concerts, advertising promotions and shows needing a 10W RGB moving head laser with 9×20W four-in-one LED dyeing lamp beads.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "10W moving head laser + LED dyeing light",
+      "RGB full color, RGB 10W laser power",
+      "256 laser animation patterns, TTL modulation",
+      "Galvanometer scanning 30KPPS, ±20° scanning angle",
+      "9× 20W four-in-one high brightness LED dyeing lamp beads",
+      "Horizontal 540°, vertical 270°, 30 DMX channels",
+      "DMX512 / voice / self-walking / ILDA / Art-Net control"
+    ],
+    "specs": [
+      ["Model", "YX-LM0510"],
+      ["Rated Voltage", "AC110-220V, 50-60Hz"],
+      ["Rated Power", "300W"],
+      ["Type", "Shaking head laser + LED dyeing light"],
+      ["Laser Color", "RGB full color"],
+      ["Laser Power", "RGB 10W"],
+      ["Laser Light Source", "R3W/638nm, G3W/525nm, B4W/447nm"],
+      ["Laser Pattern", "256 laser animation patterns"],
+      ["Modulation Signal", "TTL modulation (analog modulation)"],
+      ["Scanning System", "Galvanometer scanning, 30KPPS"],
+      ["Scanning Angle", "±20 degrees"],
+      ["Stepper Motor", "Two-phase 57 motors × 2"],
+      ["Movement", "Horizontal 540°, vertical 270°"],
+      ["LED Dyeing", "9× 20W four-in-one high brightness LED lamp beads"],
+      ["Control Mode", "DMX512, voice control, self-walking, computer ILDA interface, cable Art-Net"],
+      ["Control Channels", "30 DMX512 channels"],
+      ["DMX Special Effects", "Single pattern mode, broken pen, stroboscopic, rotating, moving, tumbling, subgraph, gradually drawing, color change, size change and other functions"],
+      ["Function", "Controlled by Pangolin QSFB3/FB4 or Phoenix laser software"],
+      ["ILDA Control", "Automatic electronic transfer switch, scanning system error protection, laser light protection"],
+      ["Usage", "Ambient temperature 0-35°C, dry and dust-less environment reduces laser power attenuation and extends lamp life"],
+      ["Suitable Places", "Disco bar, bar, nightclub, concert, advertising promotion, etc."],
+      ["Cooling System", "Fan forced cooling"],
+      ["Light Size", "32×25.5×52cm"],
+      ["Net Weight", "11KG"],
+      ["Carton Size", "55.5×38×43cm"],
+      ["Gross Weight", "14KG"]
+    ]
   }
 ]
