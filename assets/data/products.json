@@ -3135,5 +3135,63 @@
       ["Application", "Disco, club, KTV, pub, family party, etc."],
       ["Optional Configuration", "B445-500mW × 8 pcs; R638-500mW × 8 pcs (send request first)"]
     ]
+  },
+  {
+    "model": "YX-LM10",
+    "name": "10W Laser + 3D LED Beam Laser Moving Head Light",
+    "img": "assets/img/products/yx-lm10.jpg",
+    "images": [
+      "assets/img/products/yx-lm10-1.jpg",
+      "assets/img/products/yx-lm10-2.jpg",
+      "assets/img/products/yx-lm10-3.jpg",
+      "assets/img/products/yx-lm10-4.jpg",
+      "assets/img/products/yx-lm10-5.jpg",
+      "assets/img/products/yx-lm10-6.jpg",
+      "assets/img/products/yx-lm10-7.jpg",
+      "assets/img/products/yx-lm10-8.jpg",
+      "assets/img/products/yx-lm10-9.jpg"
+    ],
+    "category": "LED Laser Light",
+    "subcategory": "Laser Moving Head Light",
+    "youtube": "https://www.youtube.com/watch?v=_tz_YdKOjZA",
+    "application": "Nightclubs, bars, concerts, advertising promotions and shows needing a 10W RGB laser moving head light with 3D LED aperture and 256 laser animation patterns.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "10W laser + 3D LED beam laser moving head light",
+      "RGB full-color, RGB 10W / RGB 5W laser power",
+      "256 laser animation patterns, TTL modulation",
+      "Galvanometer scanning 30KPPS, ±20° scanning angle",
+      "Horizontal 540°, vertical 270°, 20/25 channel modes",
+      "DMX512 / voice / self-propelled / ILDA / Art-Net control",
+      "Three-layer wheat jazz LED dyeing strip, fan forced cooling"
+    ],
+    "specs": [
+      ["Model", "YX-LM10"],
+      ["Rated Voltage", "AC110-220V, 50-60Hz"],
+      ["Rated Power", "300W"],
+      ["Type", "Shaking head laser + LED aperture"],
+      ["Laser Color", "RGB full-color"],
+      ["Laser Power", "RGB 10W / RGB 5W"],
+      ["Laser Light Source", "R3W/638nm, G3W/525nm, B4W/447nm (5W: R1, G1, B3)"],
+      ["Laser Pattern", "256 laser animation patterns"],
+      ["Modulation Signal", "TTL modulation (analog modulation)"],
+      ["Scanning System", "Galvanometer scanning, 30KPPS"],
+      ["Scanning Angle", "±20 degrees"],
+      ["Stepper Motor", "2 two-phase 57 motors"],
+      ["Movement", "Horizontal 540°, vertical 270°"],
+      ["LED Dyeing", "Three-layer wheat jazz light strip"],
+      ["Control Method", "DMX512, voice control, self-propelled, computer ILDA interface, Ethernet Art-Net"],
+      ["Control Channel", "20/25 channels"],
+      ["DMX Special Effects", "Single pattern mode, with functions such as pen breakage, flicker, rotation, movement, scrolling, segmentation, gradient drawing, color change, and resizing"],
+      ["Function", "Can be controlled by laser software such as Pangolin QSFB3/FB4 or Phoenix"],
+      ["ILDA Control", "Automatic electronic transfer switch, scanning system error protection, laser shutdown protection"],
+      ["Usage", "Ambient temperature 0-35°C, dry and dust-free environment reduces laser power attenuation and extends lamp lifespan"],
+      ["Suitable Venues", "Nightclubs, bars, concerts, advertising promotions, etc."],
+      ["Cooling System", "Fan forced cooling"],
+      ["Bare Lamp Size", "29×24×45cm"],
+      ["Net Weight", "10kg"],
+      ["Packaging Size", "50×35×37cm"],
+      ["Gross Weight", "12kg"]
+    ]
   }
 ]
