@@ -4088,5 +4088,43 @@
       ["Packaging Size", "76×53×49cm"],
       ["Gross Weight", "28KG"]
     ]
+  },
+  {
+    "model": "YX-IC3500",
+    "name": "Mini 3500W Dry Ice Machine (Dry Ice Fog Machine)",
+    "img": "assets/img/products/yx-ic3500.jpg",
+    "images": [
+      "assets/img/products/yx-ic3500-1.jpg",
+      "assets/img/products/yx-ic3500-2.jpg",
+      "assets/img/products/yx-ic3500-3.jpg",
+      "assets/img/products/yx-ic3500-4.jpg",
+      "assets/img/products/yx-ic3500-5.jpg",
+      "assets/img/products/yx-ic3500-6.jpg"
+    ],
+    "category": "Fog Machine",
+    "subcategory": "",
+    "youtube": "https://youtu.be/gsIBw7YK6fQ",
+    "application": "Weddings, parties, clubs, stage shows and events needing a mini 3500W dry ice fog machine for low-lying dry ice fog effects covering up to 150 square meters.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "Mini 3500W dry ice fog machine",
+      "Covers up to 150 square meters",
+      "Normal heating time only 10 minutes",
+      "Temperature control 70-80°C",
+      "Maximum continuous output duration 5-6 minutes",
+      "Compact and easy to transport (net weight 10.5KG)"
+    ],
+    "specs": [
+      ["Model", "YX-IC3500"],
+      ["Voltage", "AC100-220V, 50-60Hz"],
+      ["Power", "3500W"],
+      ["Normal Heating Time", "10 minutes"],
+      ["Temperature Control", "70-80°C"],
+      ["Maximum Continuous Output Duration", "5-6 minutes"],
+      ["Maximum Output Covered Area", "150 square meters"],
+      ["Net Weight", "10.5KG"],
+      ["Gross Weight", "11KG"],
+      ["Packing Size", "46×42×45cm"]
+    ]
   }
 ]
