@@ -3648,5 +3648,41 @@
       ["Body Size", "100×20.6×13.5cm"],
       ["Net Weight", "19KG"]
     ]
+  },
+  {
+    "model": "YX-P60RGB",
+    "name": "10-Head RGB Laser Bar Light (Full Color Beam Array)",
+    "img": "assets/img/products/yx-p60rgb.jpg",
+    "images": [
+      "assets/img/products/yx-p60rgb-1.jpg",
+      "assets/img/products/yx-p60rgb-2.jpg",
+      "assets/img/products/yx-p60rgb-3.jpg",
+      "assets/img/products/yx-p60rgb-4.jpg",
+      "assets/img/products/yx-p60rgb-5.jpg"
+    ],
+    "category": "LED Laser Light",
+    "subcategory": "Laser Light",
+    "youtube": "https://youtu.be/qTCZAzageTk",
+    "application": "Concerts, stages, DJ parties, clubs, bars and events needing a 10-head RGB laser bar with a 3500mW full-color beam array and DMX/master-slave control.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "10 full-color beam laser array, total power 3500mW",
+      "Each beam: 100mW@638nm red, 100mW@520nm green, 150mW@450nm blue",
+      "DMX, sound active, AUTO, manual and master-slave working modes",
+      "31 DMX control channels with brightness adjustment",
+      "3-pin XLR for DMX/master-slave, 3-pin powercon for power",
+      "Size 1000×160×110mm, weight 12.4kg"
+    ],
+    "specs": [
+      ["Model", "YX-P60RGB"],
+      ["Voltage", "AC100V~250V, 50Hz/60Hz"],
+      ["Rated Power", "30~60W"],
+      ["Laser", "10 full-color beam laser array, total power 3500mW; each beam 100mW@638nm red, 100mW@520nm green, 150mW@450nm blue"],
+      ["Working Modes", "DMX, sound active, AUTO, manual mode, master-slave"],
+      ["DMX Control Channel", "31 channels, support brightness adjustment"],
+      ["Interface", "3-pin XLR jack for DMX or master-slave linking, 3-pin powercon for power"],
+      ["Size", "L×W×H = 1000×160×110mm"],
+      ["Weight", "12.4Kg"]
+    ]
   }
 ]
