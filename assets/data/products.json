@@ -5287,5 +5287,50 @@
       ["Aviation Box", "69CM × 52CM × 19.5CM, gross weight 21KG"],
       ["Carton Packaging", "68.5CM × 48.5CM × 15.5CM, gross weight 13KG"]
     ]
+  },
+  {
+    "model": "YX-BK12",
+    "name": "MA 3 onPC Software Console (Dual Screen, Intel i5, 4096 Parameters)",
+    "img": "assets/img/products/yx-bk12.jpg",
+    "images": [
+      "assets/img/products/yx-bk12-1.jpg",
+      "assets/img/products/yx-bk12-2.jpg",
+      "assets/img/products/yx-bk12-3.jpg",
+      "assets/img/products/yx-bk12-4.jpg"
+    ],
+    "category": "DMX Console",
+    "subcategory": "",
+    "application": "Professional lighting control for large stages, theaters, concerts and touring, a dual-screen grand MA 3 onPC software console with high-end hardware, encoders, faders and multiple DMX outputs.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "ASUS motherboard, Intel 12th-gen i5 CPU, 16GB DDR4, 256GB SSD, WIN10 system",
+      "2 15.6-inch high-resolution industrial grade LCD screens plus 2 high-sensitivity capacitive touch screens",
+      "Real-time control of 4096 parameters using grand MA 3 onPC",
+      "29 rotating RGB backlight encoders plus 5 dual encoders",
+      "10 60mm electric thrusters, 2 100mm electric A/B thrusters",
+      "40 independent plays, 16 assignable X keys",
+      "4 DMX output ports, 1 DMX input port, 1 HDMI video interface"
+    ],
+    "specs": [
+      ["Model", "YX-BK12"],
+      ["Motherboard", "ASUS motherboard"],
+      ["CPU", "Intel 12th generation i5 CPU"],
+      ["Memory", "16GB DDR4 memory module"],
+      ["Storage", "256GB second-generation solid-state drive"],
+      ["System", "WIN10 system"],
+      ["Displays", "2 15.6-inch high-resolution industrial grade LCD screens, and 2 15.6-inch high-sensitivity capacitive touch screens"],
+      ["Video Interface", "1 HDMI high-definition video interface"],
+      ["Control", "Real-time control of 4096 parameters using grand MA 3 onPC"],
+      ["Encoders", "29 rotating RGB backlight encoders, 5 dual encoders"],
+      ["Thrusters", "10 60mm electric thrusters"],
+      ["Independent Plays", "40 independent plays"],
+      ["Assignable Keys", "16 assignable X keys"],
+      ["A/B Thrusters", "2 100mm electric A/B thrusters"],
+      ["DMX Output", "4 DMX output ports"],
+      ["DMX Input", "1 DMX input port"],
+      ["Buttons", "Independent backlight and dimmable mute (no click) button"],
+      ["Console Size", "Length 89cm, width 43cm, height 17cm"],
+      ["Aviation Box", "96cm long, 50cm wide, 29cm high, weight 37KG, net weight 22.5KG"]
+    ]
   }
 ]
