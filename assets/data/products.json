@@ -3815,5 +3815,48 @@
       ["Net Weight", "9.3KG"],
       ["Application", "Disco, clubs, KTV, pub, bar, family party, etc"]
     ]
+  },
+  {
+    "model": "YX-AL10RGB",
+    "name": "10W RGB Laser Light with 40KPPS Scanner (ILDA/DMX512)",
+    "img": "assets/img/products/yx-al10rgb.jpg",
+    "images": [
+      "assets/img/products/yx-al10rgb-1.jpg",
+      "assets/img/products/yx-al10rgb-2.jpg",
+      "assets/img/products/yx-al10rgb-3.jpg",
+      "assets/img/products/yx-al10rgb-4.jpg",
+      "assets/img/products/yx-al10rgb-5.jpg",
+      "assets/img/products/yx-al10rgb-6.jpg",
+      "assets/img/products/yx-al10rgb-7.jpg"
+    ],
+    "category": "LED Laser Light",
+    "subcategory": "Laser Light",
+    "youtube": "https://youtube.com/shorts/-svGCHzlTk8",
+    "application": "Disco, clubs, KTV, pub, bar, family parties and events needing a 10W RGB laser light with ILDA PC control, DMX512, 40KPPS scanner and high-power safety protection.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "10W RGB laser: red 3000mW@638nm, green 3000mW@520nm, blue 4000mW@450nm",
+      "Beam dia. 4×5mm, divergence <1.5mrad for all colors",
+      "40KPPS scanner, ±30° scanning angle",
+      "PC control (ILDA output/input), DMX512 (18/25 channels), sound active, AUTO, master/slave",
+      "Compatible with ILDA laser show software, electronic switches for full ILDA signal",
+      "Single beam protection system, laser ON-OFF switch, laser remote interlock, flying rings bolt",
+      "Automatic laser shutdown without trigger signal and scanner failure protection"
+    ],
+    "specs": [
+      ["Model", "YX-AL10RGB"],
+      ["Play Modes", "PC control (ILDA output/input), DMX512 (18/25 channels), sound active, AUTO, master/slave"],
+      ["PC Control", "Compatible ILDA laser show software with ILDA interface; electronic switches to convert full ILDA signal"],
+      ["Safety Configuration", "Single beam protection system (ON/OFF), laser ON-OFF switch, laser remote interlock, flying rings bolt"],
+      ["Safety Intelligent", "Automatically identify ILDA or built-in program mode; master/slave, DMX512 and PC control modes shut off laser automatically without trigger signal; scanner failure protection shuts off the laser signal to avoid a single beam coming out"],
+      ["Power Supply", "100~250V, 50/60Hz, 100W"],
+      ["Red Laser", "Power 3000mW, wavelength 638nm, beam dia. 4×5mm, divergence <1.5mrad"],
+      ["Green Laser", "Power 3000mW, wavelength 520nm, beam dia. 4×5mm, divergence <1.5mrad"],
+      ["Blue Laser", "Power 4000mW, wavelength 450nm, beam dia. 4×5mm, divergence <1.5mrad"],
+      ["Scanner", "40KPPS, ±30°"],
+      ["Body Size", "33.5×19.5×16.3cm"],
+      ["Net Weight", "10KG"],
+      ["Application", "Disco, clubs, KTV, pub, bar, family party, etc"]
+    ]
   }
 ]
