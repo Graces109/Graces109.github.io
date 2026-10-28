@@ -11567,5 +11567,51 @@
         "1-6 meters"
       ]
     ]
+  },
+  {
+    "model": "YX-Cable06",
+    "name": "1.5m PowerCon AC Power Cord Extend Cable (3×1mm², Male-Female)",
+    "img": "assets/img/products/yx-cable06.jpg",
+    "images": [
+      "assets/img/products/yx-cable06-1.jpg",
+      "assets/img/products/yx-cable06-2.jpg"
+    ],
+    "category": "Accessories",
+    "subcategory": "",
+    "application": "Extending AC power between beam moving head lights, LED fixtures and other stage equipment, with PowerCon connectors for secure power in and out.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "1.5-meter AC PowerCon cable for beam moving head light power in and out",
+      "Custom lengths available: 1/1.5/2/3/5/10/20 meters",
+      "Farrow Cable RVVP with copper conductors",
+      "3×1mm² power cable size",
+      "Male connector one side, female on the other"
+    ],
+    "specs": [
+      [
+        "Model",
+        "YX-Cable06"
+      ],
+      [
+        "Type",
+        "1.5-meter AC power cable, PowerCon cable for beam moving head light power in and out power cables"
+      ],
+      [
+        "Length",
+        "1.5 meters/pc; 1/1.5/2/3/5/10/20 meters all kinds of meters cables can be made, please contact us for better price"
+      ],
+      [
+        "Cable Material",
+        "Farrow Cable RVVP + Copper"
+      ],
+      [
+        "Power Cable Size",
+        "3 × 1mm (square)"
+      ],
+      [
+        "Connector",
+        "1 side male and another side female"
+      ]
+    ]
   }
 ]
