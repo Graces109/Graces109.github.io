@@ -4609,5 +4609,48 @@
       ["Dimensions", "60×26.5×27.5cm"],
       ["Net Weight", "9.3kg"]
     ]
+  },
+  {
+    "model": "YX-PRGBW200",
+    "name": "200W LED Zoom Profile Light (RGBW COB, DMX512)",
+    "img": "assets/img/products/yx-prgbw200.jpg",
+    "images": [
+      "assets/img/products/yx-prgbw200-1.jpg",
+      "assets/img/products/yx-prgbw200-2.jpg",
+      "assets/img/products/yx-prgbw200-3.jpg",
+      "assets/img/products/yx-prgbw200-4.jpg",
+      "assets/img/products/yx-prgbw200-5.jpg",
+      "assets/img/products/yx-prgbw200-6.jpg",
+      "assets/img/products/yx-prgbw200-7.jpg",
+      "assets/img/products/yx-prgbw200-8.jpg",
+      "assets/img/products/yx-prgbw200-9.jpg",
+      "assets/img/products/yx-prgbw200-10.jpg",
+      "assets/img/products/yx-prgbw200-11.jpg"
+    ],
+    "category": "LED Movies Light",
+    "subcategory": "",
+    "youtube": "https://youtu.be/tdOnTtfSUuI",
+    "application": "Theaters, studios, stages, conference rooms and video shooting needing a full-color 200W LED zoom profile/imaging light (RGBW) with adjustable optical angle and DMX512 control.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "Full color LED 200W imaging lamp (RGBW)",
+      "COB 200W RGBW light source",
+      "Optical angle 14-50 degrees (zoom)",
+      "Manual and DMX512 control, 12 channels",
+      "Professional full-color profile light for theater and studio applications"
+    ],
+    "specs": [
+      ["Model", "YX-PRGBW200"],
+      ["Voltage", "AC110-230V, 50~60Hz"],
+      ["Power", "200W"],
+      ["Light Source", "COB 200W (RGBW)"],
+      ["Optical Angle", "14-50 degrees"],
+      ["Control Mode", "Manual, DMX512"],
+      ["Channel", "12 channels"],
+      ["Outline Dimension", "30.3×24.3×76.5cm"],
+      ["Net Weight", "10.58kg"],
+      ["Package Size", "85×37×32cm"],
+      ["Gross Weight", "17kg"]
+    ]
   }
 ]
