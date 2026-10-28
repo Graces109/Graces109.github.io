@@ -3958,5 +3958,51 @@
       ["Machine Dimension", "35.5(L)×22(W)×18.5(H)cm"],
       ["Machine Weight", "12.2Kg"]
     ]
+  },
+  {
+    "model": "YX-AL30RGB",
+    "name": "30W Full Color Animated Laser Light (ILDA/DMX512, 30KPPS)",
+    "img": "assets/img/products/yx-al30rgb.jpg",
+    "images": [
+      "assets/img/products/yx-al30rgb-1.jpg",
+      "assets/img/products/yx-al30rgb-2.jpg",
+      "assets/img/products/yx-al30rgb-3.jpg",
+      "assets/img/products/yx-al30rgb-4.jpg",
+      "assets/img/products/yx-al30rgb-5.jpg",
+      "assets/img/products/yx-al30rgb-6.jpg",
+      "assets/img/products/yx-al30rgb-7.jpg",
+      "assets/img/products/yx-al30rgb-8.jpg"
+    ],
+    "category": "LED Laser Light",
+    "subcategory": "Laser Light",
+    "application": "Large-scale outdoor performances, outdoor lighting projects, concerts, events and shows needing a 30W full-color animated laser light with ILDA/DMX512 control, 30KPPS scanner and Class 4 laser output.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "30W RGB laser: red 8W@638nm, green 8W@525nm, blue 14W@440nm",
+      "RGB analog modulation, 30kHz frequency",
+      "Class 4 laser, IP61 waterproof, laser life >10000 hours",
+      ">30KPPS scanner, max scanning angle 60°, XY mirror 12×14mm/X and 20×10mm/Y",
+      "PC control, DMX512, PRG, ILD, sound active and AUTO working modes",
+      "Optional PANGOLIN FB4 control system and additional SFS single-point protection",
+      "DB25-ILDA and RJ45-ILDA interfaces, up to 300m transmission without signal attenuation"
+    ],
+    "specs": [
+      ["Model", "YX-AL30RGB"],
+      ["Voltage", "AC90~250V, 50Hz/60Hz, max consumption power 600W"],
+      ["Laser Module", "RGB analog modulate, 30kHz frequency"],
+      ["Laser Power", "Red 8W@638nm, Green 8W@525nm, Blue 14W@440nm"],
+      ["Beam Diameter", "<7.0×5.5mm, Divergence <1.3mrad"],
+      ["Laser Life", ">10000 hours"],
+      ["Laser Level", "Class 4 laser"],
+      ["Waterproof Level", "IP61"],
+      ["Work Environment", "Indoor, -30°C to 40°C"],
+      ["Scanner", ">30KPPS ILDA @8°, max scanning angle 60°, signal input voltage ±5V, mirror 12×14mm/X and 20×10mm/Y, maximum accommodate laser spot 7(W)×8(H)mm"],
+      ["Working Modes", "PC control, DMX512, PRG (TF card program), ILD (TF card program), sound active, AUTO"],
+      ["Option", "PANGOLIN FB4 control system, additional SFS single-point protection function"],
+      ["TF Card Play File Format", "Supporting standard ILDA file with .ild"],
+      ["Interface", "3-pin XLR jack for DMX; DB25-ILDA interface and RJ45-ILDA interface for PC control (RJ45 cat cable, no signal attenuation even after 300m transmission)"],
+      ["Machine Dimension", "300(L)×380(W)×220(H)mm"],
+      ["Net Weight", "22.8Kg"]
+    ]
   }
 ]
