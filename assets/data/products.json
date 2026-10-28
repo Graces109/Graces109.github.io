@@ -4900,5 +4900,40 @@
       ["Dimension", "498×420×115mm"],
       ["Net Weight", "6.5kg"]
     ]
+  },
+  {
+    "model": "YX-CL1323",
+    "name": "New 192 DMX Console (192 Channels, 12 Intelligent Lights)",
+    "img": "assets/img/products/yx-cl1323.jpg",
+    "images": [
+      "assets/img/products/yx-cl1323-1.jpg",
+      "assets/img/products/yx-cl1323-2.jpg"
+    ],
+    "category": "DMX Console",
+    "subcategory": "",
+    "application": "Stage, club, mobile DJ and event lighting setups needing a compact 192-channel DMX controller for up to 12 intelligent lights, scenes and chases.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "Universal DMX-512 controller, 192 DMX channels of control",
+      "Controls up to 12 intelligent lights of up to 16 channels each",
+      "30 banks of 8 scenes, 240 scenes max",
+      "6 sets of chases containing 240 scenes, sequential linking of chases",
+      "Beat activation, tap-sync and auto run",
+      "MIDI compatible, 3 space 19\" rack mount"
+    ],
+    "specs": [
+      ["Model", "YX-CL1323"],
+      ["Controller", "Universal DMX-512 controller"],
+      ["Channels", "192 DMX channels of control"],
+      ["Fixture Control", "Controls up to 12 intelligent lights of up to 16 channels each"],
+      ["Scenes", "30 banks of 8 scenes, 240 scenes max"],
+      ["Chases", "6 sets of chases containing 240 scenes, sequential linking of chases"],
+      ["Fixture Access", "Grab any fixture on the fly"],
+      ["Playback", "Beat activation, tap-sync and auto run"],
+      ["Mounting", "3 space 19\" rack mount"],
+      ["Connectivity", "MIDI compatible, 3-pin female DMX connector"],
+      ["Dimension", "482×133×75mm"],
+      ["Net Weight", "About 2.0kg"]
+    ]
   }
 ]
