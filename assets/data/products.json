@@ -5172,5 +5172,47 @@
       ["Remote Control", "Support wireless remote control"],
       ["Effects", "Can create 1000 built-in effects, can create 1000 programs"]
     ]
+  },
+  {
+    "model": "YX-Q0A",
+    "name": "Q0 Mobile DMX512 Command Console (10.1\" Touch, MA NET/Art-Net)",
+    "img": "assets/img/products/yx-q0a.jpg",
+    "images": [
+      "assets/img/products/yx-q0a-1.jpg",
+      "assets/img/products/yx-q0a-2.jpg",
+      "assets/img/products/yx-q0a-3.jpg"
+    ],
+    "category": "DMX Console",
+    "subcategory": "",
+    "application": "Mobile and compact lighting control for small stages, bars, events and touring where a portable Q0 command console with touch screen, MA NET/Art-Net networking and UPS backup is needed.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "Built-in 10.1-inch industrial capacitive touch screen",
+      "2 DMX outputs, 1 DMX input (can be set as output), open outputs for all 256 domains",
+      "1 Gigabit Ethernet port supporting MA NET, ARTNET signals, plus wireless WIFI",
+      "Independent German CHERRY yellow backlit buttons",
+      "Built-in 120GB SSD and 8GB memory, pre-installed WIN10 64-bit custom system",
+      "MIDI input, LTC/SMPTE time code, audio output, built-in UPS",
+      "Supports stage 3D simulation and real-time on-site simulation",
+      "AC wide voltage 100-250V, lightweight and portable"
+    ],
+    "specs": [
+      ["Model", "YX-Q0A"],
+      ["DMX Output/Input", "2 DMX outputs, 1 DMX input (can be set as output), connected to an extender, open outputs for all 256 domains"],
+      ["Touch Screen", "Built-in full view industrial 10.1-inch capacitive touch screen display"],
+      ["Playback Faders", "6 replay faders"],
+      ["Manual Push Rods", "2 manual push rods for AB field"],
+      ["Encoders", "4 functional encoders (with PUSH function)"],
+      ["Networking", "1 Gigabit Ethernet port supporting MA NET, ARTNET signals, plus 1 wireless WIFI"],
+      ["Ports", "2 USB ports, 1 DP output port (can be connected to external touch display)"],
+      ["Buttons", "Independent German CHERRY yellow backlit button, better feel"],
+      ["Interfaces", "MIDI input interface, LTC/SMPTE time code, audio output, built-in uninterruptible power supply"],
+      ["Storage", "Built-in 120GB solid-state drive and 8GB of memory"],
+      ["System", "Pre-installed WIN10 64-bit custom version system"],
+      ["Simulation", "Support stage 3D simulation and real-time on-site simulation"],
+      ["Input Voltage", "AC wide voltage power supply: 100-250V, 50/60Hz"],
+      ["Console Size", "34cm × 25cm × 9cm"],
+      ["Weight", "Net weight 2.2kg, gross weight 3kg"]
+    ]
   }
 ]
