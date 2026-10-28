@@ -4652,5 +4652,57 @@
       ["Package Size", "85×37×32cm"],
       ["Gross Weight", "17kg"]
     ]
+  },
+  {
+    "model": "YX-TA432",
+    "name": "300W LED Flat Studio Light (432 LEDs, High CRI, DMX512)",
+    "img": "assets/img/products/yx-ta432.jpg",
+    "images": [
+      "assets/img/products/yx-ta432-1.jpg",
+      "assets/img/products/yx-ta432-2.jpg",
+      "assets/img/products/yx-ta432-3.jpg",
+      "assets/img/products/yx-ta432-4.jpg",
+      "assets/img/products/yx-ta432-5.jpg",
+      "assets/img/products/yx-ta432-6.jpg",
+      "assets/img/products/yx-ta432-7.jpg"
+    ],
+    "category": "LED Movies Light",
+    "subcategory": "",
+    "application": "Photography, studios, conferences, conferences, video shooting and interviews needing a flicker-free, high color rendering LED flat/panel studio light with adjustable color temperature and DMX512 control.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "432 LED lamp beads, flicker-free, camera-friendly",
+      "Color rendering index Ra≥95, TLCI>95, R9>90",
+      "Color temperature 3200K/5600K or 2900K-5800K optional, ±150",
+      "100% linear dimming without flicker or noise",
+      "50000 hours lifetime (10 hours per day, 13 years)",
+      "DMX512 control, 1 channel",
+      "Natural air cooling, metal shell",
+      "Light angle 115°"
+    ],
+    "specs": [
+      ["Model", "YX-TA432"],
+      ["Lamp Beads", "432 pieces"],
+      ["Power", "100W"],
+      ["Color Rendering Index", "Ra≥95, TLCI>95, R9>90"],
+      ["Color Temperature", "3200K/5600K or 2900K-5800K optional, ±150"],
+      ["Lifetime", "50000 hours (10 hours per day, can be used for 13 years)"],
+      ["Optical System", "100% linear dimming without flicker or noise"],
+      ["Light Angle", "115°"],
+      ["Storage Temperature", "-20~+60°C"],
+      ["Shell", "Metal shell"],
+      ["Cooling System", "Natural air cooling and heat dissipation"],
+      ["Operation", "Digital display tube control address code"],
+      ["Control Protocol", "DMX512 control"],
+      ["Channel Mode", "1 channel"],
+      ["Signal Line", "Three-core XLR input for signal line, three-core XLR socket output for signal line"],
+      ["Power Input", "Three-core locking aviation plug"],
+      ["Input Voltage", "AC220V/50Hz"],
+      ["Color Temperature Default", "2900K-5900K adjustable, or 3200K/4000K/5600K optional, ±150 LUX"],
+      ["Single Piece Size", "53×16×34.5cm"],
+      ["Gross Weight", "4.5kg"],
+      ["1 Pack of 2 Cardboard Boxes Size", "55×35×37cm, gross weight 9.5kg"],
+      ["1 Pack of 4 Cardboard Boxes Size", "71×55×40cm, gross weight 19kg"]
+    ]
   }
 ]
