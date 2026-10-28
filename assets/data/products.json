@@ -11217,5 +11217,105 @@
         "N.W 22.5KG, gross weight 37KG"
       ]
     ]
+  },
+  {
+    "model": "YX-BK12",
+    "name": "Single Screen MA 3 DMX Console (Intel i5, 4096 Parameters)",
+    "img": "assets/img/products/yx-bk12.jpg",
+    "images": [
+      "assets/img/products/yx-bk12-1.jpg",
+      "assets/img/products/yx-bk12-2.jpg"
+    ],
+    "category": "DMX Console",
+    "subcategory": "",
+    "application": "Professional lighting control for stages, theaters, concerts, studios and touring, a single-screen grand MA 3 onPC DMX console with high-end hardware, encoders, faders and reliable control.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "ASUS motherboard, Intel 10th-gen i5 CPU, 16GB DDR4, 256GB SSD, WIN10 system",
+      "15.6-inch high-resolution industrial grade LCD screen plus high-sensitivity capacitive touch screen",
+      "Real-time control of 4096 parameters using grand MA 3 on PC",
+      "29 rotating RGB backlight encoders plus 5 dual encoders",
+      "10 60mm electric thrusters, 2 100mm electric A/B thrusters",
+      "40 independent plays, 16 assignable X keys",
+      "1 horizontal dimming wheel, 1 HDMI video interface"
+    ],
+    "specs": [
+      [
+        "Model",
+        "YX-BK12"
+      ],
+      [
+        "Motherboard",
+        "ASUS motherboard"
+      ],
+      [
+        "CPU",
+        "Intel 10th generation i5 CPU"
+      ],
+      [
+        "Memory",
+        "16GB DDR4 memory module"
+      ],
+      [
+        "Storage",
+        "256GB second-generation solid-state drive"
+      ],
+      [
+        "System",
+        "WIN10 system"
+      ],
+      [
+        "Displays",
+        "1 15.6-inch high-resolution industrial grade LCD screen, 15.6-inch high-sensitivity capacitive touch screen"
+      ],
+      [
+        "Video Interface",
+        "1 HDMI high-definition video interface"
+      ],
+      [
+        "Control",
+        "Real-time control of 4096 parameters using grand MA 3 on PC"
+      ],
+      [
+        "Encoders",
+        "29 rotating RGB backlight encoders, 5 dual encoders"
+      ],
+      [
+        "Thrusters",
+        "10 60mm electric thrusters"
+      ],
+      [
+        "Independent Plays",
+        "40 independent plays"
+      ],
+      [
+        "Assignable Keys",
+        "16 assignable X keys"
+      ],
+      [
+        "A/B Thrusters",
+        "2 100mm electric A/B thrusters"
+      ],
+      [
+        "Dimming Wheel",
+        "1 horizontal dimming wheel"
+      ],
+      [
+        "Buttons",
+        "Independent backlight and dimmable mute (no click) button"
+      ],
+      [
+        "Console Size",
+        "67cm × 43cm × 17cm"
+      ],
+      [
+        "Flightcase",
+        "67cm × 43cm × 17cm"
+      ],
+      [
+        "Weight",
+        "N.W 18KG, gross weight 29.5KG"
+      ]
+    ]
   }
 ]
