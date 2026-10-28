@@ -4423,5 +4423,50 @@
       ["Product Size", "41×32×20cm (L×W×H)"],
       ["Net Weight", "5.3kg"]
     ]
+  },
+  {
+    "model": "YX-SP300W",
+    "name": "300W LED Fresnel Spotlight (COB, DMX512)",
+    "img": "assets/img/products/yx-sp300w.jpg",
+    "images": [
+      "assets/img/products/yx-sp300w-1.jpg",
+      "assets/img/products/yx-sp300w-2.jpg",
+      "assets/img/products/yx-sp300w-3.jpg",
+      "assets/img/products/yx-sp300w-4.jpg",
+      "assets/img/products/yx-sp300w-5.jpg",
+      "assets/img/products/yx-sp300w-6.jpg"
+    ],
+    "category": "LED Movies Light",
+    "subcategory": "",
+    "youtube": "https://youtu.be/b_KKsrayonE",
+    "application": "Theaters, studios, stages, conference rooms and video shooting needing a 300W COB LED Fresnel spotlight with manual focusing and DMX512 control.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "300W COB LED light source, 50000 hours lamp bead lifespan",
+      "Color temperature 3200K/5600K optional, 2-in-1, RGBW",
+      "Color rendering index (CRI) ≥95",
+      "Optical angle 15°-50° manual focusing",
+      "0-100% linear dimming, fan cooling",
+      "Standard DMX512, self-propelled and master-slave control",
+      "Entry-level Fresnel that meets basic theater needs, an ideal partner for imaging lights"
+    ],
+    "specs": [
+      ["Model", "YX-SP300W"],
+      ["Input Voltage", "AC100-240V, 50/60Hz"],
+      ["Rated Power", "300W"],
+      ["Light Source", "300W COB"],
+      ["Color Temperature", "3200K/5600K optional, 2-in-1, RGBW"],
+      ["Color Rendering Index", "≥95"],
+      ["Cooling", "Fan cooling"],
+      ["Lamp Bead Lifespan", "50000 hours"],
+      ["Dimming", "0%-100% linear dimming"],
+      ["Optical Material", "Large angle receiving lens + threaded condenser lens"],
+      ["Optical Angle", "15°-50° manual focusing"],
+      ["Protection Level", "IP20"],
+      ["Control Mode", "Standard DMX512 signal, self-propelled, master-slave"],
+      ["Number of Channels", "2 (monochrome) / 4 (dual color) / 9 (four-color) DMX channels"],
+      ["Product Size", "45.5×29×22cm (L×W×H)"],
+      ["Net Weight", "7.1kg"]
+    ]
   }
 ]
