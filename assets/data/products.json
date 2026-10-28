@@ -4827,5 +4827,33 @@
       ["Dimension", "314mm×147mm×75mm"],
       ["Net Weight", "1.5kg"]
     ]
+  },
+  {
+    "model": "YX-CL1327",
+    "name": "4-Way DMX Distributor (DMX512 Splitter, 2 Inputs)",
+    "img": "assets/img/products/yx-cl1327.jpg",
+    "images": [
+      "assets/img/products/yx-cl1327-1.jpg",
+      "assets/img/products/yx-cl1327-2.jpg"
+    ],
+    "category": "DMX Console",
+    "subcategory": "",
+    "application": "Stage, club, tour, architectural and event lighting setups needing to distribute one DMX512 signal to four independent outputs with two inputs and wide voltage operation.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "DMX512/1990 standard, four-way DMX distributor with two inputs",
+      "Standard XLR Pin3 input/output, option XLR Pin5 up to order",
+      "Wide input voltage AC90V~256V 50/60Hz",
+      "Compact size with CE and RoHS certification"
+    ],
+    "specs": [
+      ["Model", "YX-CL1327"],
+      ["Standard", "DMX512/1990 standard"],
+      ["Input/Output", "Standard XLR Pin3, option XLR Pin5 up to order"],
+      ["Output", "Four-way DMX distributor with two inputs"],
+      ["Input Voltage", "AC90V~256V, 50/60Hz"],
+      ["Dimension", "217mm×124mm×48mm"],
+      ["Net Weight", "0.9kg (AC cable not included)"]
+    ]
   }
 ]
