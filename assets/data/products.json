@@ -5009,5 +5009,46 @@
       ["Music Trigger", "Audio line input or built-in microphone pickup"],
       ["Operation", "Easy to learn and use, higher operational efficiency, shutdown data retention"]
     ]
+  },
+  {
+    "model": "YX-TL02",
+    "name": "Tiger Console 2nd Gen (12-Way, Titan OS, 15.6\" Touch Screen)",
+    "img": "assets/img/products/yx-tl02.jpg",
+    "images": [],
+    "category": "DMX Console",
+    "subcategory": "",
+    "application": "Large-scale stage, concert, theater, touring and event lighting productions needing a powerful Titan OS-based tiger console with touch screen, high DMX channel capacity and Artnet networking.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "Powerful Titan operating system, built-in versions 9.1/10.0/10.1",
+      "Core i5 dual-core processor, 120G SSD, 4G RAM",
+      "Built-in 15.6-inch touch screen, extendable to 17-inch",
+      "Built-in backup power supply (UPS) prevents sudden power failure damage",
+      "Standard 6 or 12 DMX output ports, 4096 or 6144 DMX channels, expandable to 64 DMX outputs and 32768 DMX channels",
+      "Supports Artnet networking, iPhone/iPad remote control",
+      "Thousands of built-in light libraries, Visualiser stage simulation software",
+      "10 macro keys, 10 replay faders supporting 1000 virtual replays"
+    ],
+    "specs": [
+      ["Model", "YX-TL02"],
+      ["Operating System", "Powerful Titan operating system, system built-in 9.1/10.0/10.1 three versions"],
+      ["Processor", "Core i5 dual-core processor, 120G SSD, 4G RAM"],
+      ["Language", "Support Chinese menu display, built-in multi-language"],
+      ["Remote Control", "Support iPhone or iPad remote control console"],
+      ["Display", "Built-in 15.6-inch touch screen, can be extended to 17-inch touch screen"],
+      ["Backup Power", "Built-in backup power supply (UPS) prevents sudden power failure from damaging system, usable for more than an hour, extendable to 1-5 hours"],
+      ["DMX Output", "Standard 6 or 12 DMX output ports and two MIDI interfaces, 4096 or 6144 DMX channels, expandable to 64 DMX outputs and 32768 DMX channels"],
+      ["DMX Socket", "Original Swiss Neutrik socket, standard 3XLR socket, 5XLR socket optional"],
+      ["Artnet", "Support Artnet, expandable up to 64 DMX output ports through network, 32768 channels"],
+      ["Macro Keys", "10 macro keys to edit any program"],
+      ["Replay Faders", "10 replay faders supporting 1000 virtual replays"],
+      ["Color Palette", "Powerful CMY palette function"],
+      ["Naming", "Support graffiti-style handwriting naming function"],
+      ["CITP", "Support CITP protocol, can preview built-in material of server or digital light"],
+      ["Light Library", "Built-in thousands of light libraries, built-in light library editing software"],
+      ["Visualiser", "Built-in Visualiser visual stage simulation software, support video"],
+      ["MIDI", "Provides MIDI timecode control by MIDI remote playback buttons or faders"],
+      ["Generator", "Built-in pixmap and built-in graphics generator"]
+    ]
   }
 ]
