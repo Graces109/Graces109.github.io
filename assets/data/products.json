@@ -11891,5 +11891,93 @@
         "Stage lighting, control panel, sound system, Raya shed, etc., suitable for outdoor performance use"
       ]
     ]
+  },
+  {
+    "model": "YX-MHL740",
+    "name": "7x40W LED Wash + 10W Laser Moving Head Light (RGB Laser)",
+    "img": "assets/img/products/yx-mhl740.jpg",
+    "images": [
+      "assets/img/products/yx-mhl740-1.jpg",
+      "assets/img/products/yx-mhl740-2.jpg",
+      "assets/img/products/yx-mhl740-3.jpg",
+      "assets/img/products/yx-mhl740-4.jpg",
+      "assets/img/products/yx-mhl740-5.jpg",
+      "assets/img/products/yx-mhl740-6.jpg",
+      "assets/img/products/yx-mhl740-7.jpg",
+      "assets/img/products/yx-mhl740-8.jpg"
+    ],
+    "category": "LED Laser Light",
+    "subcategory": "Laser Moving Head Light",
+    "application": "Combining LED wash and laser effects for stage performances, concerts, events and installations, with dyeing, beam and animated laser output.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "7x40W 4-in-1 LED wash + RGB full-color laser moving head",
+      "Front mirror disc rotates infinitely, light beads controlled by single point",
+      "Animated laser outputs effects such as points, lines and surfaces",
+      "Effect modes: dyeing, beam, vortex, kaleidoscope, animated laser",
+      "DMX512, voice control and self-propelled control"
+    ],
+    "specs": [
+      [
+        "Model",
+        "YX-MHL740"
+      ],
+      [
+        "Voltage",
+        "AC100-240V, 50-60Hz"
+      ],
+      [
+        "Power",
+        "450W"
+      ],
+      [
+        "Light Source",
+        "7x40W 4-in-1 LED brightness"
+      ],
+      [
+        "Laser Source",
+        "8W RGB full-color laser"
+      ],
+      [
+        "Lamp Bead Lifespan",
+        "50000 hours"
+      ],
+      [
+        "Display",
+        "Color screen"
+      ],
+      [
+        "Spot Angle",
+        "4.5° ~ 45°"
+      ],
+      [
+        "Control Method",
+        "DMX512, voice control, self-propelled"
+      ],
+      [
+        "Function Effect",
+        "Dyeing, beam, effect modes (vortex, kaleidoscope), animated laser effects"
+      ],
+      [
+        "Features",
+        "The front mirror disc can rotate infinitely, the light bead can be controlled by a single point, and the animated laser can output laser effects such as points, lines and surfaces"
+      ],
+      [
+        "Body Size",
+        "29 × 20.5 × 40cm"
+      ],
+      [
+        "Weight",
+        "9.4kg"
+      ],
+      [
+        "Packing Size",
+        "48 × 28 × 40cm"
+      ],
+      [
+        "Packing Weight",
+        "10.5KG"
+      ]
+    ]
   }
 ]
