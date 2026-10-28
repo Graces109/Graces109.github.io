@@ -4704,5 +4704,61 @@
       ["1 Pack of 2 Cardboard Boxes Size", "55×35×37cm, gross weight 9.5kg"],
       ["1 Pack of 4 Cardboard Boxes Size", "71×55×40cm, gross weight 19kg"]
     ]
+  },
+  {
+    "model": "YX-TA300",
+    "name": "300W LED Flat Studio Light (1820 SMD LEDs, High CRI, DMX512)",
+    "img": "assets/img/products/yx-ta300.jpg",
+    "images": [
+      "assets/img/products/yx-ta300-1.jpg",
+      "assets/img/products/yx-ta300-2.jpg",
+      "assets/img/products/yx-ta300-3.jpg",
+      "assets/img/products/yx-ta300-4.jpg",
+      "assets/img/products/yx-ta300-5.jpg",
+      "assets/img/products/yx-ta300-6.jpg",
+      "assets/img/products/yx-ta300-7.jpg",
+      "assets/img/products/yx-ta300-8.jpg"
+    ],
+    "category": "LED Movies Light",
+    "subcategory": "",
+    "application": "Photography, studios, television interviews, conferences and video shooting needing a flicker-free, high color rendering LED flat/panel studio light with adjustable color temperature, RDM/DMX512 control and high illumination output.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "1820 SMD2835 LED lamp beads, single 0.5W",
+      "Flicker-free, camera-friendly, adjustable color temperature",
+      "Color rendering ≥97, TLCI ≥95, TM-30-18 verified (Rf up to 96)",
+      "High efficiency 350W PFC 93% power supply",
+      "Natural heat dissipation 270W, forced air cooling 450W, can splice 1200W light curtains",
+      "0-100% continuously adjustable dimming",
+      "DMX512 and RDM protocol, 2.2 inch color LCD display",
+      "50000 hours LED expected lifespan, IP20"
+    ],
+    "specs": [
+      ["Model", "YX-TA300"],
+      ["Input Voltage", "AC110V-220V 1.2A, output DC44V 6.8A"],
+      ["Power Supply", "High efficiency 350W PFC 93%"],
+      ["Heat Dissipation", "Maximum natural heat dissipation 270W, forced air cooling 450W, splicing of 1200W light curtains possible"],
+      ["Lamp Beads", "SMD2835, single 0.5W, quantity 1820"],
+      ["Color Temperature", "5600K / available in two colors"],
+      ["Color Rendering", "≥97, TLCI ≥95"],
+      ["TM-30-18 Data", "3200K Rf=96 Rg=102, 4200K Rf=95 Rg=103, 5600K Rf=95 Rg=103"],
+      ["Luminous Surface", "524×310mm"],
+      ["3200K Illumination", "1m 5700LUX, 2m 1750LUX, 3m 850LUX, 4m 529LUX, 5m 347LUX, 6m 250LUX, 7m 198LUX, 8m 149LUX"],
+      ["4200K Illumination", "1m 5000LUX, 2m 1900LUX, 3m 930LUX, 4m 570LUX, 5m 360LUX, 6m 277LUX, 7m 209LUX, 8m 152LUX"],
+      ["5600K Illumination", "1m 7660LUX, 2m 2390LUX, 3m 1170LUX, 4m 690LUX, 5m 440LUX, 6m 330LUX, 7m 248LUX, 8m 187LUX"],
+      ["Optical System", "PC grade soft light panel with anti-yellowing treatment"],
+      ["Cooling System", "Longitudinal heat sink, thermal conductivity layer on surface of aviation aluminum profile"],
+      ["Light Angle", "120°"],
+      ["Dimming", "0-100% continuously adjustable"],
+      ["Control Protocol", "DMX512 protocol, RDM protocol"],
+      ["Channel", "Monochrome 1CH, dual color 2CH, 4CH, 6CH"],
+      ["Operation", "2.2 inch color LCD display screen"],
+      ["Timing Function", "Real time display of the working time of the light source"],
+      ["Working Environment Temperature", "-20~45°C"],
+      ["Protection Level", "IP20"],
+      ["LED Expected Lifespan", "50000 hours"],
+      ["Lamp Body Weight", "15kg"],
+      ["Lamp Body Size", "L535×W330×H91mm"]
+    ]
   }
 ]
