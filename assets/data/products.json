@@ -3054,5 +3054,45 @@
       ["Features", "RGBW mixing capability, 16 modules individually controllable lamp beads, multiple lamps for seamless splicing, high-speed strobe effect, 0-100% smooth linear dimming"],
       ["Software", "Supports DMX control, RDM control, software can be upgraded through DMX signal line"]
     ]
+  },
+  {
+    "model": "YX-MH6AXYZ",
+    "name": "6-Eye RGB XYZ Moving Head Laser Light",
+    "img": "assets/img/products/yx-mh6axyz.jpg",
+    "images": [
+      "assets/img/products/yx-mh6axyz-1.jpg",
+      "assets/img/products/yx-mh6axyz-2.jpg",
+      "assets/img/products/yx-mh6axyz-3.jpg",
+      "assets/img/products/yx-mh6axyz-4.jpg",
+      "assets/img/products/yx-mh6axyz-5.jpg",
+      "assets/img/products/yx-mh6axyz-6.jpg",
+      "assets/img/products/yx-mh6axyz-7.jpg",
+      "assets/img/products/yx-mh6axyz-8.jpg",
+      "assets/img/products/yx-mh6axyz-9.jpg"
+    ],
+    "category": "LED Laser Light",
+    "subcategory": "Laser Moving Head Light",
+    "youtube": "https://youtu.be/9TJ6fGPrqiI",
+    "application": "Concerts, clubs, festivals, parties and shows needing a 6-eye RGB XYZ moving head laser light with 540° pan, 180° tilt and infinite Z rotation.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "6-eye RGB XYZ moving head laser light",
+      "RGB 3-in-1 laser: 500mW × 6pcs",
+      "DMX512 / auto / sound / master-slave",
+      "15/27 CH channel modes",
+      "X-axis 540°, Y-axis 180°, Z infinite rotation",
+      "AC110/220V 50-60Hz, 80W"
+    ],
+    "specs": [
+      ["Model", "YX-MH6AXYZ"],
+      ["Voltage", "AC110/220V, 50-60Hz"],
+      ["Power", "80W"],
+      ["Light", "RGB 3-in-1 laser: 500mW × 6pcs"],
+      ["Control", "DMX512, auto, sound, master-slave"],
+      ["Channel", "15/27CH"],
+      ["X-Axis", "540°"],
+      ["Y-Axis", "180°"],
+      ["Z-Axis", "Infinite rotation"]
+    ]
   }
 ]
