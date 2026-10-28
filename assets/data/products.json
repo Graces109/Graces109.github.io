@@ -4794,5 +4794,38 @@
       ["Dimensions", "250mm×150mm×100mm"],
       ["Net Weight", "1.2kg"]
     ]
+  },
+  {
+    "model": "YX-CL1307A",
+    "name": "8-Way DMX Distributor (DMX512 Splitter, Wide Voltage)",
+    "img": "assets/img/products/yx-cl1307a.jpg",
+    "images": [
+      "assets/img/products/yx-cl1307a-1.jpg",
+      "assets/img/products/yx-cl1307a-2.jpg",
+      "assets/img/products/yx-cl1307a-3.jpg"
+    ],
+    "category": "DMX Console",
+    "subcategory": "",
+    "application": "Stage, club, tour, architectural and event lighting setups needing to distribute one DMX512 signal to eight independent outputs with isolated signal amplification and high voltage protection.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "DMX512/1990 standard, eight-way DMX distributor with one input",
+      "High voltage protection",
+      "Independent input and output signal including earth cable of signal",
+      "Separate signal amplifier system and individual LED light of each channel",
+      "Wide input voltage AC100V-240V 50/60Hz"
+    ],
+    "specs": [
+      ["Model", "YX-CL1307A"],
+      ["Standard", "DMX512/1990 standard"],
+      ["Output", "Eight-way DMX distributor with one input"],
+      ["Protection", "High voltage protection"],
+      ["Signal", "Independent input and output signal (include earth cable of signal)"],
+      ["Input/Output", "XLR Pin3 plug"],
+      ["Amplification", "Separate signal amplifier system and individual LED light of each channel"],
+      ["Input Voltage", "AC100V-240V, 50/60Hz"],
+      ["Dimension", "314mm×147mm×75mm"],
+      ["Net Weight", "1.5kg"]
+    ]
   }
 ]
