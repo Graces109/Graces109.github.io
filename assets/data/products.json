@@ -4468,5 +4468,56 @@
       ["Product Size", "45.5×29×22cm (L×W×H)"],
       ["Net Weight", "7.1kg"]
     ]
+  },
+  {
+    "model": "YX-FP200W",
+    "name": "200W Profile Stage Light (LED Imaging Light, DMX512)",
+    "img": "assets/img/products/yx-fp200w.jpg",
+    "images": [
+      "assets/img/products/yx-fp200w-1.jpg",
+      "assets/img/products/yx-fp200w-2.jpg",
+      "assets/img/products/yx-fp200w-3.jpg",
+      "assets/img/products/yx-fp200w-4.jpg",
+      "assets/img/products/yx-fp200w-5.jpg",
+      "assets/img/products/yx-fp200w-6.jpg",
+      "assets/img/products/yx-fp200w-7.jpg",
+      "assets/img/products/yx-fp200w-8.jpg",
+      "assets/img/products/yx-fp200w-9.jpg",
+      "assets/img/products/yx-fp200w-10.jpg",
+      "assets/img/products/yx-fp200w-11.jpg"
+    ],
+    "category": "LED Movies Light",
+    "subcategory": "",
+    "youtube": "https://youtu.be/YQahxgDcDkk",
+    "application": "Theaters, studios, stages, conference rooms and video shooting needing a 200W profile/imaging stage light with soft light, focus light and cut light functions and DMX512 control.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "150W COB light source, 200W rated power",
+      "Color temperature 3200K/5600K optional, 2-in-1",
+      "Color rendering index (CRI) ≥95",
+      "Optical angles 19°/26°/36° optional",
+      "Soft light, focus light and cut light functions",
+      "0-100% linear dimming, 50000 hours lamp bead lifespan",
+      "Standard DMX512, self-propelled and master-slave control",
+      "Low-configuration cost-effective version"
+    ],
+    "specs": [
+      ["Model", "YX-FP200W"],
+      ["Input Voltage", "AC100-240V, 50/60Hz"],
+      ["Rated Power", "200W"],
+      ["Light Source", "150W COB"],
+      ["Color Temperature", "3200K/5600K optional, 2-in-1"],
+      ["Color Rendering Index", "≥95"],
+      ["Lamp Bead Lifespan", "50000 hours"],
+      ["Dimming", "0%-100% linear dimming"],
+      ["Optical Material", "Optical lens"],
+      ["Optical Angles", "19°, 26°, 36° optional"],
+      ["Function Effects", "Soft light, focus light, cut light"],
+      ["Protection Level", "IP20"],
+      ["Control Mode", "Standard DMX512 signal, self-propelled, master-slave"],
+      ["Number of Channels", "2 (monochrome) / 4 (dual color) DMX channels"],
+      ["Product Size", "35×27×65cm (L×W×H)"],
+      ["Net Weight", "7kg"]
+    ]
   }
 ]
