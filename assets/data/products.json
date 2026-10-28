@@ -11662,5 +11662,59 @@
         "3 × 1mm"
       ]
     ]
+  },
+  {
+    "model": "YX-Cable10",
+    "name": "5ft 3-Pin PowerCon DMX Combo Cable (PVC, Copper)",
+    "img": "assets/img/products/yx-cable10.jpg",
+    "images": [
+      "assets/img/products/yx-cable10-1.jpg",
+      "assets/img/products/yx-cable10-2.jpg",
+      "assets/img/products/yx-cable10-3.jpg"
+    ],
+    "category": "Accessories",
+    "subcategory": "",
+    "application": "Combined power and DMX control cable for stage lighting fixtures, carrying both PowerCon power and XLR DMX signals in one 5ft run.",
+    "quantity": "1 pc / carton",
+    "highlights": [
+      "5ft 3-pin PowerCon DMX combo cable",
+      "PVC insulation, copper conductors",
+      "For powerCON & DMX cables",
+      "Connector A: XLR, connector B: powerCON"
+    ],
+    "specs": [
+      [
+        "Model",
+        "YX-Cable10"
+      ],
+      [
+        "Insulation Material",
+        "PVC"
+      ],
+      [
+        "Conductor Material",
+        "Copper"
+      ],
+      [
+        "Application",
+        "PowerCON & DMX cables"
+      ],
+      [
+        "Connector Type",
+        "XLR"
+      ],
+      [
+        "Length",
+        "5ft"
+      ],
+      [
+        "Connector A",
+        "XLR"
+      ],
+      [
+        "Connector B",
+        "PowerCON"
+      ]
+    ]
   }
 ]
