@@ -2813,11 +2813,12 @@
     "name": "Mini 6-Eye Retro Stage Effect Light",
     "img": "assets/img/products/yx-rt614.jpg",
     "images": [
-      "assets/img/products/yx-rt614-1.jpg",
+      "assets/img/products/yx-rt614.jpg",
       "assets/img/products/yx-rt614-2.jpg",
       "assets/img/products/yx-rt614-3.jpg",
       "assets/img/products/yx-rt614-4.jpg",
-      "assets/img/products/yx-rt614-5.jpg"
+      "assets/img/products/yx-rt614-5.jpg",
+      "assets/img/products/yx-rt614-1.jpg"
     ],
     "category": "LED Effect Light",
     "subcategory": "LED Retro Light",
